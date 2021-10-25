@@ -308,8 +308,6 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/50169
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/50167
 #EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-canale-5-png-4.png"  group-title="Italiane",Canale 5
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/50168
-#EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX FULL HD" tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="Italiane",FOX HD
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/83829
 #EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Logo_Iris.svg/800px-Logo_Iris.svg.png" group-title="Italiane",Iris
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80451
 #EXTINF:-1 tvg-ID="RSILA1.it" tvg-name="Rsi La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RSI_La_1.svg/500px-RSI_La_1.svg.png" group-title="Italiane",RSI LA 1 
@@ -436,6 +434,8 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80503
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/8277
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/800px-Nove_-_Logo_2017.svg.png" group-title="Dokumentare",NOVE 
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80500
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX FULL HD" tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="Dokumentare",FOX HD
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/83829
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="GIALLO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Giallohd.png/800px-Giallohd.png" group-title="Dokumentare",GIALLO HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80505
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="cielo" tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="Dokumentare",Cielo
