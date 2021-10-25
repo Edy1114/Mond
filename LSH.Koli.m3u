@@ -145,8 +145,8 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/3582
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/3581
 #EXTINF:-1 tvg-id="AL Sky Drame" tvg-name="Sky Drame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Shqiptare",Sky Drame
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/3578
-
-
+#EXTINF:-1 tvg-id="AL Sky Novela" tvg-name="Sky Novela Al" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Shqiptare",Sky Comedy
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/357
 
 #EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 1 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One 1
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/42913
@@ -270,8 +270,7 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/210
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29844
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Shqiptare",Boomerang AL
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29843
-#EXTINF:-1 tvg-id="X KIDS" tvg-name="X KIDS" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",X KIDS
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29849
+
 
 
 
@@ -279,8 +278,7 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29849
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2158
 #EXTINF:-1 tvg-id="Family HD" tvg-name="Film Family" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="Shqiptare",Film Family HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2104
-#EXTINF:-1 tvg-id="AL Sky Comedy" tvg-name="Sky Comedy" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png"  group-title="Shqiptare",Sky Comedy
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/3576
+
 
 
 
