@@ -75,6 +75,8 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2129
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/1052
 #EXTINF:-1 tvg-id="Muse" tvg-name="Muse" tvg-logo="http://www.albepg.com/tvlogi/Muse.png"  group-title="Shqiptare",Tring Muse
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2117
+#EXTINF:-1 tvg-id="Tring International" tvg-name="Tring International" tvg-logo="http://www.albepg.com/tvlogi/Tring%20International.png"  group-title="Shqiptare",Tring International
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29832
 
 #EXTINF:-1 tvg-id="Art Kino 1" tvg-name="ART Kino 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%201.png" group-title="Shqiptare",ART Kino 1 
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29836
@@ -476,19 +478,15 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/215
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2157
 #EXTINF:-1 tvg-id="Living HD" tvg-name="Living HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png"  group-title="Dokumentare",Tring Living
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29791
-#EXTINF:-1 tvg-id="Tring International" tvg-name="Tring International" tvg-logo="http://www.albepg.com/tvlogi/Tring%20International.png"  group-title="Dokumentare",Tring International
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29832
+#EXTINF:-1 tvg-id="Art Doku 1" tvg-name="Art Doku 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%201.png"  group-title="Dokumentare",ART Doku 1 
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29838
+#EXTINF:-1 tvg-id="Art Doku 2" tvg-name="Art Doku 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%202.png"  group-title="Dokumentare",ART Doku 2 
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29837
 
 #EXTINF:-1 tvg-id="X Natyra" tvg-name="X Natyra" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBObVIDFrglYFArPEzM7_7xXjjVyV4X0y19T0kVM5mHE4ofrOkrw&s" group-title="Dokumentare",X Natyra
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29841
 #EXTINF:-1 tvg-id="X Histori HD" tvg-name="X Histori HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1280px-History_HD_Logo.svg.png" group-title="Dokumentare",X Histori
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29842
-#EXTINF:-1 tvg-id="X Shkenca HD" tvg-name="X Shkenca HD" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png" group-title="Dokumentare",X Shkenca
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/21696
-#EXTINF:-1 tvg-id="Art Doku 1" tvg-name="Art Doku 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%201.png"  group-title="Dokumentare",ART Doku 1 
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29838
-#EXTINF:-1 tvg-id="Art Doku 2" tvg-name="Art Doku 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%202.png"  group-title="Dokumentare",ART Doku 2 
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29837
 #EXTINF:-1 tvg-ID="" tvg-name="Galaxy HD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Dokumentar.png" group-title="Dokumentare",Galaxy HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/3580
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Gjurme Shqiptare HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Dokumentare",8ova Gjurme Shqiptare HD
