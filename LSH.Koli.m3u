@@ -454,13 +454,12 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/35235
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80511
 #EXTINF:-1 tvg-id="NationalGeographic.it" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/800px-National_Geographic_Channel.svg.png"  group-title="Dokumentare",National Geographic 
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80482
-#EXTINF:-1 tvg-id="DiscoveryFood .it" tvg-name="Discovery Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png"  group-title="Dokumentare",Discovery Food Network
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80476
 #EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/640px-Discovery_Science_2017_Logo.svg.png" group-title="Dokumentare",Discovery Science
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80512
 #EXTINF:-1 tvg-id="Crime & Investigation it" tvg-name="Crime & Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png"  group-title="Dokumentare",Crime & Investigation
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/83825
-
+#EXTINF:-1 tvg-id="DiscoveryFood .it" tvg-name="Discovery Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png"  group-title="Dokumentare",Discovery Food Network
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80476
 
 
 
