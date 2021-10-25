@@ -494,7 +494,8 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/3580
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Gjurme Shqiptare HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Dokumentare",8ova Gjurme Shqiptare HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66084
 
-
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX FULL HD" tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="Dokumentare",FOX HD
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80478
 #EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png" group-title="Dokumentare",History
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/1001
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX FHD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="Dokumentare",DMAX 
