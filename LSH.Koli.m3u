@@ -263,29 +263,6 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2104
 
 
 
-#EXTINF:-1 tvg-id="BangBang.al" tvg-name="Bang Bang AL" tvg-logo="http://www.albepg.com/tvlogi/Bang%20Bang.png" group-title="Femije",Bang Bang 
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/1081
-#EXTINF:-1 tvg-id="Cufo.al" tvg-name="Cufo TV AL" tvg-logo="http://www.albepg.com/tvlogi/Cufo%20TV.png"  group-title="Femije",Cufo
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2160
-#EXTINF:-1 tvg-id="Tring Kids" tvg-name="Tring Kids" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png"  group-title="Femije",Tring Kids
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29851
-#EXTINF:-1 tvg-id="Tring Tring" tvg-name="Tring Tring" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Tring.png"  group-title="Femije",Tring Tring
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/210
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://www.albepg.com/tvlogi/Baby%20TV.png"  group-title="Femije",Baby TV
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29844
-#EXTINF:-1 tvg-id="RTSH Femije AL" tvg-name="RTSH Femije AL" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Femije.png" group-title="Femije",RTSH Femije
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29850
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 ANIMUAR FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Femije",Filma 24 Animuar
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/82687
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="Rai 1 HD" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1
@@ -1396,3 +1373,20 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/7336
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/9592
 #EXTINF:-1 tvg-ID="beinsportsmax2.tr" tvg-name="Bein Sport MAX 2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BeIN Sport",TR: Bein Sport MAX 2HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/9591
+
+
+
+#EXTINF:-1 tvg-id="BangBang.al" tvg-name="Bang Bang AL" tvg-logo="http://www.albepg.com/tvlogi/Bang%20Bang.png" group-title="Femije",Bang Bang 
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/1081
+#EXTINF:-1 tvg-id="Cufo.al" tvg-name="Cufo TV AL" tvg-logo="http://www.albepg.com/tvlogi/Cufo%20TV.png"  group-title="Femije",Cufo
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2160
+#EXTINF:-1 tvg-id="Tring Kids" tvg-name="Tring Kids" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png"  group-title="Femije",Tring Kids
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29851
+#EXTINF:-1 tvg-id="Tring Tring" tvg-name="Tring Tring" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Tring.png"  group-title="Femije",Tring Tring
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/210
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://www.albepg.com/tvlogi/Baby%20TV.png"  group-title="Femije",Baby TV
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29844
+#EXTINF:-1 tvg-id="RTSH Femije AL" tvg-name="RTSH Femije AL" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Femije.png" group-title="Femije",RTSH Femije
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29850
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 ANIMUAR FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Femije",Filma 24 Animuar
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/82687
