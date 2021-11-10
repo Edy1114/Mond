@@ -9,9 +9,9 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/85405
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/15661
 #EXTINF:-1 tvg-id="Klan Plus" tvg-name="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png"  group-title="Shqiptare",Klan Plus
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29897
-#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News AL" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News
+#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/26563
-#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24 AL" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/26562
 #EXTINF:-1 tvg-id="Vizion Plus" tvg-name="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/1051
@@ -23,7 +23,7 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/26567
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2106
 #EXTINF:-1 tvg-id="Top News" tvg-name="Top News" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/26561
-#EXTINF:-1 tvg-id="MyMusic.al" tvg-name="My Music AL" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
+#EXTINF:-1 tvg-id="MyMusic.al" tvg-name="My Music" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2107
 
 
@@ -31,21 +31,21 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2107
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/236
 #EXTINF:-1 tvg-id="Film Dy HD" tvg-name="Film Dy HD AL" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png"  group-title="Shqiptare",Film Dy
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/239
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion AL" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png"  group-title="Shqiptare",Film Aksion
+#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png"  group-title="Shqiptare",Film Aksion
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/242
-#EXTINF:-1 tvg-id="FilmKomedi.al" tvg-name="Film Komedi AL" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png"  group-title="Shqiptare",Film Komedi
+#EXTINF:-1 tvg-id="FilmKomedi.al" tvg-name="Film Komedi" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png"  group-title="Shqiptare",Film Komedi
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/237
-#EXTINF:-1 tvg-id="Film Autor" tvg-name="Film Autor AL" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png"  group-title="Shqiptare",Film Autor
+#EXTINF:-1 tvg-id="Film Autor" tvg-name="Film Autor" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png"  group-title="Shqiptare",Film Autor
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/241
-#EXTINF:-1 tvg-id="FilmHits.al" tvg-name="Film Hits AL" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Shqiptare",Film Hits  
+#EXTINF:-1 tvg-id="FilmHits.al" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Shqiptare",Film Hits  
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/238
-#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller AL" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png"  group-title="Shqiptare",Film Thriller
+#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png"  group-title="Shqiptare",Film Thriller
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/234
-#EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="Film Drame AL" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png"  group-title="Shqiptare",Film Drame 
+#EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="Film Dramë" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png"  group-title="Shqiptare",Film Drame 
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/240
-#EXTINF:-1 tvg-id="FamilyHD.al" tvg-name="Film Family AL" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="Shqiptare",Film Family
+#EXTINF:-1 tvg-id="FamilyHD.al" tvg-name="Family HD" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="Shqiptare",Film Family
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29818
-#EXTINF:-1 tvg-id="T.al" tvg-name="T HD" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png"  group-title="Shqiptare",T HD
+#EXTINF:-1 tvg-id="T.al" tvg-name="T" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png"  group-title="Shqiptare",T HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/1074
 #EXTINF:-1 tvg-id="EUROFILM" tvg-name="Euro Film" tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png"  group-title="Shqiptare",Euro Film
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/20978
@@ -453,11 +453,11 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80476
 
 
 
-#EXTINF:-1 tvg-id="ExplorerShkence.al" tvg-name="Exp Shkence AL" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png"  group-title="Dokumentare",Explorer Shkence
+#EXTINF:-1 tvg-id="ExplorerShkence.al" tvg-name="Explorer Shkencë" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png"  group-title="Dokumentare",Explorer Shkence
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/243
-#EXTINF:-1 tvg-id="EExplorerHistori.al" tvg-name="Exp Histori AL" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png"  group-title="Dokumentare",Explorer Histori 
+#EXTINF:-1 tvg-id="EExplorerHistori.al" tvg-name="Explorer Histori" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png"  group-title="Dokumentare",Explorer Histori 
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/245
-#EXTINF:-1 tvg-id="ExplorerNatyra.al" tvg-name="Exp Natyra AL" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png"  group-title="Dokumentare",Explorer Natyra 
+#EXTINF:-1 tvg-id="ExplorerNatyra.al" tvg-name="Explorer Natyra" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png"  group-title="Dokumentare",Explorer Natyra 
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/244
 #EXTINF:-1 tvg-id="Tring World" tvg-name="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png"  group-title="Dokumentare",Tring World 
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/209
@@ -511,15 +511,15 @@ http://95.107.132.106/out/u/713_1.m3u8
 
 #EXTINF:-1 tvg-id="SuperSport News" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/224
-#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="Super Sport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/223
-#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="Super Sport 3" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="Sport ALB-ITA",Super Sport 3
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="Sport ALB-ITA",Super Sport 3
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/222
-#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="Super Sport 4" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png"  group-title="Sport ALB-ITA",Super Sport 4
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png"  group-title="Sport ALB-ITA",Super Sport 4
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/221
-#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="Super Sport 5" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png"  group-title="Sport ALB-ITA",Super Sport 5
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png"  group-title="Sport ALB-ITA",Super Sport 5
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/19809
-#EXTINF:-1 tvg-id="SuperSport6.al" tvg-name="Super Sport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6
+#EXTINF:-1 tvg-id="SuperSport6.al" tvg-name="SuperSport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/19810
 
 
@@ -539,15 +539,15 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2153
 
 #EXTINF:-1 tvg-id="SuperSport News" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80227
-#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="Super Sport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2 HD
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2 HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80228
-#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="Super Sport 3" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="Sport ALB-ITA",Super Sport 3 HD
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="SuperSport 3" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="Sport ALB-ITA",Super Sport 3 HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80229
-#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="Super Sport 4" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png"  group-title="Sport ALB-ITA",Super Sport 4 HD
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="SuperSport 4" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png"  group-title="Sport ALB-ITA",Super Sport 4 HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80230
-#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="Super Sport 5" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png"  group-title="Sport ALB-ITA",Super Sport 5 HD
+#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="SuperSport 5" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png"  group-title="Sport ALB-ITA",Super Sport 5 HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80232
-#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="Super Sport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6 HD
+#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="SuperSport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6 HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80233
 
 
@@ -572,7 +572,7 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2112
 
 #EXTINF:-1 tvg-ID="SS Kosova" tvg-name="Sport Kosova News" tvg-logo="http://www.albepg.com/tvlogi/SS%20Kosova%201.png" group-title="Sport ALB-ITA",Sport Kosova News HD 
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/226
-#EXTINF:-1 tvg-ID="SS Kosova 2" tvg-name="Sport Kosova 2" tvg-logo="http://www.albepg.com/tvlogi/SS%20Kosova%202.png" group-title="Sport ALB-ITA",Sport Kosova 2
+#EXTINF:-1 tvg-ID="SS Kosova 2" tvg-name="SportKosova 2" tvg-logo="http://www.albepg.com/tvlogi/SS%20Kosova%202.png" group-title="Sport ALB-ITA",Sport Kosova 2
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/225
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Fight Box" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Sport ALB-ITA",Fight Box
@@ -1359,15 +1359,15 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/9591
 
 
 
-#EXTINF:-1 tvg-id="BangBang.al" tvg-name="Bang Bang AL" tvg-logo="http://www.albepg.com/tvlogi/Bang%20Bang.png" group-title="Femije",Bang Bang 
+#EXTINF:-1 tvg-id="BangBang.al" tvg-name="Bang Bang" tvg-logo="http://www.albepg.com/tvlogi/Bang%20Bang.png" group-title="Femije",Bang Bang 
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/1081
-#EXTINF:-1 tvg-id="Cufo.al" tvg-name="Cufo TV AL" tvg-logo="http://www.albepg.com/tvlogi/Cufo%20TV.png"  group-title="Femije",Cufo
+#EXTINF:-1 tvg-id="Cufo.al" tvg-name="Çufo" tvg-logo="http://www.albepg.com/tvlogi/Cufo%20TV.png"  group-title="Femije",Cufo
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2160
 #EXTINF:-1 tvg-id="Tring Kids" tvg-name="Tring Kids" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png"  group-title="Femije",Tring Kids
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29851
 #EXTINF:-1 tvg-id="Tring Tring" tvg-name="Tring Tring" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Tring.png"  group-title="Femije",Tring Tring
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/210
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://www.albepg.com/tvlogi/Baby%20TV.png"  group-title="Femije",Baby TV
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV Europe" tvg-logo="http://www.albepg.com/tvlogi/Baby%20TV.png"  group-title="Femije",Baby TV
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29844
 #EXTINF:-1 tvg-id="RTSH Femije AL" tvg-name="RTSH Femije AL" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Femije.png" group-title="Femije",RTSH Femije
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29850
