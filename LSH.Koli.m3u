@@ -87,14 +87,6 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29835
 #EXTINF:-1 tvg-id="Art Kino 3" tvg-name="ART Kino 3" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%203.png" group-title="Shqiptare",ART Kino 3
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29834
 
-#EXTINF:-1 tvg-id="X Premium 1 HD" tvg-name="X Premium 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%201%20HD.png" group-title="Shqiptare",X Premium 1
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/232
-#EXTINF:-1 tvg-id="X Premium 2 HD" tvg-name="X Premium 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%202%20HD.png" group-title="Shqiptare",X Premium 2
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/21700
-#EXTINF:-1 tvg-id="X Premium 3 HD" tvg-name="X Premium 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%203%20HD.png" group-title="Shqiptare",X Premium 3
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/21699
-#EXTINF:-1 tvg-id="X Premium 4 HD" tvg-name="X Premium 4 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%204%20HD.png" group-title="Shqiptare",X Premium 4
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/21698
 
 #EXTINF:-1 tvg-ID="X GOLD 1" tvg-name="X GOLD 1" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%201.png" group-title="Shqiptare",X GOLD 1
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/29813
@@ -178,24 +170,6 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66141
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66138
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Action HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",8ova Action HD
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66080
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Drame HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",8ova Drame HD
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66082
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Komedi HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",8ova Komedi HD
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66088
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Thriller HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",8ova Thriller HD
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66091
-
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 ACTION FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Action
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/82673
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 THRILLER FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Thriller
@@ -229,6 +203,27 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/82676
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66109
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Kinema Aksion MAX" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Kinema Aksion MAX
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66110
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Action HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",8ova Action HD
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66080
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Drame HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",8ova Drame HD
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66082
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Komedi HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",8ova Komedi HD
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66088
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Thriller HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",8ova Thriller HD
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/66091
+
+
+
+#EXTINF:-1 tvg-id="X Premium 1 HD" tvg-name="X Premium 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%201%20HD.png" group-title="Shqiptare",X Premium 1
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/232
+#EXTINF:-1 tvg-id="X Premium 2 HD" tvg-name="X Premium 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%202%20HD.png" group-title="Shqiptare",X Premium 2
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/21700
+#EXTINF:-1 tvg-id="X Premium 3 HD" tvg-name="X Premium 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%203%20HD.png" group-title="Shqiptare",X Premium 3
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/21699
+#EXTINF:-1 tvg-id="X Premium 4 HD" tvg-name="X Premium 4 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%204%20HD.png" group-title="Shqiptare",X Premium 4
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/21698
+
 
 #EXTINF:-1 tvg-ID="X GOLD 1" tvg-name="X GOLD 1" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%201.png" group-title="Shqiptare",X GOLD 1
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/2151
