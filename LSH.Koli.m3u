@@ -572,7 +572,7 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80488
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Uno
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80519
 #EXTINF:-1 tvg-id="Sky Calcio 1" tvg-name="SKY Calcio 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/800px-Sky_Calcio_-_Logo_2015.svg.png" group-title="Sport ALB-ITA",Sky Sport Calcio
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80548
+http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/83802
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Football
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80520
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Uno
@@ -585,8 +585,6 @@ http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/18679
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80521
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1200px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport MOTO GP HD
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80532
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sport Italia SoloCalcio" tvg-logo="https://www.calcioefinanza.it/wp-content/uploads/2016/07/sportitalia-e1522408947655.jpg" group-title="Sport ALB-ITA",Sport Italia SoloCalcio
-http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/45711
 #EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sky_Sport_NBA_-_Logo_2018.svg/1280px-Sky_Sport_NBA_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport NBA
 http://livego.club:8080/fRDcwUCJVJ/sUKXjmb3kq/80518
 #EXTINF:-1 tvg-id="eurosport.it" tvg-name="EUROSPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png" group-title="Sport ALB-ITA",Euro Sport 1 
