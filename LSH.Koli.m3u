@@ -12,11 +12,11 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/29897
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/26563
 #EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/26562
+http://171.22.150.202:2040/live/news24mob/playlist.m3u8
 #EXTINF:-1 tvg-id="Vizion Plus" tvg-name="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/29855
 #EXTINF:-1 tvg-id="Syri TV" tvg-name="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/7925
+http://171.22.150.202:2040/live/syritvmob/playlist.m3u8
 #EXTINF:-1 tvg-id="MCN TV" tvg-name="MCN TV AL" tvg-logo="https://www.mcn.al/sites/default/files/mcn_logo_web.png"  group-title="Shqiptare",MCN TV
 http://185.204.32.4:9981/stream/channelid/729610271
 #EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png"  group-title="Shqiptare",Report TV
@@ -40,7 +40,7 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/237
 #EXTINF:-1 tvg-id="Film Autor" tvg-name="Film Autor" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png"  group-title="Shqiptare",Film Autor
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/241
 #EXTINF:-1 tvg-id="FilmHits.al" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Shqiptare",Film Hits  
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/238
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/2158
 #EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png"  group-title="Shqiptare",Film Thriller
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/234
 #EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="Film Dramë" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png"  group-title="Shqiptare",Film Drame 
@@ -66,7 +66,7 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/218
 #EXTINF:-1 tvg-id="Tring Life" tvg-name="Tring Life" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png"  group-title="Shqiptare",Tring Life
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/217
 #EXTINF:-1 tvg-id="Smile" tvg-name="Tring Smile" tvg-logo="http://www.albepg.com/tvlogi/Smile.png"  group-title="Shqiptare",Tring Smile
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/1075
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/29832 
 #EXTINF:-1 tvg-id="Tring Shqip" tvg-name="Tring Shqip" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png" group-title="Shqiptare",Tring Shqip
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/214
 #EXTINF:-1 tvg-id="Tip TV" tvg-name="Tip TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tip_TV_alb.png" group-title="Shqiptare",Tip TV
@@ -77,8 +77,7 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/2129
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/1052
 #EXTINF:-1 tvg-id="Muse" tvg-name="Muse" tvg-logo="http://www.albepg.com/tvlogi/Muse.png"  group-title="Shqiptare",Tring Muse
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/2117
-#EXTINF:-1 tvg-id="Tring International" tvg-name="Tring International" tvg-logo="http://www.albepg.com/tvlogi/Tring%20International.png"  group-title="Shqiptare",Tring International
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/29832
+
 
 #EXTINF:-1 tvg-id="Art Kino 1" tvg-name="ART Kino 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%201.png" group-title="Shqiptare",ART Kino 1 
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/29836
@@ -162,10 +161,6 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/66133
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/66134
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Drama HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One Drama 
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/66135
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Fantazi HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One Fantazi 
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/66137
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Epic HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One Epic 
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/66141
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One GOLD Collection HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One GOLD Collection
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/66138
 
@@ -253,7 +248,7 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/29892
 
 
 #EXTINF:-1 tvg-id="Film Hits" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Shqiptare",Film Hits HD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/2158
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/238
 #EXTINF:-1 tvg-id="Family HD" tvg-name="Film Family" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="Shqiptare",Film Family HD
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/29818
 
