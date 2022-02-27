@@ -979,6 +979,20 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/31062
 
 
 
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="SPORT TV 1 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 1 FHD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/16056
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="SPORT TV 2 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 2 FHD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/16055
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORT TV 3 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 3 FHD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/16054
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="SPORT TV 4 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 4 FHD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/16053
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="SPORT TV 5 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 5 FHD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/16052
+#EXTINF:-1 tvg-ID="sporttvplus.pt" tvg-name="SPORT TV+FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV+FHD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/16057
+
+
 #EXTINF:-1 tvg-ID="foxsports1.nl" tvg-name="Fox Sports 1" tvg-logo="http://logo.megaott.net/NEDERLAND-OLD/FOXSPORTS.png" group-title="Sport MIX",NL: Fox Sports 1
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/482
 #EXTINF:-1 tvg-ID="foxsports2.nl" tvg-name="Fox Sports 2" tvg-logo="http://logo.megaott.net/NEDERLAND-OLD/FOXSPORTS.png" group-title="Sport MIX",NL: Fox Sports 2
@@ -1002,16 +1016,6 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/9172
 #EXTINF:-1 tvg-ID="NULL" tvg-name="Blue Sport 2 FHD" tvg-logo="https://goaliepro.com/wordpress/wp-content/uploads/2019/11/BlueSportsLogoHD-300x92.png" group-title="Sport MIX",SW: Blue Sport 2 FHD
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/9171
 
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="Sport TV1" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV1
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/6494
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="Sport TV2" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV2
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/6495
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="Sport TV3" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV3
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/6496
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="Sport TV4" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV4
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/6497
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="Sport TV5" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV5
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/6498
 
 #EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="Eleven Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport MIX",PT: Eleven Sport 1
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/30987
@@ -1051,13 +1055,13 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/8345
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/15994
 
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Digi Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Logo-digisport.png" group-title="Sport MIX",RO: Digi Sport 1
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Digi Sport 1" tvg-logo="https://www.lyngsat.com/logo/corp/dd/digi_tv_ro.png" group-title="Sport MIX",RO: Digi Sport 1
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/2901
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Digi Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Logo-digisport.png" group-title="Sport MIX",RO: Digi Sport 2
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Digi Sport 2" tvg-logo="https://www.lyngsat.com/logo/corp/dd/digi_tv_ro.png" group-title="Sport MIX",RO: Digi Sport 2
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/2902
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Digi Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Logo-digisport.png" group-title="Sport MIX",RO: Digi Sport 3
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Digi Sport 3" tvg-logo="https://www.lyngsat.com/logo/corp/dd/digi_tv_ro.png" group-title="Sport MIX",RO: Digi Sport 3
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/2903
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Digi Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Logo-digisport.png" group-title="Sport MIX",RO: Digi Sport 4
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Digi Sport 4" tvg-logo="https://www.lyngsat.com/logo/corp/dd/digi_tv_ro.png" group-title="Sport MIX",RO: Digi Sport 4
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/2904
 
 
@@ -1089,20 +1093,16 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/23609
 
 
 
-
-
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="SPORT TV 1 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 1 FHD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/16056
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="SPORT TV 2 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 2 FHD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/16055
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORT TV 3 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 3 FHD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/16054
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="SPORT TV 4 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 4 FHD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/16053
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="SPORT TV 5 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 5 FHD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/16052
-#EXTINF:-1 tvg-ID="sporttvplus.pt" tvg-name="SPORT TV+FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV+FHD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/16057
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="Sport TV1" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV1
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/6494
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="Sport TV2" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV2
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/6495
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="Sport TV3" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV3
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/6496
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="Sport TV4" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV4
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/6497
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="Sport TV5" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV5
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/6498
 
 
 #EXTINF:-1 tvg-ID="arenasport1.rs" tvg-name="Arena Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",RS: Arena Sport 1 HD
