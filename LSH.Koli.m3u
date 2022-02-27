@@ -655,12 +655,6 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/40601
 
 #EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="UK Sports",SG: Eleven Sport
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/5106
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FOX SPORTS 1 HD" tvg-logo="http://logo.megaott.net/NEDERLAND-OLD/FOXSPORTS.png" group-title="UK Sports",SG: FOX SPORTS 1
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/7652
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FOX SPORTS 2" tvg-logo="http://logo.megaott.net/NEDERLAND-OLD/FOXSPORTS.png" group-title="UK Sports",SG: FOX SPORTS 2
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/7653
-#EXTINF:-1 tvg-ID="NULL" tvg-name="FOX SPORTS 3" tvg-logo="http://logo.megaott.net/NEDERLAND-OLD/FOXSPORTS.png" group-title="UK Sports",SG: FOX SPORTS 3
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/7654
 
 #EXTINF:-1 tvg-id="EirSport1.ie" tvg-name="UK:Eir Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="UK Sports",Eir Sport 1
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/30526
