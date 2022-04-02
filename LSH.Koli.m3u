@@ -486,6 +486,15 @@ http://95.107.132.106/out/u/699_2.m3u8
 #EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="Tring Sport 4" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png"  group-title="Sport ALB-ITA" tvg-shift="+0",Tring Sport 4
 http://95.107.132.106/out/u/713_3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 1 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",OVERSPORT 1 HD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/98714
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 2 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",OVERSPORT 2 HD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/98715
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 3 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",OVERSPORT 3 HD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/98716
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 4 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",OVERSPORT 4 HD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/98717
+
 
 #EXTINF:-1 tvg-id="SuperSport News" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/224
@@ -539,11 +548,20 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/2113
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/2112
 
 
+#EXTINF:-1 tvg-id="SuperSport News" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News HD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80227
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2 HD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80228
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="SuperSport 3" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="Sport ALB-ITA",Super Sport 3 HD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80229
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="SuperSport 4" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png"  group-title="Sport ALB-ITA",Super Sport 4 HD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80230
+#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="SuperSport 5" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png"  group-title="Sport ALB-ITA",Super Sport 5 HD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80232
+#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="SuperSport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6 HD
+http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80233
 
-#EXTINF:-1 tvg-ID="SS Kosova" tvg-name="Sport Kosova News" tvg-logo="http://www.albepg.com/tvlogi/SS%20Kosova%201.png" group-title="Sport ALB-ITA",Sport Kosova News HD 
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/226
-#EXTINF:-1 tvg-ID="SS Kosova 2" tvg-name="SportKosova 2" tvg-logo="http://www.albepg.com/tvlogi/SS%20Kosova%202.png" group-title="Sport ALB-ITA",Sport Kosova 2
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/225
+
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Fight Box" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Sport ALB-ITA",Fight Box
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/29821
@@ -573,28 +591,6 @@ http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80491
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png" group-title="Sport ALB-ITA",Euro Sport 2 
 http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80492
 
-
-#EXTINF:-1 tvg-id="SuperSport News" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News HD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80227
-#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2 HD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80228
-#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="SuperSport 3" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="Sport ALB-ITA",Super Sport 3 HD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80229
-#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="SuperSport 4" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png"  group-title="Sport ALB-ITA",Super Sport 4 HD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80230
-#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="SuperSport 5" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png"  group-title="Sport ALB-ITA",Super Sport 5 HD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80232
-#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="SuperSport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6 HD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/80233
-
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 1 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",OVERSPORT 1 HD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/98714
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 2 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",OVERSPORT 2 HD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/98715
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 3 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",OVERSPORT 3 HD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/98716
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 4 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",OVERSPORT 4 HD
-http://186.2.171.57:8080/fRDcwUCJVJ/sUKXjmb3kq/98717
 
 
 
