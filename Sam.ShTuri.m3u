@@ -8,7 +8,7 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29897
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/26563
 #EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/26562
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Vizion Plus" tvg-name="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29855
 #EXTINF:-1 tvg-id="Syri TV" tvg-name="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
