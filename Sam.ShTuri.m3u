@@ -12,9 +12,7 @@ http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Vizion Plus" tvg-name="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29855
 #EXTINF:-1 tvg-id="Syri TV" tvg-name="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
-http://tv.syri.net/syrilive/webtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MCN TV" tvg-name="MCN TV AL" tvg-logo="https://www.mcn.al/sites/default/files/mcn_logo_web.png"  group-title="Shqiptare",MCN TV
-http://185.204.32.4:9981/stream/channelid/729610271
+http://5.254.81.2:80/10021/mpegts
 #EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png"  group-title="Shqiptare",Report TV
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/26567
 #EXTINF:-1 tvg-id="ORA News" tvg-name="ORA News AL" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",ORA News
@@ -240,15 +238,12 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29893
 #EXTINF:-1 tvg-id="RTSH3 HD" tvg-name="RTSH 3 AL" tvg-logo="http://www.albepg.com/tvlogi/RTSH3%20HD.png" group-title="Shqiptare",RTSH 3 HD
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29892
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="Film Hits" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Shqiptare",Film Hits HD
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2158
-#EXTINF:-1 tvg-id="Family HD" tvg-name="Film Family" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="Shqiptare",Film Family HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2104
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="Rai 1 HD" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1
@@ -279,8 +274,8 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80451
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50170
 #EXTINF:-1 tvg-ID="RSILA2.it" tvg-name="Rsi La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/RSI_La_2.svg/500px-RSI_La_2.svg.png" group-title="Italiane",RSI LA 2 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50171
-#EXTINF:-1 tvg-id="La 7D" tvg-name="LA 7d" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/La7d_logo.svg/640px-La7d_logo.svg.png" group-title="Italiane",LA 7D
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/983
+#EXTINF:-1 tvg-id="La 7D" tvg-name="LA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/317px-LA7_-_Logo_2011.svg.png" group-title="Italiane",LA 7D
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/18722
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/205px-TV8_Logo_2016.svg.png" group-title="Italiane",TV8 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/18720
 #EXTINF:-1 tvg-id="Mediaset Extra" tvg-name="MEDIASET Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/500px-Mediaset_Extra_logo.svg.png"  group-title="Italiane",Mediaset Extra
@@ -289,8 +284,6 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80452
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/18699
 #EXTINF:-1 tvg-id="Cine 34" tvg-name="Mediaset Cine 34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/769px-Cine34_logo.svg.png" group-title="Italiane",Mediaset Cine34
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80544
-#EXTINF:-1 tvg-id="Cielo.it" tvg-name="cielo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Logo_of_Cielo.svg/500px-Logo_of_Cielo.svg.png" group-title="Italiane",Cielo
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/8273
 
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Prima Visione" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Prima Visione
@@ -320,7 +313,7 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/35028
 
 
 #EXTINF:-1 tvg-id="Sky Uno" tvg-name="Sky Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sky_Uno_-_Logo_2018.svg/1000px-Sky_Uno_-_Logo_2018.svg.png" group-title="Italiane",Sky Uno
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/5678
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80508
 #EXTINF:-1 tvg-id="Sky Cinema Uno" tvg-name="Sky Cinema Uno HD" tvg-logo="https://lo1.in/ITALY/SKYCINEMAUNO1.png" group-title="Italiane",Sky Cinema Uno
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80568
 #EXTINF:-1 tvg-id="Sky Cinema Uno +24 HD" tvg-name="Sky Cinema Uno 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Cinema_Uno_%2B24_-_Logo_2019.svg/1000px-Sky_Cinema_Uno_%2B24_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Uno +24 HD
@@ -338,22 +331,9 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/83805
 #EXTINF:-1 tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_Cinema_Family_-_Logo_2018.svg/1000px-Sky_Cinema_Family_-_Logo_2018.svg.png"  group-title="Italiane",Sky Cinema Family
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80538
 #EXTINF:-1 tvg-id="Sky Cinema Romance" tvg-name="Sky Cinema Romance HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Cinema_Romance_-_Logo_2019.svg/1000px-Sky_Cinema_Romance_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Romance
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/5670
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80475
 #EXTINF:-1 tvg-id="Sky Cinema Suspense" tvg-name="SKY Cinema Suspense HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Suspense_-_Logo_2019.svg/1024px-Sky_Cinema_Suspense_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Suspense
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/83809
-
-#EXTINF:-1 tvg-ID="" tvg-name="Premium Cinema 1" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premium-cinema-1-it.png" group-title="Italiane",Premium Cinema 1 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80483
-#EXTINF:-1 tvg-ID="" tvg-name="Premium Cinema 2" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premium-cinema-2-it.png" group-title="Italiane",Premium Cinema 2 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80484
-#EXTINF:-1 tvg-ID="" tvg-name="Premium Cinema 3" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premium-cinema-3-it.png" group-title="Italiane",Premium Cinema 3 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80515
-#EXTINF:-1 tvg-ID="" tvg-name="Premium Action" tvg-logo="https://upload.wikimedia.org/wikipedia/it/8/8a/Mediaset_premium_action.png" group-title="Italiane",Premium Action 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80514
-#EXTINF:-1 tvg-ID="" tvg-name="Premium Crime" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mediaset_premium_crime_hd.png" group-title="Italiane",Premium Crime 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80485
-#EXTINF:-1 tvg-ID="" tvg-name="Premium Stories" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mediaset_premium_stories.png" group-title="Italiane",Premium Stories
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80527
 
 
 #EXTINF:-1 tvg-id="Primafila1.it" tvg-name="Prima Fila 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 1 HD
@@ -385,21 +365,6 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/35002
 
 
 
-
-#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="RAI 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png" group-title="Italiane",RAI 1 HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/977
-#EXTINF:-1 tvg-id="RaiUno.it" tvg-name="RAI 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png" group-title="Italiane",RAI 1 SD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50162
-#EXTINF:-1 tvg-id="RaiDue.it" tvg-name="RAI 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png" group-title="Italiane",RAI 2 HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/45702
-#EXTINF:-1 tvg-id="RaiDue.it" tvg-name="RAI 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png" group-title="Italiane",RAI 2 SD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/978
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="RAI 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rai_4_HD_-_Logo.svg/1200px-Rai_4_HD_-_Logo.svg.png" group-title="Italiane",RAI 4 HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/996
-#EXTINF:-1 tvg-id="ReteQuattro.it" tvg-name="RETE 4 FHD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rete-4-png-9.png" group-title="Italiane",RETE 4 HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/980
-#EXTINF:-1 tvg-id="La 7D" tvg-name="LA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/La7d_logo.svg/640px-La7d_logo.svg.png" group-title="Italiane",LA 7D
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/18722
 
 
 
@@ -573,7 +538,7 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80488
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Uno
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80519
 #EXTINF:-1 tvg-id="Sky Calcio 1" tvg-name="SKY Calcio 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/800px-Sky_Calcio_-_Logo_2015.svg.png" group-title="Sport ALB-ITA",Sky Sport Calcio
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/83802
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80548
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Football
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80520
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Uno
@@ -587,7 +552,7 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80521
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1200px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport MOTO GP HD
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80532
 #EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sky_Sport_NBA_-_Logo_2018.svg/1280px-Sky_Sport_NBA_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport NBA
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80518
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/5673
 #EXTINF:-1 tvg-id="eurosport.it" tvg-name="EUROSPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png" group-title="Sport ALB-ITA",Euro Sport 1 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80491
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png" group-title="Sport ALB-ITA",Euro Sport 2 
@@ -634,8 +599,7 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/10696
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/5391
 #EXTINF:-1 tvg-ID="beinsports.my" tvg-name="BEIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK Sports",BEIN SPORTS HD
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/20367
-#EXTINF:-1 tvg-ID="beinsports1hd.au" tvg-name="beIN Sports 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK Sports",BeIN Sports 1 FHD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/30975
+
 
 #EXTINF:-1 tvg-ID="astrosupersport.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="UK Sports",MLZ: ASTRO SUPERSPORTS 1
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/40598
@@ -721,8 +685,7 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/19172
 #EXTINF:-1 tvg-ID="astrosupersport4.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="UK Sports",MLZ: ASTRO SUPERSPORTS 4 HD
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/19173
 
-#EXTINF:-1 tvg-ID="" tvg-name="La Liga BAR H265" tvg-logo="https://www.rfc-seraing.be/wp-content/uploads/2018/08/laliga-h-1200x1200_2018.png" group-title="Spain Sports",ES: La Liga BAR 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/49813
+
 #EXTINF:-1 tvg-ID="beinsportespanol.us" tvg-name="BEIN SPORTS N FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="Spain Sports",US: BEIN SPORTS N
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/30739
 #EXTINF:-1 tvg-ID="NULL" tvg-name="M. Deportes 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/640px-Movistar_Deportes.svg.png" group-title="Spain Sports",ES: M. Deportes 1 
@@ -950,16 +913,6 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/14123
 #EXTINF:-1 tvg-ID="skysport6.de" tvg-name="Sky Sport 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport 6 HD
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/14122
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Sky Sports Austria 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",AT: Sky Sports Austria 1 FHD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/36107
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Sky Sports Austria 2 FHD ( Games only )" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",AT: Sky Sports Austria 2 FHD ( Games only )
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/36108
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Sky Sports Austria 3 FHD ( Games only )" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",AT: Sky Sports Austria 3 FHD ( Games only )
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/36109
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Sky Sports Austria 4 FHD ( Games only )" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",AT: Sky Sports Austria 4 FHD ( Games only )
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/36110
-#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 1 FHD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/31062
 
 
 
@@ -1362,4 +1315,3 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82687
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/52292
 #EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Femije",Crazy Tom and Jerry
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/74717
-
