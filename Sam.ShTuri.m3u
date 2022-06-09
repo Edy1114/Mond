@@ -4,22 +4,22 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/1050
 #EXTINF:-1 tvg-id="TV Klan" tvg-name="TV Klan" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png"  group-title="Shqiptare",Klan 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/15661
 
-#EXTINF:-1 tvg-id="Klan Plus" tvg-name="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png"  group-title="Shqiptare",Klan Plus
-http://95.107.132.105/out/u/657_1.m3u8
-#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News
-http://95.107.132.105/out/u/650_1.m3u8
-#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
-http://95.107.132.105/out/u/660_2.m3u8
 #EXTINF:-1 tvg-id="Vizion Plus" tvg-name="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus
 http://95.107.132.106/out/u/646_6.m3u8
-#EXTINF:-1 tvg-id="Syri TV" tvg-name="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
-http://95.107.132.106/out/u/363_2.m3u8
+#EXTINF:-1 tvg-id="Klan Plus" tvg-name="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png"  group-title="Shqiptare",Klan Plus
+http://95.107.132.105/out/u/657_1.m3u8
+#EXTINF:-1 tvg-id="News 24" tvg-name="News 24 HD" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
+http://95.107.132.105/out/u/660_2.m3u8
+#EXTINF:-1 tvg-id="ABCNews.al" tvg-name="Abc News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News
+http://95.107.132.105/out/u/650_1.m3u8
 #EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png"  group-title="Shqiptare",Report TV
 http://95.107.132.105/out/u/647_2.m3u8
 #EXTINF:-1 tvg-id="RTV ORA" tvg-name="RTV ORA" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",RTV ORA
 http://95.107.132.105/out/u/343_1.m3u8
 #EXTINF:-1 tvg-id="ORA News" tvg-name="ORA News" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",ORA News
 http://95.107.132.105/out/u/521_2.m3u8
+#EXTINF:-1 tvg-id="Syri TV" tvg-name="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV HD
+http://95.107.132.106/out/u/363_2.m3u8
 #EXTINF:-1 tvg-id="FaxNews.al" tvg-name="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png"  group-title="Shqiptare",Fax News
 http://95.107.132.105/out/u/228_3.m3u8
 #EXTINF:-1 tvg-id="Adrianet" tvg-name="Adrianet" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",Adrianet
@@ -32,214 +32,11 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/26561
 #EXTINF:-1 tvg-id="MyMusic.al" tvg-name="My Music" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2107
 
-
-#EXTINF:-1 tvg-id="Digi Gold" tvg-name="Digi Gold" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold.png"  group-title="Shqiptare",Digi Gold
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/236
-#EXTINF:-1 tvg-id="Max HD" tvg-name="Max HD" tvg-logo="http://www.albepg.com/tvlogi/Max%20HD.png"  group-title="Shqiptare",Max HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/239
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png"  group-title="Shqiptare",Film Aksion
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/242
-#EXTINF:-1 tvg-id="FilmKomedi.al" tvg-name="Film Komedi" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png"  group-title="Shqiptare",Film Komedi
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/237
-#EXTINF:-1 tvg-id="Film Autor" tvg-name="Film Autor" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png"  group-title="Shqiptare",Film Autor
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/241
-#EXTINF:-1 tvg-id="FilmHits.al" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Shqiptare",Film Hits  
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/238
-#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png"  group-title="Shqiptare",Film Thriller
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/234
-#EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="Film Dramë" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png"  group-title="Shqiptare",Film Drame 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/240
-#EXTINF:-1 tvg-id="FamilyHD.al" tvg-name="Family HD" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="Shqiptare",Film Family
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29818
-#EXTINF:-1 tvg-id="T.al" tvg-name="T" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png"  group-title="Shqiptare",T HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/1074
-#EXTINF:-1 tvg-id="EUROFILM" tvg-name="Euro Film" tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png"  group-title="Shqiptare",Euro Film
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/20978
-
-
-
-
-
-#EXTINF:-1 tvg-id="Tring Super" tvg-name="Tring Super" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png"  group-title="Shqiptare",Tring Super
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/211
-#EXTINF:-1 tvg-id="Tring Action" tvg-name="Tring Action" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png"  group-title="Shqiptare",Tring Action
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29833
-#EXTINF:-1 tvg-id="Tring Comedy" tvg-name="Tring Comedy" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png"  group-title="Shqiptare",Tring Comedy
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/219
-#EXTINF:-1 tvg-id="Tring Fantasy" tvg-name="Tring Fantasy" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png"  group-title="Shqiptare",Tring Fantasy
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/218
-#EXTINF:-1 tvg-id="Tring Life" tvg-name="Tring Life" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png"  group-title="Shqiptare",Tring Life
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/217
-#EXTINF:-1 tvg-id="Smile" tvg-name="Tring Smile" tvg-logo="http://www.albepg.com/tvlogi/Smile.png"  group-title="Shqiptare",Tring Smile
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/1075
-#EXTINF:-1 tvg-id="Tring Shqip" tvg-name="Tring Shqip" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png" group-title="Shqiptare",Tring Shqip
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/214
-#EXTINF:-1 tvg-id="Jolly HD" tvg-name="Tring Jolly" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png"  group-title="Shqiptare",Tring Jolly
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2129
-#EXTINF:-1 tvg-id="3 Plus" tvg-name="3 Plus" tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png"  group-title="Shqiptare",Tring 3 Plus
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/1052
-#EXTINF:-1 tvg-id="Muse" tvg-name="Muse" tvg-logo="http://www.albepg.com/tvlogi/Muse.png"  group-title="Shqiptare",Tring Muse
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2117
-#EXTINF:-1 tvg-id="Tip TV" tvg-name="Tip TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tip_TV_alb.png" group-title="Shqiptare",Tip TV
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29847
-#EXTINF:-1 tvg-id="Tring International" tvg-name="Tring International" tvg-logo="http://www.albepg.com/tvlogi/Tring%20International.png"  group-title="Shqiptare",Tring International
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29832
-
-#EXTINF:-1 tvg-id="Art Kino 1" tvg-name="ART Kino 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%201.png" group-title="Shqiptare",ART Kino 1 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29836
-#EXTINF:-1 tvg-id="Art Kino 2" tvg-name="ART Kino 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%202.png" group-title="Shqiptare",ART Kino 2
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29835
-#EXTINF:-1 tvg-id="Art Kino 3" tvg-name="ART Kino 3" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%203.png" group-title="Shqiptare",ART Kino 3
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29834
-
-
-#EXTINF:-1 tvg-ID="X GOLD 1" tvg-name="X GOLD 1" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%201.png" group-title="Shqiptare",X GOLD 1
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29813
-#EXTINF:-1 tvg-ID="X GOLD 2" tvg-name="X GOLD 2" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%202.png" group-title="Shqiptare",X GOLD 2
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29812
-#EXTINF:-1 tvg-ID="X GOLD 3" tvg-name="X GOLD 3" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%203.png" group-title="Shqiptare",X GOLD 3
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29811
-#EXTINF:-1 tvg-ID="X GOLD 4" tvg-name="X GOLD 4" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%204.png" group-title="Shqiptare",X GOLD 4
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29810
-
-
-
-#EXTINF:-1 tvg-id="Kino Action HD" tvg-name="X Action HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Action%20HD.png" group-title="Shqiptare",X Action
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21692
-#EXTINF:-1 tvg-id="X Thriller HD" tvg-name="Kino THRILIER HD"  tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",X Thriller
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21697
-#EXTINF:-1 tvg-id="Kino Comedy HD" tvg-name="X Comedy HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Comedy%20HD.png" group-title="Shqiptare",X Comedy 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21693
-#EXTINF:-1 tvg-id="X Drama HD" tvg-name="X Drama HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",X Drama
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21690
-#EXTINF:-1 tvg-id="Kino ROMANCE HD" tvg-name="Kino ROMANCE HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Romance%20HD.png"  group-title="Shqiptare",X Romance
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21694
-#EXTINF:-1 tvg-id="Kino Family HD" tvg-name="Kino Family HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Romance%20HD.png"  group-title="Shqiptare",X Family
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21691
-#EXTINF:-1 tvg-id="X Dark HD" tvg-name="X Dark HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",X Dark
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82572
-#EXTINF:-1 tvg-id="X ScyFy HD" tvg-name="X ScyFy HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",X ScyFy
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/230
-#EXTINF:-1 tvg-id="X Western HD" tvg-name="X Western HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",X Western
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29828
-#EXTINF:-1 tvg-id="X Dark HD" tvg-name="X Filma24 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",X Filma24
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29819
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Q Premium 1 FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Q Premium 1 FHD 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82669
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Q Premium 2 FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Q Premium 2 FHD 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82670
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Q Premium 3 FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Q Premium 3 FHD 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82671
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Q Premium 4 FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Q Premium 4 FHD 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82672
-
-
-#EXTINF:-1 tvg-id="AL Sky Max" tvg-name="Sky AL Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Shqiptare",Sky Max
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3579
-#EXTINF:-1 tvg-id="AL Sky Aksion" tvg-name="Sky Aksion" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png"  group-title="Shqiptare",Sky Aksion
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3582
-#EXTINF:-1 tvg-id=" " tvg-name="Sky Comedy SD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png"  group-title="Shqiptare",Sky Comedy
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3581
-#EXTINF:-1 tvg-id="AL Sky Drame" tvg-name="Sky Drame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Shqiptare",Sky Drame
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3578
-#EXTINF:-1 tvg-id="AL Sky Novela" tvg-name="Sky Novela Al" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Shqiptare",Sky Novela
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3576
-
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 1 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One 1
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42913
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 2 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One 2
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42914
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 3 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One 3
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42915
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 4 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One 4 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42916
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 5 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One 5 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42917
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 6 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One 6
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42918
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Thriller HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One Thriller 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66140
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Aksion HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One Aksion 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66133
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Crime HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One Crime 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66134
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Drama HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One Drama 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66135
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One GOLD Collection HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Shqiptare",Tele One GOLD Collection
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66138
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 ACTION FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Action
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82673
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 THRILLER FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Thriller
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82674
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 AVENTUR FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Aventure
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82686
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 KOMEDI FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Komedi
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82680
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 KRIM FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Krim
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82679
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 MISTER FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Mister
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82678
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 FANTASY FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Fantasy
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82682
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 BIOGRAFI FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Bigrafi
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82685
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 DRAMA FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Drame 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82684
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 FAMILJAR FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Family 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82683
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 ROMANCE FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Romance
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82675
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 HISTORI FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Histori
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82681
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 NETFLIX FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Netflix
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82677
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 NETFLIX 24 FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Filma 24 Netflix 2
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82676
-
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Kinema Aksion" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Kinema Aksion
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66109
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Kinema Aksion MAX" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",Kinema Aksion MAX
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66110
-
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Action HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",8ova Action HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66080
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Drame HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",8ova Drame HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66082
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Komedi HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",8ova Komedi HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66088
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Thriller HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare",8ova Thriller HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66091
-
-
-
-#EXTINF:-1 tvg-id="X Premium 1 HD" tvg-name="X Premium 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%201%20HD.png" group-title="Shqiptare",X Premium 1
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/232
-#EXTINF:-1 tvg-id="X Premium 2 HD" tvg-name="X Premium 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%202%20HD.png" group-title="Shqiptare",X Premium 2
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21700
-#EXTINF:-1 tvg-id="X Premium 3 HD" tvg-name="X Premium 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%203%20HD.png" group-title="Shqiptare",X Premium 3
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21699
-#EXTINF:-1 tvg-id="X Premium 4 HD" tvg-name="X Premium 4 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%204%20HD.png" group-title="Shqiptare",X Premium 4
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21698
-
-
-#EXTINF:-1 tvg-ID="X GOLD 1" tvg-name="X GOLD 1" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%201.png" group-title="Shqiptare",X GOLD 1
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2151
-#EXTINF:-1 tvg-ID="X GOLD 2" tvg-name="X GOLD 2" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%202.png" group-title="Shqiptare",X GOLD 2
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2150
-#EXTINF:-1 tvg-ID="X GOLD 3" tvg-name="X GOLD 3" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%203.png" group-title="Shqiptare",X GOLD 3
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2149
-#EXTINF:-1 tvg-ID="X GOLD 4" tvg-name="X GOLD 4" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%204.png" group-title="Shqiptare",X GOLD 4
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2148
-
-#EXTINF:-1 tvg-id="RTSH Film" tvg-name="RTSH Film AL" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Film.png" group-title="Shqiptare",Rtsh Film
+#EXTINF:-1 tvg-id="RTSH Film" tvg-name="RTSH Film AL" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Film.png" group-title="Shqiptare",RTSH Film
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/7924
 #EXTINF:-1 tvg-id="RTSH Shqip" tvg-name="RTSH Shqip AL" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Shqip.png" group-title="Shqiptare",RTSH Shqip
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29891
-#EXTINF:-1 tvg-id="RTSH Sport" tvg-name="RTSH Sport AL" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png" group-title="Shqiptare",Rtsh Sport
+#EXTINF:-1 tvg-id="RTSH Sport" tvg-name="RTSH Sport AL" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png" group-title="Shqiptare",RTSH Sport
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2102
 #EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="RTSH 1 AL" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png" group-title="Shqiptare",RTSH 1 HD
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29894
@@ -248,19 +45,227 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29893
 #EXTINF:-1 tvg-id="RTSH3 HD" tvg-name="RTSH 3 AL" tvg-logo="http://www.albepg.com/tvlogi/RTSH3%20HD.png" group-title="Shqiptare",RTSH 3 HD
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29892
 
-#EXTINF:-1 tvg-id="Film Hits" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Shqiptare",Film Hits HD
+
+
+
+
+
+#EXTINF:-1 tvg-id="Digi Gold" tvg-name="Digi Gold" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold.png"  group-title="Alb-Filma",Digi Gold
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/236
+#EXTINF:-1 tvg-id="Max HD" tvg-name="Max HD" tvg-logo="http://www.albepg.com/tvlogi/Max%20HD.png"  group-title="Alb-Filma",Max HD
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/239
+#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png"  group-title="Alb-Filma",Film Aksion
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/242
+#EXTINF:-1 tvg-id="FilmKomedi.al" tvg-name="Film Komedi" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png"  group-title="Alb-Filma",Film Komedi
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/237
+#EXTINF:-1 tvg-id="Film Autor" tvg-name="Film Autor" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png"  group-title="Alb-Filma",Film Autor
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/241
+#EXTINF:-1 tvg-id="FilmHits.al" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Alb-Filma",Film Hits  
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/238
+#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png"  group-title="Alb-Filma",Film Thriller
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/234
+#EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="Film Dramë" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png"  group-title="Alb-Filma",Film Drame 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/240
+#EXTINF:-1 tvg-id="FamilyHD.al" tvg-name="Family HD" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="Alb-Filma",Film Family
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29818
+#EXTINF:-1 tvg-id="T.al" tvg-name="T" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png"  group-title="Alb-Filma",T HD
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/1074
+#EXTINF:-1 tvg-id="EUROFILM" tvg-name="Euro Film" tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png"  group-title="Alb-Filma",Euro Film
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/20978
+
+
+
+
+
+#EXTINF:-1 tvg-id="Tring Super" tvg-name="Tring Super" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png"  group-title="Alb-Filma",Tring Super
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/211
+#EXTINF:-1 tvg-id="Tring Action" tvg-name="Tring Action" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png"  group-title="Alb-Filma",Tring Action
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29833
+#EXTINF:-1 tvg-id="Tring Comedy" tvg-name="Tring Comedy" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png"  group-title="Alb-Filma",Tring Comedy
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/219
+#EXTINF:-1 tvg-id="Tring Fantasy" tvg-name="Tring Fantasy" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png"  group-title="Alb-Filma",Tring Fantasy
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/218
+#EXTINF:-1 tvg-id="Tring Life" tvg-name="Tring Life" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png"  group-title="Alb-Filma",Tring Life
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/217
+#EXTINF:-1 tvg-id="Smile" tvg-name="Tring Smile" tvg-logo="http://www.albepg.com/tvlogi/Smile.png"  group-title="Alb-Filma",Tring Smile
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/1075
+#EXTINF:-1 tvg-id="Tring Shqip" tvg-name="Tring Shqip" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png" group-title="Alb-Filma",Tring Shqip
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/214
+#EXTINF:-1 tvg-id="Jolly HD" tvg-name="Tring Jolly" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png"  group-title="Alb-Filma",Tring Jolly
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2129
+#EXTINF:-1 tvg-id="3 Plus" tvg-name="3 Plus" tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png"  group-title="Alb-Filma",Tring 3 Plus
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/1052
+#EXTINF:-1 tvg-id="Muse" tvg-name="Muse" tvg-logo="http://www.albepg.com/tvlogi/Muse.png"  group-title="Alb-Filma",Tring Muse
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2117
+#EXTINF:-1 tvg-id="Tip TV" tvg-name="Tip TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tip_TV_alb.png" group-title="Alb-Filma",Tip TV
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29847
+#EXTINF:-1 tvg-id="Tring International" tvg-name="Tring International" tvg-logo="http://www.albepg.com/tvlogi/Tring%20International.png"  group-title="Alb-Filma",Tring International
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29832
+
+#EXTINF:-1 tvg-id="Art Kino 1" tvg-name="ART Kino 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%201.png" group-title="Alb-Filma",ART Kino 1 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29836
+#EXTINF:-1 tvg-id="Art Kino 2" tvg-name="ART Kino 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%202.png" group-title="Alb-Filma",ART Kino 2
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29835
+#EXTINF:-1 tvg-id="Art Kino 3" tvg-name="ART Kino 3" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%203.png" group-title="Alb-Filma",ART Kino 3
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29834
+
+
+#EXTINF:-1 tvg-ID="X GOLD 1" tvg-name="X GOLD 1" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%201.png" group-title="Alb-Filma",X GOLD 1
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29813
+#EXTINF:-1 tvg-ID="X GOLD 2" tvg-name="X GOLD 2" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%202.png" group-title="Alb-Filma",X GOLD 2
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29812
+#EXTINF:-1 tvg-ID="X GOLD 3" tvg-name="X GOLD 3" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%203.png" group-title="Alb-Filma",X GOLD 3
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29811
+#EXTINF:-1 tvg-ID="X GOLD 4" tvg-name="X GOLD 4" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%204.png" group-title="Alb-Filma",X GOLD 4
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29810
+
+
+
+#EXTINF:-1 tvg-id="Kino Action HD" tvg-name="X Action HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Action%20HD.png" group-title="Alb-Filma",X Action
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21692
+#EXTINF:-1 tvg-id="X Thriller HD" tvg-name="Kino THRILIER HD"  tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",X Thriller
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21697
+#EXTINF:-1 tvg-id="Kino Comedy HD" tvg-name="X Comedy HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Comedy%20HD.png" group-title="Alb-Filma",X Comedy 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21693
+#EXTINF:-1 tvg-id="X Drama HD" tvg-name="X Drama HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",X Drama
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21690
+#EXTINF:-1 tvg-id="Kino ROMANCE HD" tvg-name="Kino ROMANCE HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Romance%20HD.png"  group-title="Alb-Filma",X Romance
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21694
+#EXTINF:-1 tvg-id="Kino Family HD" tvg-name="Kino Family HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Romance%20HD.png"  group-title="Alb-Filma",X Family
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21691
+#EXTINF:-1 tvg-id="X Dark HD" tvg-name="X Dark HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Alb-Filma",X Dark
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82572
+#EXTINF:-1 tvg-id="X ScyFy HD" tvg-name="X ScyFy HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Alb-Filma",X ScyFy
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/230
+#EXTINF:-1 tvg-id="X Western HD" tvg-name="X Western HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Alb-Filma",X Western
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29828
+#EXTINF:-1 tvg-id="X Dark HD" tvg-name="X Filma24 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Alb-Filma",X Filma24
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29819
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Q Premium 1 FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Q Premium 1 FHD 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82669
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Q Premium 2 FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Q Premium 2 FHD 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82670
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Q Premium 3 FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Q Premium 3 FHD 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82671
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Q Premium 4 FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Q Premium 4 FHD 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82672
+
+
+#EXTINF:-1 tvg-id="AL Sky Max" tvg-name="Sky AL Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Alb-Filma",Sky Max
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3579
+#EXTINF:-1 tvg-id="AL Sky Aksion" tvg-name="Sky Aksion" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png"  group-title="Alb-Filma",Sky Aksion
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3582
+#EXTINF:-1 tvg-id=" " tvg-name="Sky Comedy SD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png"  group-title="Alb-Filma",Sky Comedy
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3581
+#EXTINF:-1 tvg-id="AL Sky Drame" tvg-name="Sky Drame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Alb-Filma",Sky Drame
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3578
+#EXTINF:-1 tvg-id="AL Sky Novela" tvg-name="Sky Novela Al" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Alb-Filma",Sky Novela
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3576
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 1 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One 1
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42913
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 2 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One 2
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42914
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 3 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One 3
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42915
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 4 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One 4 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42916
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 5 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One 5 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42917
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 6 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One 6
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42918
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Thriller HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One Thriller 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66140
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Aksion HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One Aksion 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66133
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Crime HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One Crime 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66134
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Drama HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One Drama 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66135
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One GOLD Collection HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One GOLD Collection
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66138
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 ACTION FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Action
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82673
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 THRILLER FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Thriller
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82674
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 AVENTUR FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Aventure
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82686
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 KOMEDI FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Komedi
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82680
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 KRIM FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Krim
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82679
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 MISTER FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Mister
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82678
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 FANTASY FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Fantasy
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82682
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 BIOGRAFI FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Bigrafi
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82685
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 DRAMA FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Drame 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82684
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 FAMILJAR FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Family 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82683
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 ROMANCE FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Romance
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82675
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 HISTORI FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Histori
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82681
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 NETFLIX FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Netflix
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82677
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 NETFLIX 24 FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Netflix 2
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82676
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Kinema Aksion" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Aksion
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66109
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Kinema Aksion MAX" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Aksion MAX
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66110
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Action HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",8ova Action HD
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66080
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Drame HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",8ova Drame HD
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66082
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Komedi HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",8ova Komedi HD
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66088
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Thriller HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",8ova Thriller HD
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66091
+
+
+
+#EXTINF:-1 tvg-id="X Premium 1 HD" tvg-name="X Premium 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%201%20HD.png" group-title="Alb-Filma",X Premium 1
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/232
+#EXTINF:-1 tvg-id="X Premium 2 HD" tvg-name="X Premium 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%202%20HD.png" group-title="Alb-Filma",X Premium 2
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21700
+#EXTINF:-1 tvg-id="X Premium 3 HD" tvg-name="X Premium 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%203%20HD.png" group-title="Alb-Filma",X Premium 3
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21699
+#EXTINF:-1 tvg-id="X Premium 4 HD" tvg-name="X Premium 4 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%204%20HD.png" group-title="Alb-Filma",X Premium 4
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21698
+
+
+#EXTINF:-1 tvg-ID="X GOLD 1" tvg-name="X GOLD 1" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%201.png" group-title="Alb-Filma",X GOLD 1
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2151
+#EXTINF:-1 tvg-ID="X GOLD 2" tvg-name="X GOLD 2" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%202.png" group-title="Alb-Filma",X GOLD 2
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2150
+#EXTINF:-1 tvg-ID="X GOLD 3" tvg-name="X GOLD 3" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%203.png" group-title="Alb-Filma",X GOLD 3
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2149
+#EXTINF:-1 tvg-ID="X GOLD 4" tvg-name="X GOLD 4" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold%204.png" group-title="Alb-Filma",X GOLD 4
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2148
+
+
+
+#EXTINF:-1 tvg-id="Film Hits" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Alb-Filma",Film Hits HD
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2158
 
 
 
 
 
-
-#EXTINF:-1 tvg-id="Rai 1 HD" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1
+#EXTINF:-1 tvg-id="Raiuno.it" tvg-name="Raiuno.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50162
-#EXTINF:-1 tvg-id="Rai 2 HD" tvg-name="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2
+#EXTINF:-1 tvg-id="Raidue.it" tvg-name="Raidue.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50163
-#EXTINF:-1 tvg-id="Rai 3 HD" tvg-name="Rai 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1udzTud18EZ4OSe9N8Oiw-Qh6BYjn0t7bM0H4XQq5K96VOlw&s"  group-title="Italiane",Rai 3
+#EXTINF:-1 tvg-id="Raitre.it" tvg-name="Raitre.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1udzTud18EZ4OSe9N8Oiw-Qh6BYjn0t7bM0H4XQq5K96VOlw&s"  group-title="Italiane",Rai 3
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50164
 #EXTINF:-1 tvg-id="Rai 4 HD" tvg-name="Rai 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rai_4_HD_-_Logo_2016.svg/1024px-Rai_4_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 4
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50165
@@ -278,7 +283,11 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50169
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/980
 #EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-canale-5-png-4.png"  group-title="Italiane",Canale 5
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50168
-#EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Logo_Iris.svg/800px-Logo_Iris.svg.png" group-title="Italiane",Iris
+#EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/497px-Logo_Italia2.svg.png"  group-title="Italiane",Italia 2
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/18716
+#EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/497px-Logo_Italia2.svg.png"  group-title="Italiane",Italia 2 HD
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80561
+#EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Iris_logo_2013.svg/320px-Iris_logo_2013.svg.png" group-title="Italiane",Iris
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80451
 #EXTINF:-1 tvg-ID="RSILA1.it" tvg-name="Rsi La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RSI_La_1.svg/500px-RSI_La_1.svg.png" group-title="Italiane",RSI LA 1 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50170
@@ -377,13 +386,6 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/35002
 
 
 
-
-#EXTINF:-1 tvg-id="ExplorerShkence.al" tvg-name="Explorer Shkencë" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png"  group-title="Dokumentare",Explorer Shkence
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/243
-#EXTINF:-1 tvg-id="EExplorerHistori.al" tvg-name="Explorer Histori" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png"  group-title="Dokumentare",Explorer Histori 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/245
-#EXTINF:-1 tvg-id="ExplorerNatyra.al" tvg-name="Explorer Natyra" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png"  group-title="Dokumentare",Explorer Natyra 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/244
 #EXTINF:-1 tvg-id="Tring World" tvg-name="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png"  group-title="Dokumentare",Tring World 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/209
 #EXTINF:-1 tvg-id="Tring Planet" tvg-name="Tring Planet" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png"  group-title="Dokumentare",Tring Planet
@@ -392,6 +394,12 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/215
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2157
 #EXTINF:-1 tvg-id="Living HD" tvg-name="Living HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png"  group-title="Dokumentare",Tring Living
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29791
+#EXTINF:-1 tvg-id="ExplorerShkence.al" tvg-name="Explorer Shkencë" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png"  group-title="Dokumentare",Explorer Shkence
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/243
+#EXTINF:-1 tvg-id="EExplorerHistori.al" tvg-name="Explorer Histori" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png"  group-title="Dokumentare",Explorer Histori 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/245
+#EXTINF:-1 tvg-id="ExplorerNatyra.al" tvg-name="Explorer Natyra" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png"  group-title="Dokumentare",Explorer Natyra 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/244
 #EXTINF:-1 tvg-id="Art Doku 1" tvg-name="Art Doku 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%201.png"  group-title="Dokumentare",ART Doku 1 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29838
 #EXTINF:-1 tvg-id="Art Doku 2" tvg-name="Art Doku 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%202.png"  group-title="Dokumentare",ART Doku 2 
