@@ -177,15 +177,21 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42917
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 6 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One 6
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42918
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Thriller HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One Thriller 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66140
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/109943
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Aksion HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One Aksion 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66133
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/109938
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Crime HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One Crime 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66134
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/109940
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Drama HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One Drama 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66135
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/109941
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One GOLD Collection HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One GOLD Collection
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66138
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/109945
+#EXTINF:-1 tvg-ID="" tvg-name="Tele One fantazi" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One fantazi
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/109944
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Epik" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One Epik
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/109942
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Aventure" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One Aventure
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/109939
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 ACTION FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Action
@@ -234,7 +240,7 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66091
 
 
 #EXTINF:-1 tvg-id="X Premium 1 HD" tvg-name="X Premium 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%201%20HD.png" group-title="Alb-Filma",X Premium 1
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/232
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/110052
 #EXTINF:-1 tvg-id="X Premium 2 HD" tvg-name="X Premium 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%202%20HD.png" group-title="Alb-Filma",X Premium 2
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/21700
 #EXTINF:-1 tvg-id="X Premium 3 HD" tvg-name="X Premium 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%203%20HD.png" group-title="Alb-Filma",X Premium 3
@@ -254,9 +260,253 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2148
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemax HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Cinemax HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110054
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Deluxe HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark Deluxe HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109981
+#EXTINF:-1 tvg-ID="" tvg-name="Dark GOLD 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark GOLD 1 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109990
+#EXTINF:-1 tvg-ID="" tvg-name="Dark GOLD 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma", Dark GOLD 2 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109991
+#EXTINF:-1 tvg-ID="" tvg-name="Dark GOLD 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark GOLD 3 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109992
+#EXTINF:-1 tvg-ID="" tvg-name="Dark GOLD 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark GOLD 4 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109993
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Special HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark Special HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109980
+
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark Netflix 1 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109982
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark Netflix 2 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109983
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark Netflix 3 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109984
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark Netflix 4 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109985
+#EXTINF:-1 tvg-ID="" tvg-name="Dark PRIME 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark PRIME 1 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109986
+#EXTINF:-1 tvg-ID="" tvg-name="Dark PRIME 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark PRIME 2 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109987
+#EXTINF:-1 tvg-ID="" tvg-name="Dark PRIME 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark PRIME 3 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109988
+#EXTINF:-1 tvg-ID="" tvg-name="Dark PRIME 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Dark PRIME 4 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109989
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema 17 Nëntori" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema 17 Nëntori
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110011
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema 24" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema 24
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110003
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Agimi" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Agimi
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110012
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Aksion" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Aksion
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109996
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Classics" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Classics
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109998
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Dajti" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Dajti
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110013
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Drame" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Drame
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109999
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Duck" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Duck
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110002
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Family" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Family
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110001
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Gold" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Gold
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110000
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Max" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Max
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109997
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Milenium 1" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Milenium 1
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110005
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Milenium 2" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Milenium 2
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110006
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Milenium 3" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Milenium 3
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110007
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Milenium 4" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Milenium 4
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110008
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Partizani" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Partizani
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110010
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Premier" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Premier
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110004
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Republika" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Republika
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110009
+#EXTINF:-1 tvg-ID="" tvg-name="Kinema Shqip" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kinema Shqip
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109995
+#EXTINF:-1 tvg-ID="" tvg-name="Kino24 aksion" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kino24 aksion
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110019
+#EXTINF:-1 tvg-ID="" tvg-name="Kino24 drame" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kino24 drame
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110018
+#EXTINF:-1 tvg-ID="" tvg-name="Kino24 horror" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Kino24 horror
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110020
+#EXTINF:-1 tvg-ID="" tvg-name="KS AKSION AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS AKSION AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109959
+#EXTINF:-1 tvg-ID="" tvg-name="KS COMEDY AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS COMEDY AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109960
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Aksion HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109964
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Animacion HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Animacion HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109974
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Aventure HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Aventure HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109966
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Aziatika HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Aziatika HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109976
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Biografi AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Biografi AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109977
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Drame HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Drame HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109965
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Family HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Family HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109961
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Hindi HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Hindi HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109975
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Horror HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Horror HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109971
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Krim HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Krim HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109968
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Mister HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Mister HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109970
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Oscars HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Oscars HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109963
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Premiere HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Premiere HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109962
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Romance HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Romance HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109967
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 SCI-Fi  HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 SCI-Fi  HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109972
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Triller HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Triller HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109969
+#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Western HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Filma24 Western HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109973
+#EXTINF:-1 tvg-ID="" tvg-name="KS Premiere 1 AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Premiere 1 AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109955
+#EXTINF:-1 tvg-ID="" tvg-name="KS Premiere 2 AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Premiere 2 AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109956
+#EXTINF:-1 tvg-ID="" tvg-name="KS Premiere 3 AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Premiere 3 AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109957
+#EXTINF:-1 tvg-ID="" tvg-name="KS Premiere 4 AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Premiere 4 AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109958
+#EXTINF:-1 tvg-ID="" tvg-name="Ks Përralla HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Ks Përralla HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109994
+#EXTINF:-1 tvg-ID="" tvg-name="L-Star Cinema HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",L-Star Cinema HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109952
+#EXTINF:-1 tvg-ID="" tvg-name="L-Star HETUESIA HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",L-Star HETUESIA HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109948
+#EXTINF:-1 tvg-ID="" tvg-name="L-Star Popullore HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",L-Star Popullore HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109949
+#EXTINF:-1 tvg-ID="" tvg-name="LionTv Parlamenti HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",LionTv Parlamenti HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109951
+#EXTINF:-1 tvg-ID="" tvg-name="LionTv Shqip  HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",LionTv Shqip  HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109950
+#EXTINF:-1 tvg-ID="" tvg-name="MAXcine" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",MAXcine
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110027
+#EXTINF:-1 tvg-ID="" tvg-name="MAXelite" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",MAXelite
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110029
+#EXTINF:-1 tvg-ID="" tvg-name="MAXenergi" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",MAXenergi
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110031
+#EXTINF:-1 tvg-ID="" tvg-name="MAXone" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",MAXone
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110026
+#EXTINF:-1 tvg-ID="" tvg-name="MAXpremier 1" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",MAXpremier 1
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110032
+#EXTINF:-1 tvg-ID="" tvg-name="MAXpremier 2" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",MAXpremier 2
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110033
+#EXTINF:-1 tvg-ID="" tvg-name="MAXpremier 3" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",MAXpremier 3
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110034
+#EXTINF:-1 tvg-ID="" tvg-name="MAXpremier 4" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",MAXpremier 4
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110035
+#EXTINF:-1 tvg-ID="" tvg-name="MAXred" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",MAXred
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110028
+#EXTINF:-1 tvg-ID="" tvg-name="MAXstar" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",MAXstar
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110030
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Aksion AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Aksion AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110056
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Arnold Schwarzenegger AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Arnold Schwarzenegger AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110069
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Aventure AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Aventure AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110060
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Bud Spencer & Terence Hill AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Bud Spencer & Terence Hill AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110071
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Dwayne Johnson AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Dwayne Johnson AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110068
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Epik AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Epik AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110063
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Fantazi AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Fantazi AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110057
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Femije AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Femije AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110062
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Horror AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Horror AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110059
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Jackie Chan AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Jackie Chan AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110066
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Komedi AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Komedi AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110058
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Relaks FHD AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Relaks FHD AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110064
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Romance AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Romance AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110061
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Spider-Man AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Spider-Man AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110065
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Sylvester Stallone AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Sylvester Stallone AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110070
+#EXTINF:-1 tvg-ID="" tvg-name="Netflix Van Damme AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Netflix Van Damme AL
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110067
+#EXTINF:-1 tvg-ID="" tvg-name="Prime  HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Prime  HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110053
+#EXTINF:-1 tvg-ID="" tvg-name="SHQIP 1" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",SHQIP 1
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110014
+#EXTINF:-1 tvg-ID="" tvg-name="SHQIP 2" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",SHQIP 2
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110015
+#EXTINF:-1 tvg-ID="" tvg-name="SHQIP 3" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",SHQIP 3
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110016
+#EXTINF:-1 tvg-ID="" tvg-name="SHQIP 4" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",SHQIP 4
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110017
+#EXTINF:-1 tvg-ID="" tvg-name="StatiON Box" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",StatiON Box
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110023
+#EXTINF:-1 tvg-ID="" tvg-name="StatiON Cine" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",StatiON Cine
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110021
+#EXTINF:-1 tvg-ID="" tvg-name="StatiON Prime" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",StatiON Prime
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110022
+#EXTINF:-1 tvg-ID="" tvg-name="StatiON Stars" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",StatiON Stars
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110025
+#EXTINF:-1 tvg-ID="" tvg-name="StatiON Top" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",StatiON Top
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110024
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Aksion HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110039
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar ChuChu TV" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar ChuChu TV
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110046
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Cinema DE HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Cinema DE HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110045
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Cinema HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Cinema HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110040
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Drame HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Drame HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110041
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Film 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Film 1 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110036
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Film 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Film 2 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110037
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Film 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Film 3 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110038
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Histori Shqip HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Histori Shqip HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110042
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Komedi HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Komedi HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110043
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Masha Orso" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Masha Orso
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110047
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Muzik HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Muzik HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110048
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Popullore HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Popullore HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110049
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Qifteli HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Qifteli HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110050
+#EXTINF:-1 tvg-ID="" tvg-name="WebStar Thriller HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Thriller HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110044
+
+
 #EXTINF:-1 tvg-id="Film Hits" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Alb-Filma",Film Hits HD
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2158
-
+#EXTINF:-1 tvg-id="Muse" tvg-name="Muse" tvg-logo="http://www.albepg.com/tvlogi/Muse.png"  group-title="Alb-Filma",Tring Muse
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/216
 
 
 
@@ -404,6 +654,12 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/244
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29838
 #EXTINF:-1 tvg-id="Art Doku 2" tvg-name="Art Doku 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%202.png"  group-title="Dokumentare",ART Doku 2 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29837
+#EXTINF:-1 tvg-id="DokuBox" tvg-name="DokuBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png"  group-title="Dokumentare",DokuBox
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29817
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://www.albepg.com/tvlogi/Animal%20Planet.png"  group-title="Dokumentare",Animal Planet
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29793
+
+
 
 #EXTINF:-1 tvg-id="X Histori HD" tvg-name="X Histori HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1280px-History_HD_Logo.svg.png" group-title="Dokumentare",X Histori
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3580
@@ -531,6 +787,8 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2114
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2113
 #EXTINF:-1 tvg-id="Kujtesa Sport 4" tvg-name="Kujtesa Sport 4" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png"  group-title="Sport ALB-ITA",KSport 4
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2112
+#EXTINF:-1 tvg-id="Kujtesa Sport 5" tvg-name="Kujtesa Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_K_Sport.jpg"  group-title="Sport ALB-ITA",KSport 5
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/
 
 
 #EXTINF:-1 tvg-id="SuperSport News" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News HD
@@ -1325,8 +1583,10 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29851
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/210
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV Europe" tvg-logo="http://www.albepg.com/tvlogi/Baby%20TV.png"  group-title="Femije",Baby TV
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29844
-#EXTINF:-1 tvg-id="RTSH Femije AL" tvg-name="RTSH Femije AL" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Femije.png" group-title="Femije",RTSH Femije
+#EXTINF:-1 tvg-id="RTSH Femije AL" tvg-name="RTSH Femije" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Femije.png" group-title="Femije",RTSH Femije
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29850
+#EXTINF:-1 tvg-ID="Sofia" tvg-name="Sofia" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Femije",Sofia
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 ANIMUAR FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Femije",Filma 24 Animuar
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82687
 #EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Femije",Tom and Jerry HD
