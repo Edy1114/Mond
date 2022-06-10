@@ -480,11 +480,11 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/35002
 
 
 
-#EXTINF:-1 tvg-id="ExplorerShkence.al" tvg-name="Explorer Shkencë" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png"  group-title="Dokumentare",Explorer Shkence
+#EXTINF:-1 tvg-id="Explorer Shkence" tvg-name="Explorer Shkencë" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png"  group-title="Dokumentare",Explorer Shkence
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/243
-#EXTINF:-1 tvg-id="EExplorerHistori.al" tvg-name="Explorer Histori" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png"  group-title="Dokumentare",Explorer Histori 
+#EXTINF:-1 tvg-id="Explorer Histori" tvg-name="Explorer Histori" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png"  group-title="Dokumentare",Explorer Histori 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/245
-#EXTINF:-1 tvg-id="ExplorerNatyra.al" tvg-name="Explorer Natyra" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png"  group-title="Dokumentare",Explorer Natyra 
+#EXTINF:-1 tvg-id="Explorer Natyra" tvg-name="Explorer Natyra" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png"  group-title="Dokumentare",Explorer Natyra 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/244
 #EXTINF:-1 tvg-id="Tring World" tvg-name="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png"  group-title="Dokumentare",Tring World 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/209
@@ -1408,15 +1408,15 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/9591
 
 
 
-#EXTINF:-1 tvg-id="BangBang.al" tvg-name="Bang Bang" tvg-logo="http://www.albepg.com/tvlogi/Bang%20Bang.png" group-title="Femije",Bang Bang 
+#EXTINF:-1 tvg-id="Bang Bang" tvg-name="Bang Bang" tvg-logo="http://www.albepg.com/tvlogi/Bang%20Bang.png" group-title="Femije",Bang Bang 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/1081
-#EXTINF:-1 tvg-id="Cufo.al" tvg-name="Çufo" tvg-logo="http://www.albepg.com/tvlogi/Cufo%20TV.png"  group-title="Femije",Cufo
+#EXTINF:-1 tvg-id="Çufo TV" tvg-name="Çufo" tvg-logo="http://www.albepg.com/tvlogi/Cufo%20TV.png"  group-title="Femije",Cufo
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2160
 #EXTINF:-1 tvg-id="Tring Kids" tvg-name="Tring Kids" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png"  group-title="Femije",Tring Kids
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29851
 #EXTINF:-1 tvg-id="Tring Tring" tvg-name="Tring Tring" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Tring.png"  group-title="Femije",Tring Tring
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/210
-#EXTINF:-1 tvg-id="RTSH Femije AL" tvg-name="RTSH Femije" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Femije.png" group-title="Femije",RTSH Femije
+#EXTINF:-1 tvg-id="RTSH Femije" tvg-name="RTSH Femije" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Femije.png" group-title="Femije",RTSH Femije
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29850
 #EXTINF:-1 tvg-ID="Sofia" tvg-name="Sofia" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Femije",Sofia
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29848
