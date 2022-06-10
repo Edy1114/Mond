@@ -358,11 +358,11 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/216
 
 
 
-#EXTINF:-1 tvg-id="Raiuno.it" tvg-name="Raiuno.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1
+#EXTINF:-1 tvg-id="Raiuno.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50162
-#EXTINF:-1 tvg-id="Raidue.it" tvg-name="Raidue.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2
+#EXTINF:-1 tvg-id="Raidue.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50163
-#EXTINF:-1 tvg-id="Raitre.it" tvg-name="Raitre.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1udzTud18EZ4OSe9N8Oiw-Qh6BYjn0t7bM0H4XQq5K96VOlw&s"  group-title="Italiane",Rai 3
+#EXTINF:-1 tvg-id="Raitre.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1udzTud18EZ4OSe9N8Oiw-Qh6BYjn0t7bM0H4XQq5K96VOlw&s"  group-title="Italiane",Rai 3
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50164
 #EXTINF:-1 tvg-id="Rai 4 HD" tvg-name="Rai 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rai_4_HD_-_Logo_2016.svg/1024px-Rai_4_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 4
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50165
@@ -480,27 +480,27 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/35002
 
 
 
-#EXTINF:-1 tvg-id="Explorer Shkence" tvg-name="Explorer Shkencë" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png"  group-title="Dokumentare",Explorer Shkence
+#EXTINF:-1 tvg-id="Explorer Shkencë" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png"  group-title="Dokumentare",Explorer Shkence
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/243
-#EXTINF:-1 tvg-id="Explorer Histori" tvg-name="Explorer Histori" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png"  group-title="Dokumentare",Explorer Histori 
+#EXTINF:-1 tvg-id="Explorer Histori" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png"  group-title="Dokumentare",Explorer Histori 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/245
-#EXTINF:-1 tvg-id="Explorer Natyra" tvg-name="Explorer Natyra" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png"  group-title="Dokumentare",Explorer Natyra 
+#EXTINF:-1 tvg-id="Explorer Natyra" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png"  group-title="Dokumentare",Explorer Natyra 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/244
-#EXTINF:-1 tvg-id="Tring World" tvg-name="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png"  group-title="Dokumentare",Tring World 
+#EXTINF:-1 tvg-id="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png"  group-title="Dokumentare",Tring World 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/209
-#EXTINF:-1 tvg-id="Tring Planet" tvg-name="Tring Planet" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png"  group-title="Dokumentare",Tring Planet
+#EXTINF:-1 tvg-id="Tring Planet" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png"  group-title="Dokumentare",Tring Planet
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/215
-#EXTINF:-1 tvg-id="Tring History" tvg-name="Tring History" tvg-logo="http://www.albepg.com/tvlogi/Tring%20History.png"  group-title="Dokumentare",Tring History
+#EXTINF:-1 tvg-id="Tring History" tvg-logo="http://www.albepg.com/tvlogi/Tring%20History.png"  group-title="Dokumentare",Tring History
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2157
-#EXTINF:-1 tvg-id="Living HD" tvg-name="Living HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png"  group-title="Dokumentare",Tring Living
+#EXTINF:-1 tvg-id="Living HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png"  group-title="Dokumentare",Tring Living
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29791
-#EXTINF:-1 tvg-id="Art Doku 1" tvg-name="Art Doku 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%201.png"  group-title="Dokumentare",ART Doku 1 
+#EXTINF:-1 tvg-id="Art Doku 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%201.png"  group-title="Dokumentare",ART Doku 1 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29838
-#EXTINF:-1 tvg-id="Art Doku 2" tvg-name="Art Doku 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%202.png"  group-title="Dokumentare",ART Doku 2 
+#EXTINF:-1 tvg-id="Art Doku 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%202.png"  group-title="Dokumentare",ART Doku 2 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29837
-#EXTINF:-1 tvg-id="DokuBox" tvg-name="DokuBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png"  group-title="Dokumentare",DokuBox
+#EXTINF:-1 tvg-id="DokuBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png"  group-title="Dokumentare",DokuBox
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29817
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://www.albepg.com/tvlogi/Animal%20Planet.png"  group-title="Dokumentare",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://www.albepg.com/tvlogi/Animal%20Planet.png"  group-title="Dokumentare",Animal Planet
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29793
 
 
