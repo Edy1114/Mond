@@ -358,11 +358,11 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/216
 
 
 
-#EXTINF:-1 tvg-id="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1
+#EXTINF:-1 tvg-id="Rai 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50162
-#EXTINF:-1 tvg-id="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2
+#EXTINF:-1 tvg-id="Rai 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50163
-#EXTINF:-1 tvg-id="Rai 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1udzTud18EZ4OSe9N8Oiw-Qh6BYjn0t7bM0H4XQq5K96VOlw&s"  group-title="Italiane",Rai 3
+#EXTINF:-1 tvg-id="Rai 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1udzTud18EZ4OSe9N8Oiw-Qh6BYjn0t7bM0H4XQq5K96VOlw&s"  group-title="Italiane",Rai 3
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50164
 #EXTINF:-1 tvg-id="Rai 4 HD" tvg-name="Rai 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rai_4_HD_-_Logo_2016.svg/1024px-Rai_4_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 4
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/50165
