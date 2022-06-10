@@ -480,7 +480,12 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/35002
 
 
 
-
+#EXTINF:-1 tvg-id="ExplorerShkence.al" tvg-name="Explorer Shkencë" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png"  group-title="Dokumentare",Explorer Shkence
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/243
+#EXTINF:-1 tvg-id="EExplorerHistori.al" tvg-name="Explorer Histori" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png"  group-title="Dokumentare",Explorer Histori 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/245
+#EXTINF:-1 tvg-id="ExplorerNatyra.al" tvg-name="Explorer Natyra" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png"  group-title="Dokumentare",Explorer Natyra 
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/244
 #EXTINF:-1 tvg-id="Tring World" tvg-name="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png"  group-title="Dokumentare",Tring World 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/209
 #EXTINF:-1 tvg-id="Tring Planet" tvg-name="Tring Planet" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png"  group-title="Dokumentare",Tring Planet
@@ -489,12 +494,6 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/215
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/2157
 #EXTINF:-1 tvg-id="Living HD" tvg-name="Living HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png"  group-title="Dokumentare",Tring Living
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29791
-#EXTINF:-1 tvg-id="ExplorerShkence.al" tvg-name="Explorer Shkencë" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png"  group-title="Dokumentare",Explorer Shkence
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/243
-#EXTINF:-1 tvg-id="EExplorerHistori.al" tvg-name="Explorer Histori" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png"  group-title="Dokumentare",Explorer Histori 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/245
-#EXTINF:-1 tvg-id="ExplorerNatyra.al" tvg-name="Explorer Natyra" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png"  group-title="Dokumentare",Explorer Natyra 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/244
 #EXTINF:-1 tvg-id="Art Doku 1" tvg-name="Art Doku 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%201.png"  group-title="Dokumentare",ART Doku 1 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29838
 #EXTINF:-1 tvg-id="Art Doku 2" tvg-name="Art Doku 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%202.png"  group-title="Dokumentare",ART Doku 2 
@@ -506,19 +505,12 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29793
 
 
 
-#EXTINF:-1 tvg-id="X Histori HD" tvg-name="X Histori HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1280px-History_HD_Logo.svg.png" group-title="Dokumentare",X Histori
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3580
-#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: 8ova Gjurme Shqiptare HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Dokumentare",8ova Gjurme Shqiptare HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/66084
-
 
 
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Real_Time_logo.svg/500px-Real_Time_logo.svg.png" group-title="Dokumentare",Real Time 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/8313
-#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Real_Time_logo.svg/500px-Real_Time_logo.svg.png" group-title="Dokumentare",Real Time HD
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80503
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX FHD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="Dokumentare",DMAX 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/8277
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80501
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/800px-Nove_-_Logo_2017.svg.png" group-title="Dokumentare",NOVE 
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80500
 #EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX FULL HD" tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="Dokumentare",FOX HD
@@ -540,7 +532,7 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80482
 #EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/640px-Discovery_Science_2017_Logo.svg.png" group-title="Dokumentare",Discovery Science
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80512
 #EXTINF:-1 tvg-id="Crime&Investigation.it" tvg-name="Crime Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png"  group-title="Dokumentare",Crime & Investigation
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/83825
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80480
 #EXTINF:-1 tvg-id="DiscoveryFood.it" tvg-name="Discovery Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png"  group-title="Dokumentare",Discovery Food Network
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80476
 
@@ -551,8 +543,6 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80476
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/83829
 #EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png" group-title="Dokumentare",History
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/1001
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX FHD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="Dokumentare",DMAX 
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80501
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX FHD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="Dokumentare",DMAX FHD
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/80502
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="Dokumentare",MotorTrend FHD
