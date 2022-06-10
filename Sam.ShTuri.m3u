@@ -153,17 +153,6 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82671
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82672
 
 
-#EXTINF:-1 tvg-id="AL Sky Max" tvg-name="Sky AL Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Alb-Filma",Sky Max
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3579
-#EXTINF:-1 tvg-id="AL Sky Aksion" tvg-name="Sky Aksion" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png"  group-title="Alb-Filma",Sky Aksion
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3582
-#EXTINF:-1 tvg-id=" " tvg-name="Sky Comedy SD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png"  group-title="Alb-Filma",Sky Comedy
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3581
-#EXTINF:-1 tvg-id="AL Sky Drame" tvg-name="Sky Drame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Alb-Filma",Sky Drame
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3578
-#EXTINF:-1 tvg-id="AL Sky Novela" tvg-name="Sky Novela Al" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Alb-Filma",Sky Novela
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3576
-
 #EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 1 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One 1
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/42913
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 2 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One 2
@@ -186,7 +175,6 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/109944
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/109942
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Aventure" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Alb-Filma",Tele One Aventure
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/109939
-
 
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 ACTION FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Action
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82673
@@ -217,6 +205,18 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82677
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 NETFLIX 24 FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",Filma 24 Netflix 2
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/82676
 
+#EXTINF:-1 tvg-id="AL Sky Max" tvg-name="Sky AL Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Alb-Filma",Sky Max
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3579
+#EXTINF:-1 tvg-id="AL Sky Aksion" tvg-name="Sky Aksion" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png"  group-title="Alb-Filma",Sky Aksion
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3582
+#EXTINF:-1 tvg-id=" " tvg-name="Sky Comedy SD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png"  group-title="Alb-Filma",Sky Comedy
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3581
+#EXTINF:-1 tvg-id="AL Sky Drame" tvg-name="Sky Drame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Alb-Filma",Sky Drame
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3578
+#EXTINF:-1 tvg-id="AL Sky Novela" tvg-name="Sky Novela Al" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Alb-Filma",Sky Novela
+http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/3576
+
+
 
 
 
@@ -240,8 +240,6 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109956
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109957
 #EXTINF:-1 tvg-ID="" tvg-name="KS Premiere 4 AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",KS Premiere 4 AL
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109958
-
-
 
 
 
@@ -293,8 +291,6 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109969
 
 #EXTINF:-1 tvg-ID="" tvg-name="StatiON Box" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",StatiON Box
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110023
-#EXTINF:-1 tvg-ID="" tvg-name="StatiON Cine" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",StatiON Cine
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110021
 #EXTINF:-1 tvg-ID="" tvg-name="StatiON Prime" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",StatiON Prime
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110022
 #EXTINF:-1 tvg-ID="" tvg-name="StatiON Stars" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",StatiON Stars
@@ -304,8 +300,6 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110024
 #EXTINF:-1 tvg-ID="" tvg-name="WebStar Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Aksion HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110039
 
-#EXTINF:-1 tvg-ID="" tvg-name="WebStar Cinema DE HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Cinema DE HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110045
 #EXTINF:-1 tvg-ID="" tvg-name="WebStar Cinema HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Cinema HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/110040
 #EXTINF:-1 tvg-ID="" tvg-name="WebStar Drame HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Alb-Filma",WebStar Drame HD
