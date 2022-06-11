@@ -1411,7 +1411,7 @@ http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29851
 #EXTINF:-1 tvg-id="Tring Tring" tvg-name="Tring Tring" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Tring.png"  group-title="Femije",Tring Tring
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/210
 #EXTINF:-1 tvg-id="RTSH Femije" tvg-name="RTSH Femije" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Femije.png" group-title="Femije",RTSH Femije
-http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29850
+https://tvlive.rtsh.dev/live/rtsh_femije_ott/playlist.m3u8
 #EXTINF:-1 tvg-ID="Sofia" tvg-name="Sofia" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Femije",Sofia
 http://186.2.171.57:8080/qXREdHbvR0/4Tdq10Q5ay/29848
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 ANIMUAR FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Femije",Filma 24 Animuar
