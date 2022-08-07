@@ -8,14 +8,14 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/15661
 http://95.107.132.106/out/u/646_6.m3u8
 #EXTINF:-1 tvg-id="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png"  group-title="Shqiptare",Klan Plus
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29897
-#EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/7925
 #EXTINF:-1 tvg-id="News 24" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
 http://95.107.132.105/out/u/660_2.m3u8
 #EXTINF:-1 tvg-id="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/26563
 #EXTINF:-1 tvg-id="Report TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png"  group-title="Shqiptare",Report TV
 http://95.107.132.105/out/u/647_2.m3u8
+#EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/7925
 #EXTINF:-1 tvg-id="RTV ORA" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",RTV ORA
 http://95.107.132.105/out/u/343_1.m3u8
 #EXTINF:-1 tvg-id="ORA News" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",ORA News
@@ -28,11 +28,14 @@ http://95.107.132.106/out/u/370_1.m3u8
 http://edge01eu.ekranet.com/mcntv_234p/index.m3u8
 #EXTINF:-1 tvg-id="Klan News" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klan-news-al.png"  group-title="Shqiptare",Klan News
 http://79.106.48.2:3131/live/klannewsott/playlist.m3u8
+#EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
+http://79.106.48.2:3131/live/syritvott/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Top News" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/26561
 #EXTINF:-1 tvg-id="My Music" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2107
+
 
 #EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="RTSH 1" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png" group-title="Shqiptare",RTSH 1 HD
 http://tvlive.rtsh.dev/live/rtsh_1mob_pp1/playlist.m3u8
