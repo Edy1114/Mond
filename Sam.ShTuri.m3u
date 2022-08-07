@@ -26,6 +26,8 @@ http://95.107.132.105/out/u/228_3.m3u8
 http://95.107.132.106/out/u/370_1.m3u8
 #EXTINF:-1 tvg-id="MCN TV" tvg-logo="https://www.mcn.al/sites/default/files/mcn_logo_web.png"  group-title="Shqiptare",MCN TV
 http://edge01eu.ekranet.com/mcntv_234p/index.m3u8
+#EXTINF:-1 tvg-id="Klan News" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klan-news-al.png"  group-title="Shqiptare",Klan News
+http://79.106.48.2:3131/live/klannewsott/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Top News" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/26561
