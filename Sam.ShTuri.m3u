@@ -21,7 +21,7 @@ http://95.107.132.105/out/u/343_1.m3u8
 #EXTINF:-1 tvg-id="ORA News" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",ORA News
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2106
 #EXTINF:-1 tvg-id="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png"  group-title="Shqiptare",Fax News
-http://95.107.132.105/out/u/228_3.m3u8
+http://89.39.106.21:8080/FaXNewsfsf/index.m3u8
 #EXTINF:-1 tvg-id="Adrianet" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",Adrianet
 http://95.107.132.106/out/u/370_1.m3u8
 #EXTINF:-1 tvg-id="MCN TV" tvg-logo="https://www.mcn.al/sites/default/files/mcn_logo_web.png"  group-title="Shqiptare",MCN TV
@@ -534,9 +534,8 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29817
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29793
 
 
-
-
-
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="Dokumentare",MotorTrend
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/35235
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Real_Time_logo.svg/500px-Real_Time_logo.svg.png" group-title="Dokumentare",Real Time 
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/8313
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX FHD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="Dokumentare",DMAX 
@@ -547,14 +546,16 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80500
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80478
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="GIALLO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Giallohd.png/800px-Giallohd.png" group-title="Dokumentare",GIALLO HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80505
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="Dokumentare",MotorTrend HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80525
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="Dokumentare",MotorTrend FHD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18687
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="cielo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png" group-title="Dokumentare",Cielo
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80449
 #EXTINF:-1 tvg-id="Focus" tvg-name="Focus Mediaset" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Focus_Mondadori_logo.png" group-title="Dokumentare",Focus Mediaset
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80450
 #EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png" group-title="Dokumentare",History HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80481
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="Dokumentare",MotorTrend
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80525
 #EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/640px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Dokumentare",DISCOVERY HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/8275
 #EXTINF:-1 tvg-id="NationalGeographic.it" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/800px-National_Geographic_Channel.svg.png"  group-title="Dokumentare",National Geographic 
@@ -681,8 +682,12 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/541
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18679
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 HD" tvg-logo="http://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" group-title="Sport ALB-ITA",Sky Sport F1
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80521
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1200px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport MOTO GP
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/5676
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1200px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport MOTO GP HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80532
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1200px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport MOTO GP FHD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/543
 #EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sky_Sport_NBA_-_Logo_2018.svg/1280px-Sky_Sport_NBA_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport NBA
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/5673
 #EXTINF:-1 tvg-id="eurosport.it" tvg-name="EUROSPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png" group-title="Sport ALB-ITA",Euro Sport 1 
