@@ -425,9 +425,9 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80448
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18716
 #EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Logo_Iris.svg/800px-Logo_Iris.svg.png" group-title="Italiane",Iris
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/8312
-#EXTINF:-1 tvg-id="LA 7" tvg-name="LA 7" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/LA7d_logo.png" group-title="Italiane",LA 7D
+#EXTINF:-1 tvg-id="La 7" tvg-name="LA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/317px-LA7_-_Logo_2011.svg.png" group-title="Italiane",LA 7
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80447
-#EXTINF:-1 tvg-id="La 7D" tvg-name="LA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/317px-LA7_-_Logo_2011.svg.png" group-title="Italiane",LA 7
+#EXTINF:-1 tvg-id="LA 7d" tvg-name="LA 7d" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/LA7d_logo.png" group-title="Italiane",LA 7D
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18722
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/205px-TV8_Logo_2016.svg.png" group-title="Italiane",TV8 
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18720
