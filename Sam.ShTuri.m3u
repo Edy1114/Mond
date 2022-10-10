@@ -35,7 +35,8 @@ http://109.104.129.195:8004/play/s64
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/26561
 #EXTINF:-1 tvg-id="My Music" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2107
-
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png"  group-title="Shqiptare",KanalD Drama
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1143
 
 #EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="RTSH 1" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png" group-title="Shqiptare",RTSH 1 HD
 http://tvlive.rtsh.dev/live/rtsh_1mob_pp1/playlist.m3u8
