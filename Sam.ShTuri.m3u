@@ -411,6 +411,8 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2276
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2275
 #EXTINF:-1 tvg-id="Rai Storia" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/1000px-Rai_Storia_-_Logo_2017.svg.png" group-title="Italiane",Rai Storia
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18718
+#EXTINF:-1 tvg-id="Rai News 24" tvg-name="Rai News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/320px-Rai_News_24_logo_%282022%29.svg.png" group-title="Italiane",Rai News 24
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80499
 #EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/520px-Logo_Italia_1.svg.png"  group-title="Italiane",Italia 1
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/50169
 #EXTINF:-1 tvg-id="Rete 4" tvg-name="Rete 4" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c0/Rete_4_-_Logo_2018.svg/520px-Rete_4_-_Logo_2018.svg.png"  group-title="Italiane",Rete 4
@@ -421,7 +423,9 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/50168
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80448
 #EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/497px-Logo_Italia2.svg.png"  group-title="Italiane",Italia 2
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18716
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/LA7d_logo.png" group-title="Italiane",LA 7D
+#EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Logo_Iris.svg/800px-Logo_Iris.svg.png" group-title="Italiane",Iris
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/8312
+#EXTINF:-1 tvg-id="LA 7" tvg-name="LA 7" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/LA7d_logo.png" group-title="Italiane",LA 7D
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80447
 #EXTINF:-1 tvg-id="La 7D" tvg-name="LA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/317px-LA7_-_Logo_2011.svg.png" group-title="Italiane",LA 7
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18722
