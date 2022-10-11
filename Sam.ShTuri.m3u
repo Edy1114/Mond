@@ -694,130 +694,110 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/80492
 
 
 
-
-#EXTINF:-1 tvg-id="LaLigaTV HD" tvg-name="VIP UK: LA LIGA HD" tvg-logo="https://www.rfc-seraing.be/wp-content/uploads/2018/08/laliga-h-1200x1200_2018.png" group-title="UK Sports",LA LIGA TV
+#EXTINF:-1 tvg-ID="" tvg-name="LaLigaTV HD" tvg-logo="https://www.rfc-seraing.be/wp-content/uploads/2018/08/laliga-h-1200x1200_2018.png" group-title="UK Sports",LA LIGA HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18771
-#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK: BT Sport ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BTSPORT_ESPN_BLACK_RED.png/800px-BTSPORT_ESPN_BLACK_RED.png" group-title="UK Sports",BT Sport ESPN
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/20199
-#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: BT Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sport 1
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/8178
-#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: BT Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sport 2
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/8179
-#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: BT Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sport 3
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1282
 
-#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports Main Event 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports News
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30338
+#EXTINF:-1 tvg-ID="" tvg-name="SkySP PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Premier League
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30341
+#EXTINF:-1 tvg-ID="" tvg-name="SkySpMainEV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Main Event
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30342
-#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK: Sky Sport PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sky_Sport_Football_HD_-_Logo_2018.svg/800px-Sky_Sport_Football_HD_-_Logo_2018.svg.png" group-title="UK Sports",Sky Sports Premier League 
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/6684
-#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="VIP UK: Sky Sport Football HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/800px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports Football
+#EXTINF:-1 tvg-ID="" tvg-name="SkySp Fball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Football
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30344
-#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="VIP UK: Sky Sport Mix HD 1080P" tvg-logo="https://up.metropol247.co.uk/072017/1499814578_8209779.png" group-title="UK Sports",Sky Sport Mix
+#EXTINF:-1 tvg-ID="" tvg-name="SkySp Mix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Mix
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30339
-#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="VIP UK: Sky Sport F1 HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/800px-Sky_Sport_F1_-_Logo_2018.svg.png" group-title="UK Sports",Sky Sports F1
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/8177
-#EXTINF:-1 tvg-ID="premiersports1.uk" tvg-name="VIP UK: Premier Sports 1 FHD" tvg-logo="http://media15.tv/wp-content/uploads/2015/07/square-premier.jpg" group-title="UK Sports",Premier Sports 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports F1
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30345
+#EXTINF:-1 tvg-ID="" tvg-name="SkySp Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Arena HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/12662
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 1
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1641
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 2
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2512
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 3
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/60879
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 4
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/60880
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 5
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/118260
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 6
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/118261
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 7
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/118262
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 8
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/118263
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 9
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/118264
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 10
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/118265
+
+
+
+#EXTINF:-1 tvg-ID="premiersports1.uk" tvg-name="VIP UK: Premier Sports 1 FHD" tvg-logo="http://media15.tv/wp-content/uploads/2015/07/square-premier.jpg" group-title="UK Sports",Premier Sports 1 HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/22620
-#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="VIP UK: Premier Sports 2 FHD" tvg-logo="https://media15.tv/wp-content/uploads/2015/07/square-premier.jpg" group-title="UK Sports",Premier Sports 2
+#EXTINF:-1 tvg-ID="Premier 2 HD" tvg-name="Premier 2 HD" tvg-logo="http://media15.tv/wp-content/uploads/2015/07/square-premier.jpg" group-title="UK Sports",Premier Sports 2
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30440
-#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="VIP UK: Sky Sport Action HD 1080P" tvg-logo="https://s3.amazonaws.com/ok2logo/SKYACTION.png" group-title="UK Sports",Sky Sports Action
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/6682
-#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="VIP UK: Sky Sport Arena HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sky_Sport_Arena_HD_-_Logo_2020.svg/640px-Sky_Sport_Arena_HD_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports Arena
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/5657
-#EXTINF:-1 tvg-ID="boxnation.uk" tvg-name="UK: Box Nation HD" tvg-logo="ttps://s3.amazonaws.com/ok2logo/SKYACTION.png" group-title="UK Sports",Box Nation HD
+
+#EXTINF:-1 tvg-ID="boxnation.uk" tvg-name="UK: Box Nation HD" tvg-logo="ttps://s3.amazonaws.com/ok2logo/SKYACTION.png" group-title="UK Sports",Box Nation
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/17004
 
-#EXTINF:-1 tvg-ID="beinsports.us" tvg-name="BEIN SPORTS US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK Sports",US: BEIN SPORTS US
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/10696
-#EXTINF:-1 tvg-ID="beinsports.us" tvg-name="US: Bein Sports USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK Sports",US: Bein Sports
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/5391
-#EXTINF:-1 tvg-ID="beinsports.my" tvg-name="BEIN SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK Sports",BEIN SPORTS HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/20367
+#EXTINF:-1 tvg-ID="premiersports1.uk" tvg-name="UK:Eir Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="UK Sports",Eir Sport 1
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/376
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="UK:Eir Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="UK Sports",Eir Sport 2
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18130
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport1-United Kinggdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/500px-Eurosport_1_Logo_2015.svg.png" group-title="UK Sports",EuroSports 1
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/66148
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport2-United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png" group-title="UK Sports",EuroSports 2
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/66149
 
 
-#EXTINF:-1 tvg-ID="astrosupersport.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="UK Sports",MLZ: ASTRO SUPERSPORTS 1
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/40598
-#EXTINF:-1 tvg-ID="astrosupersport2.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="UK Sports",MLZ: ASTRO SUPERSPORTS 2
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/40599
-#EXTINF:-1 tvg-ID="astrosupersport3.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="UK Sports",MLZ: ASTRO SUPERSPORTS 3
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/40600
-#EXTINF:-1 tvg-ID="astrosupersport4.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="UK Sports",MLZ: ASTRO SUPERSPORTS 4
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/40601
 
-#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="UK Sports",SG: Eleven Sport
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/5106
-
-#EXTINF:-1 tvg-id="EirSport1.ie" tvg-name="UK:Eir Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="UK Sports",Eir Sport 1
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30526
-#EXTINF:-1 tvg-id="EirSport2.ie" tvg-name="UK:Eir Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="UK Sports",Eir Sport 2
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30527
-
-#EXTINF:-1 tvg-id="EuroSports" tvg-name="EuroSport 1 UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/500px-Eurosport_1_Logo_2015.svg.png" group-title="UK Sports",EuroSports 1
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1634
-#EXTINF:-1 tvg-id="EuroSports2.uk" tvg-name="EuroSport 2 UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png" group-title="UK Sports",EuroSports 2
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1633
-#EXTINF:-1 tvg-id="SkySp Golf" tvg-name="Sky Sports Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports Golf HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/6683
-
-
-#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="VIP UK: Sky Sport Main Event FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport Main Events HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/6680
-#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="VIP UK: Sky Sport Football FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport Football HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/15406
-#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="Sky Sport Arena FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport Arena HD
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports News
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/28991
+#EXTINF:-1 tvg-ID="" tvg-name="SkySp PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Premier League
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/6684
+#EXTINF:-1 tvg-ID="" tvg-name="SkySpMainEv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Main Events
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/8172
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports F1
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/8177
+#EXTINF:-1 tvg-ID="" tvg-name="SkySp Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Arena
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/12665
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="SKY SPORTS Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sky_Sport_Arena_HD_-_Logo_2020.svg/640px-Sky_Sport_Arena_HD_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports Arena
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/409
-#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="VIP UK: BT Sports 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",UK: BT Sports 1 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1641
-#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="VIP UK: BT Sports 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",UK: BT Sports 2 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2512
-#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="VIP UK: BT Sports 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",UK: BT Sports 3 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2513
-#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: EIR SPORTS 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="UK Sports",UK: Eir Sport 1 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/3045
-#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: BT Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",UK: BT Sport 1
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/374
-#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: BT Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",UK: BT Sport 2
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/375
-#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK: BT Sport ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BTSPORT_ESPN_BLACK_RED.png/800px-BTSPORT_ESPN_BLACK_RED.png" group-title="UK Sports",UK: BT Sport ESPN HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/587
 
 
 
-#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="VIP UK: Sky Sport News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport News FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30338
-#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="VIP UK: Sky Sport Main Event FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport Main Event FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30342
-#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK: Sky Sport Cricket HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport Cricket FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30346
-#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="VIP UK: Sky Sport Action FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport Action FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30348
-#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK:Sky Sport Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport Golf FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30343
-#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK: Sky Sport PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport Premier League FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30341
-#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sport F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport F1 FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30345
-#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="VIP UK: Sky Sport Arena FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport Arena FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30347
-#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="VIP UK: Sky Sport Football FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport Football FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/12663
-#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="VIP UK: Sky Sport Mix FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport Mix FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30339
-#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="VIP UK: Sky Sport Action FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",UK: Sky Sport Action HD 
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/8174
-#EXTINF:-1 tvg-ID="elevensports.uk" tvg-name="VIP UK: ELEVEN SPORT 1 1080P"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="UK Sports",UK: ELEVEN SPORT 1 1080P
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18770
 
-#EXTINF:-1 tvg-ID="astrosupersport.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="UK Sports",MLZ: ASTRO SUPERSPORTS 1 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/19170
-#EXTINF:-1 tvg-ID="astrosupersport2.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="UK Sports",MLZ: ASTRO SUPERSPORTS 2 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/19171
-#EXTINF:-1 tvg-ID="astrosupersport3.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="UK Sports",MLZ: ASTRO SUPERSPORTS 3 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/19172
-#EXTINF:-1 tvg-ID="astrosupersport4.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="UK Sports",MLZ: ASTRO SUPERSPORTS 4 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/19173
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports News
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/416
+#EXTINF:-1 tvg-ID="" tvg-name="SkySp PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Premier League
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/255
+#EXTINF:-1 tvg-ID="" tvg-name="SkySp Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Action
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/257
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports Golf
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/256
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports F1
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/253
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 1
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/8178
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 2
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/60878
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 3
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/8180
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 4
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/20199
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-ID="beinsportespanol.us" tvg-name="BEIN SPORTS N FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="Spain Sports",US: BEIN SPORTS N
