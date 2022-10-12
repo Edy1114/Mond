@@ -852,10 +852,7 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23139
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23138
 
 
-#EXTINF:-1 tvg-ID="RMCSportAccess1.fr" tvg-name="VIP FR: RMC SPORT Accees 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/500px-Logo_RMC_Sport_2018.svg.png" group-title="France Sports",FR: RMC SPORT Accees 1 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/19425
-#EXTINF:-1 tvg-ID="RMCSportAccess2.fr" tvg-name="VIP FR: RMC SPORT Accees 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/500px-Logo_RMC_Sport_2018.svg.png" group-title="France Sports",FR: RMC SPORT Accees 2 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23795
+
 #EXTINF:-1 tvg-ID="RMCSport1.fr" tvg-name="VIP FR: RMC SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/500px-Logo_RMC_Sport_2018.svg.png" group-title="France Sports",FR: RMC SPORT 1 HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/7285
 #EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="VIP FR: RMC SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/500px-Logo_RMC_Sport_2018.svg.png" group-title="France Sports",FR: RMC SPORT 2 HD
@@ -961,7 +958,10 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/14902
 #EXTINF:-1 tvg-ID="beINSport3.fr" tvg-name="VIP FR: BEINSPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="France Sports",FR: BEINSPORT 3 HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/14903
 
-
+#EXTINF:-1 tvg-ID="RMCSportAccess1.fr" tvg-name="VIP FR: RMC SPORT Accees 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/500px-Logo_RMC_Sport_2018.svg.png" group-title="France Sports",FR: RMC SPORT Accees 1 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/19425
+#EXTINF:-1 tvg-ID="RMCSportAccess2.fr" tvg-name="VIP FR: RMC SPORT Accees 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/500px-Logo_RMC_Sport_2018.svg.png" group-title="France Sports",FR: RMC SPORT Accees 2 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23795
 
 
 #EXTINF:-1 tvg-ID="DAZN DE" tvg-name="DAZN Bar 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/500px-DAZN_logo.svg.png" group-title="Germany Sports",DE: DAZN Bar 1 FHD
