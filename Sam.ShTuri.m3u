@@ -866,13 +866,6 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23049
 
 
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga 1FHD (event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLiga 1FHD (event only)
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23105
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga 2FHD (event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLiga 2FHD (event only)
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23104
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 3FHD (event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLIga 3FHD (event only)
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/34550
-
 
 #EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLiga FHD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23057
@@ -887,13 +880,20 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/30737
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: M. LaLiga FHD (Multi-Audio)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLiga FHD 
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/63095
 
-
 #EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/LaLiga_TV_Bar_HD.png/800px-LaLiga_TV_Bar_HD.png" group-title="Spain Sports",ES: La Liga BAR H265
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/49813
 #EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/LaLiga_TV_Bar_HD.png/800px-LaLiga_TV_Bar_HD.png" group-title="Spain Sports",ES: La Liga BAR FHD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23045
 #EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/LaLiga_TV_Bar_HD.png/800px-LaLiga_TV_Bar_HD.png" group-title="Spain Sports",ES: La Liga BAR SD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/34552
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga 1FHD (event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLiga 1FHD (event only)
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23105
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga 2FHD (event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLiga 2FHD (event only)
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23104
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 3FHD (event only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="Spain Sports",ES: M. LaLIga 3FHD (event only)
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/34550
+
 
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: M. Campeones UHD 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/640px-Movistar_Liga_de_Campeones.svg.png" group-title="Spain Sports",ES: M. Campeones UHD 4K
@@ -914,11 +914,6 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/118104
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/116075
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: DAZN LaLiga
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/116981
-
-#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: DAZN F1 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2570
-#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: Dazn F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: Dazn F1
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1087
 
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN BAR 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: DAZN BAR 1 FHD
@@ -947,6 +942,10 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/63107
 #EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN F1 ESPAÑA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: DAZN F1 ESPAÑA FHD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/63100
 
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: DAZN F1 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2570
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: Dazn F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Spain Sports",ES: Dazn F1
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1087
 
 #EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/640px-Vamos.svg.png" group-title="Spain Sports",ES: # Vamos FHD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23061
