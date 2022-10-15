@@ -25,7 +25,7 @@ http://89.39.106.21:8080/FaXNewsfsf/index.m3u8
 #EXTINF:-1 tvg-id="Adrianet" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",Adrianet
 http://95.107.132.106/out/u/370_1.m3u8
 #EXTINF:-1 tvg-id="MCN TV" tvg-logo="https://www.mcn.al/sites/default/files/mcn_logo_web.png"  group-title="Shqiptare",MCN TV
-http://edge01eu.ekranet.com/mcntv_234p/index.m3u8
+http://109.104.129.195:8004/play/s57
 #EXTINF:-1 tvg-id="Klan News" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klan-news-al.png"  group-title="Shqiptare",Klan News
 http://109.104.129.195:8004/play/s68
 #EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
