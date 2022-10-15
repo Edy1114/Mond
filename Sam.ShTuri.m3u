@@ -1097,8 +1097,6 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/23795
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/122
 #EXTINF:-1 tvg-ID="skysportnews.de" tvg-name="Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sports News HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/120
-#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Sport1+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sport1+ HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/35324
 #EXTINF:-1 tvg-ID="skysport1.de" tvg-name="Sky Sport Top Events" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Top Events FHD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/31051
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Premier League HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Premier League FHD
@@ -1122,28 +1120,21 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1344
 #EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 3 HD (Games only )
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/14123
 #EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 4 HD (Games only )
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/9180
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/9175
 #EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 5 HD (Games only )
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/9179
 #EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 6 HD (Games only )
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/9178
 #EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="Sky Sport Bundesliga 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 7 HD(Games only )
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/14124
-#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 8 HD(Games only )
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/9176
-#EXTINF:-1 tvg-ID="skybundesliga9.de" tvg-name="Sky Sport Bundesliga 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 9 HD(Games only )
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/9175
 
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DE: Sport1+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sport1+ HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/35324
 
-
-
-
-
-
-#EXTINF:-1 tvg-ID="DAZN DE" tvg-name="DDAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/500px-DAZN_logo.svg.png" group-title="Germany Sports",DE: DAZN Bar 1 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18763
-#EXTINF:-1 tvg-ID="DAZN DE" tvg-name="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/500px-DAZN_logo.svg.png" group-title="Germany Sports",DE: DAZN Bar 2 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18764
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/500px-DAZN_logo.svg.png" group-title="Germany Sports",DE: DAZN Bar 1 FHD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/63982
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/500px-DAZN_logo.svg.png" group-title="Germany Sports",DE: DAZN Bar 2 FHD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/63983
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="VIP DE: DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/500px-DAZN_logo.svg.png" group-title="Germany Sports",DE: DAZN 1 HD [Live During Events Only]
@@ -1175,7 +1166,6 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/99033
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/99034
 #EXTINF:-1 tvg-ID="" tvg-name="RTL+ LIVE 7"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png" group-title="Germany Sports",RTL+ 7 HD [Live During Events Only]
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/99035
-
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="MagentaSport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/618px-Magenta_Sport_Logo_2022.svg.png" group-title="Germany Sports",DE: Magenta Sport 1 HD
@@ -1235,51 +1225,16 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/35316
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: Telekom Magenta 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/618px-Magenta_Sport_Logo_2022.svg.png" group-title="Germany Sports",DE: Telekom Magenta 4 HD [Bundesliga 3]
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/35320
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: Telekom Magenta 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/618px-Magenta_Sport_Logo_2022.svg.png" group-title="Germany Sports",DE: Telekom Magenta 5 HD [Bundesliga 3]
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/35318
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: Telekom Magenta 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/618px-Magenta_Sport_Logo_2022.svg.png" group-title="Germany Sports",DE: Telekom Magenta 6 HD [Bundesliga 3]
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/35319
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-ID="skysport1.de" tvg-name="Sky Sport Top Events" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Top Events HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/14127
 
-
-#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="Sky Sport Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/31062
-#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/539
-#EXTINF:-1 tvg-ID="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 2 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/9182
-#EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 3 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1343
-#EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 4 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1342
-#EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 5 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1341
-#EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 6 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1340
-#EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="Sky Sport Bundesliga 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 7 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1339
-#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 8 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1338
-#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 9 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1337
-#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Bundesliga 10 HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1345
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/500px-DAZN_logo.svg.png" group-title="Germany Sports",DE: DAZN Bar 1 FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/63982
-#EXTINF:-1 tvg-ID="NULL" tvg-name="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/500px-DAZN_logo.svg.png" group-title="Germany Sports",DE: DAZN Bar 2 FHD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/63983
-
+#EXTINF:-1 tvg-ID="DAZN DE" tvg-name="DDAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/500px-DAZN_logo.svg.png" group-title="Germany Sports",DE: DAZN Bar 1 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18763
+#EXTINF:-1 tvg-ID="DAZN DE" tvg-name="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/500px-DAZN_logo.svg.png" group-title="Germany Sports",DE: DAZN Bar 2 HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/18764
 
 #EXTINF:-1 tvg-ID="skysport2.de" tvg-name="VIP DE: Sky Sport Tennis FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/512px-Sky_Group_logo_2020.svg.png" group-title="Germany Sports",DE: Sky Sport Tennis FHD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/31061
