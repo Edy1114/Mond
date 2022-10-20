@@ -39,19 +39,19 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2107
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1143
 
 #EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="RTSH 1" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png" group-title="Shqiptare",RTSH 1 HD
-http://tvlive.rtsh.dev/live/rtsh_1mob_pp1/playlist.m3u8
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29894
 #EXTINF:-1 tvg-id="RTSH2 HD" tvg-name="RTSH 2" tvg-logo="http://www.albepg.com/tvlogi/RTSH2%20HD.png" group-title="Shqiptare",RTSH 2 HD
-http://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29893
 #EXTINF:-1 tvg-id="RTSH3 HD" tvg-name="RTSH 3" tvg-logo="http://www.albepg.com/tvlogi/RTSH3%20HD.png" group-title="Shqiptare",RTSH 3 HD
-http://tvlive.rtsh.dev/live/rtsh3ottp2/playlist.m3u8
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29892
 #EXTINF:-1 tvg-id="RTSH Film" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Film.png" group-title="Shqiptare",RTSH Film
-https://tvlive.rtsh.dev/live/rtsh_film_ott_p2/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH Plus" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Plus.png" group-title="Shqiptare",RTSH Plus
-https://tvlive.rtsh.dev/live/rtsh_plus_ott_p1/playlist.m3u8
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/7924
 #EXTINF:-1 tvg-id="RTSH Shqip" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Shqip.png" group-title="Shqiptare",RTSH Shqip
-http://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29891
 #EXTINF:-1 tvg-id="RTSH Sport" tvg-name="RTSH Sport" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png" group-title="Shqiptare",Rtsh Sport
-http://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2102
+#EXTINF:-1 tvg-id="RTSH 24" tvg-name="Rtsh 24" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png" group-title="Shqiptare",RTSH 24
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29890
 #EXTINF:-1 tvg-id="RTSH Kukësi" tvg-name="Rtsh Kukësi" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Kukësi
 http://tvlive.rtsh.dev/live/rtsh_kukesi_ott/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSH Shkodra" tvg-name="Rtsh Shkodra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Shkodra
@@ -60,9 +60,8 @@ http://tvlive.rtsh.dev/live/rtsh_shkodra_ott/playlist.m3u8
 https://tvlive.rtsh.dev/live/rtsh_korca_ott_p1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSH Gjirokastra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Gjirokastra
 https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott_p1/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH 24" tvg-name="Rtsh 24" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png" group-title="Shqiptare",RTSH 24
-http://tvlive.rtsh.dev/live/rtsh_24_ott/playlist.m3u8
-
+#EXTINF:-1 tvg-id="RTSH Plus" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Plus.png" group-title="Shqiptare",RTSH Plus
+https://tvlive.rtsh.dev/live/rtsh_plus_ott_p1/playlist.m3u8
 
 
 
