@@ -25,8 +25,7 @@ http://95.107.132.106/out/u/370_1.m3u8
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png"  group-title="Shqiptare",Fax News
-http://89.39.106.21:8080/FaXNewsfsf/index.m3u8
-
+http://185.89.156.111:8000/play/a009
 
 #EXTINF:-1 tvg-id="MCN TV" tvg-logo="https://www.mcn.al/sites/default/files/mcn_logo_web.png"  group-title="Shqiptare",MCN TV
 http://109.104.129.195:8004/play/s57
