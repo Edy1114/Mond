@@ -3,27 +3,31 @@
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/1050
 #EXTINF:-1 tvg-id="TV Klan" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png"  group-title="Shqiptare",Klan 
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/15661
+#EXTINF:-1 tvg-id="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png"  group-title="Shqiptare",Klan Plus
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29897
+#EXTINF:-1 tvg-id="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/26563
+#EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/7925
+#EXTINF:-1 tvg-id="ORA News" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",ORA News
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2106
 
 #EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
-#EXTINF:-1 tvg-id="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png"  group-title="Shqiptare",Klan Plus
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29897
-#EXTINF:-1 tvg-id="News 24" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/26563
-#EXTINF:-1 tvg-id="Report TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png"  group-title="Shqiptare",Report TV
-http://95.107.132.105/out/u/647_2.m3u8
-#EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/7925
 #EXTINF:-1 tvg-id="RTV ORA" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",RTV ORA
 http://95.107.132.105/out/u/343_1.m3u8
-#EXTINF:-1 tvg-id="ORA News" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",ORA News
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2106
-#EXTINF:-1 tvg-id="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png"  group-title="Shqiptare",Fax News
-http://89.39.106.21:8080/FaXNewsfsf/index.m3u8
+#EXTINF:-1 tvg-id="Report TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png"  group-title="Shqiptare",Report TV
+http://95.107.132.105/out/u/647_2.m3u8
 #EXTINF:-1 tvg-id="Adrianet" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",Adrianet
 http://95.107.132.106/out/u/370_1.m3u8
+
+#EXTINF:-1 tvg-id="News 24" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png"  group-title="Shqiptare",Fax News
+http://89.39.106.21:8080/FaXNewsfsf/index.m3u8
+
+
 #EXTINF:-1 tvg-id="MCN TV" tvg-logo="https://www.mcn.al/sites/default/files/mcn_logo_web.png"  group-title="Shqiptare",MCN TV
 http://109.104.129.195:8004/play/s57
 #EXTINF:-1 tvg-id="Klan News" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klan-news-al.png"  group-title="Shqiptare",Klan News
@@ -52,14 +56,15 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29891
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2102
 #EXTINF:-1 tvg-id="RTSH 24" tvg-name="Rtsh 24" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png" group-title="Shqiptare",RTSH 24
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29890
-#EXTINF:-1 tvg-id="RTSH Kukësi" tvg-name="Rtsh Kukësi" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Kukësi
-http://185.89.156.111:8000/play/a02f
-#EXTINF:-1 tvg-id="RTSH Shkodra" tvg-name="Rtsh Shkodra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Shkodra
-http://185.89.156.111:8000/play/a02g
 #EXTINF:-1 tvg-id="RTSH Korca" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqiptare",RTSH Korca
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29889
 #EXTINF:-1 tvg-id="RTSH Gjirokastra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Gjirokastra
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29888
+
+#EXTINF:-1 tvg-id="RTSH Kukësi" tvg-name="Rtsh Kukësi" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Kukësi
+http://185.89.156.111:8000/play/a02f
+#EXTINF:-1 tvg-id="RTSH Shkodra" tvg-name="Rtsh Shkodra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Shkodra
+http://185.89.156.111:8000/play/a02g
 #EXTINF:-1 tvg-id="RTSH Plus" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Plus.png" group-title="Shqiptare",RTSH Plus
 http://185.89.156.111:8000/play/a028
 
