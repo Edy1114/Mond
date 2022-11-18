@@ -53,16 +53,15 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/2102
 #EXTINF:-1 tvg-id="RTSH 24" tvg-name="Rtsh 24" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png" group-title="Shqiptare",RTSH 24
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29890
 #EXTINF:-1 tvg-id="RTSH Kukësi" tvg-name="Rtsh Kukësi" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Kukësi
-http://tvlive.rtsh.dev/live/rtsh_kukesi_ott/playlist.m3u8
+http://185.89.156.111:8000/play/a02f
 #EXTINF:-1 tvg-id="RTSH Shkodra" tvg-name="Rtsh Shkodra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Shkodra
-http://tvlive.rtsh.dev/live/rtsh_shkodra_ott/playlist.m3u8
+http://185.89.156.111:8000/play/a02g
 #EXTINF:-1 tvg-id="RTSH Korca" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqiptare",RTSH Korca
-https://tvlive.rtsh.dev/live/rtsh_korca_ott_p1/playlist.m3u8
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29889
 #EXTINF:-1 tvg-id="RTSH Gjirokastra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Gjirokastra
-https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott_p1/playlist.m3u8
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/29888
 #EXTINF:-1 tvg-id="RTSH Plus" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Plus.png" group-title="Shqiptare",RTSH Plus
-https://tvlive.rtsh.dev/live/rtsh_plus_ott_p1/playlist.m3u8
-
+http://185.89.156.111:8000/play/a028
 
 
 
