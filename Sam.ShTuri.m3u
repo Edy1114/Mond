@@ -326,15 +326,7 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109957
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109958
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="KS AKSION AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",KS AKSION AL
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109959
-#EXTINF:-1 tvg-ID="" tvg-name="KS COMEDY AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",KS COMEDY AL
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109960
-#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",KS Filma24 Aksion HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109964
 
-#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Aventure HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",KS Filma24 Aventure HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109966
 #EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Aziatika HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",KS Filma24 Aziatika HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109976
 #EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Drame HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",KS Filma24 Drame HD
@@ -343,13 +335,14 @@ http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109965
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109971
 #EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Krim HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",KS Filma24 Krim HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109968
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",KS Filma24 Mister HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109970
 
 #EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Premiere HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",KS Filma24 Premiere HD
 http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109962
-#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 SCI-Fi  HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",KS Filma24 SCI-Fi  HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109972
-#EXTINF:-1 tvg-ID="" tvg-name="KS Filma24 Triller HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",KS Filma24 Triller HD
-http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109969
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",KS Filma24 Western HD
+http://livego.club:8080/qXREdHbvR0/4Tdq10Q5ay/109973
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="WebStar Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",WebStar Aksion HD
