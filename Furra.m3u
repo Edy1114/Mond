@@ -1,4 +1,13 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="BigBrother 1" tvg-name="BigBrother 1" tvg-logo="https://bbalbaniavip.com/wp-content/uploads/2021/09/BigBrotherAlbaniaVIP-Logo.png"  group-title="Shqiptare",BigBrother 1
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/127935
+#EXTINF:-1 tvg-id="BigBrother 2" tvg-name="BigBrother 2" tvg-logo="https://bbalbaniavip.com/wp-content/uploads/2021/09/BigBrotherAlbaniaVIP-Logo.png"  group-title="Shqiptare",BigBrother 2
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/127936
+#EXTINF:-1 tvg-id="Big Brother VIP Kosova 1" tvg-name="BigBrother 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/BBVK_Logo.jpg"  group-title="Shqiptare",Big Brother VIP Kosova 1
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/126114
+#EXTINF:-1 tvg-id="Big Brother VIP Kosova 2" tvg-name="BigBrother 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/BBVK_Logo.jpg"  group-title="Shqiptare",Big Brother VIP Kosova 2
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/126116
 #EXTINF:-1 tvg-id="Top Channel" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png"  group-title="Shqiptare",Top Channel
 http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/1050
 #EXTINF:-1 tvg-id="TV Klan" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png"  group-title="Shqiptare",Klan 
@@ -7,14 +16,13 @@ http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/15661
 http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/29897
 #EXTINF:-1 tvg-id="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News
 http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/26563
-#EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV HD
-http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/7925
+
 #EXTINF:-1 tvg-id="ORA News" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",ORA News
 http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/2106
 #EXTINF:-1 tvg-id="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png"  group-title="Shqiptare",Fax News
 http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/26566
 #EXTINF:-1 tvg-id="Klan Kosova" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png"  group-title="Shqiptare",Klan Kosova
-http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/1078
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/107
 
 #EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus
 http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
@@ -22,8 +30,8 @@ http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 http://95.107.132.105/out/u/343_1.m3u8
 #EXTINF:-1 tvg-id="Report TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png"  group-title="Shqiptare",Report TV
 http://95.107.132.105/out/u/647_2.m3u8
-#EXTINF:-1 tvg-id="Adrianet" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",Adrianet
-http://95.107.132.106/out/u/370_1.m3u8
+#EXTINF:-1 tvg-id="Adriane" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",Adrianet
+http://95.107.132.10/out/u/370_1.m3u8
 
 #EXTINF:-1 tvg-id="News 24" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
@@ -37,10 +45,22 @@ http://79.106.90.114/out/u/syritv.m3u8
 
 #EXTINF:-1 tvg-id="Top News" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News
 http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/26561
-#EXTINF:-1 tvg-id="My Music" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
-http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/2107
+#EXTINF:-1 tvg-id="Klan Kosova" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png"  group-title="Shqiptare",Klan Kosova
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/1078
 #EXTINF:-1 tvg-id="KanalD Drama" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png"  group-title="Shqiptare",KanalD Drama
 http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/1143
+#EXTINF:-1 tvg-id="My Music" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/2107
+#EXTINF:-1 tvg-id="Klan Music" tvg-name="Klan Music AL" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Music.png"  group-title="Shqiptare",Klan Music
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/36014
+#EXTINF:-1 tvg-ID="" tvg-name="Folk" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", Folk 
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/2131
+#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Supersonic" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", Supersonic
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/2118
+#EXTINF:-1 tvg-ID="" tvg-name="AL: BBF" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", BBF
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/2135
+
+
 
 #EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="RTSH 1" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png" group-title="Shqiptare",RTSH 1 HD
 http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/29894
@@ -67,7 +87,6 @@ http://185.89.156.111:8000/play/a02f
 http://185.89.156.111:8000/play/a02g
 #EXTINF:-1 tvg-id="RTSH Plus" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Plus.png" group-title="Shqiptare",RTSH Plus
 http://185.89.156.111:8000/play/a028
-
 
 
 
@@ -393,7 +412,7 @@ http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/50168
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="Italiane",La 5
 http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/2280
 #EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/497px-Logo_Italia2.svg.png"  group-title="Italiane",Italia 2
-http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/18716
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/80561
 #EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Iris_logo_2013.svg/320px-Iris_logo_2013.svg.png" group-title="Italiane",Iris
 http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/80451
 #EXTINF:-1 tvg-id="La 7" tvg-name="LA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/317px-LA7_-_Logo_2011.svg.png" group-title="Italiane",LA 7
@@ -529,7 +548,7 @@ http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/80449
 #EXTINF:-1 tvg-id="Focus" tvg-name="Focus Mediaset" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Focus_Mondadori_logo.png" group-title="Dokumentare",Focus Mediaset
 http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/80450
 #EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png" group-title="Dokumentare",History HD
-http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/80481
+http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/1001
 #EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/640px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Dokumentare",DISCOVERY HD
 http://livego.club:8080/hMWCgxwk6Rfw/ehRFzupG13DW/80511
 #EXTINF:-1 tvg-id="NationalGeographic.it" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/800px-National_Geographic_Channel.svg.png"  group-title="Dokumentare",National Geographic 
