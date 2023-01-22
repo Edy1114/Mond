@@ -89,10 +89,6 @@ http://185.89.156.111:8000/play/a028
 
 
 
-#EXTINF:-1 tvg-id="Digi Gold" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold.png"  group-title="Filma",Digi Gold
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/236
-#EXTINF:-1 tvg-id="Max HD" tvg-logo="http://www.albepg.com/tvlogi/Max%20HD.png"  group-title="Filma",Max HD
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/239
 #EXTINF:-1 tvg-id="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png"  group-title="Filma",Film Aksion
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/242
 #EXTINF:-1 tvg-id="Film Komedi" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png"  group-title="Filma",Film Komedi
@@ -105,6 +101,10 @@ http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/238
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/234
 #EXTINF:-1 tvg-id="Film Dramë" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png"  group-title="Filma",Film Drame 
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/240
+#EXTINF:-1 tvg-id="Digi Gold" tvg-name="Film Nje" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold.png"  group-title="Filma",Digi Gold
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/236
+#EXTINF:-1 tvg-id="Max HD" tvg-name="Film Dy" tvg-logo="http://www.albepg.com/tvlogi/Max%20HD.png"  group-title="Filma",Max HD
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/239
 #EXTINF:-1 tvg-id="Film Family" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="Filma",Film Family
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/29818
 #EXTINF:-1 tvg-id="T HD" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png"  group-title="Filma",T HD
