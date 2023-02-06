@@ -220,16 +220,6 @@ http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/82681
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/82677
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Netflix Aksion AL" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Netflix Aksion 
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/110056
-#EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Dark Netflix 1 HD
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/109982
-#EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Dark Netflix 2 HD
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/109983
-#EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Dark Netflix 3 HD
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/109984
-#EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Dark Netflix 4 HD
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/109985
-
-
 
 #EXTINF:-1 tvg-id="AL Sky Max" tvg-name="Sky AL Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Filma",Sky Max
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/3579
@@ -241,6 +231,19 @@ http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/3581
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/3578
 #EXTINF:-1 tvg-id="AL Sky Novela" tvg-name="Sky Novela Al" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Filma",Sky Novela
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/3576
+
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Dark Netflix 1 HD
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/109982
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Dark Netflix 2 HD
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/109983
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Dark Netflix 3 HD
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/109984
+#EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Dark Netflix 4 HD
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/109985
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Tëvë Aksion" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Aksion
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/42913
@@ -392,9 +395,9 @@ http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/50167
 #EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/520px-Canale_5_-_2018_logo.svg.png"  group-title="Italiane",Canale 5
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/50168
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/260px-La5_Italy.svg.png" group-title="Italiane",La 5
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/2280
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/80448
 #EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/497px-Logo_Italia2.svg.png"  group-title="Italiane",Italia 2
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/80561
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/8312
 #EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Iris_logo_2013.svg/320px-Iris_logo_2013.svg.png" group-title="Italiane",Iris
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/80451
 #EXTINF:-1 tvg-id="La 7" tvg-name="LA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/317px-LA7_-_Logo_2011.svg.png" group-title="Italiane",LA 7
