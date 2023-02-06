@@ -94,6 +94,8 @@ http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/237
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/241
 #EXTINF:-1 tvg-id="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Filma",Film Hits  
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/238
+#EXTINF:-1 tvg-id="Film Hits" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Filma",Film Hits HD
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/2158
 #EXTINF:-1 tvg-id="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png"  group-title="Filma",Film Thriller
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/234
 #EXTINF:-1 tvg-id="Film Dramë" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png"  group-title="Filma",Film Drame 
@@ -358,8 +360,6 @@ http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/109973
 
 #EXTINF:-1 tvg-ID="" tvg-name="WebStar Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",WebStar Aksion HD
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/110039
-#EXTINF:-1 tvg-id="Film Hits" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Filma",Film Hits HD
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/2158
 #EXTINF:-1 tvg-id="Muse" tvg-name="Muse" tvg-logo="http://www.albepg.com/tvlogi/Muse.png"  group-title="Filma",Tring Muse
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/216
 
