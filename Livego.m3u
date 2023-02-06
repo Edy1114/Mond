@@ -662,6 +662,15 @@ http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/80233
 #EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Fight Box" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Sport ALB-ITA",Fight Box
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/29821
 
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Sport ALB-ITA",DAZN
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/80543
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Sport ALB-ITA",DAZN 1
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/80516
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Sport ALB-ITA",DAZN 2
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/80517
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Sport ALB-ITA",DAZN 3
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/26104
+
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="SKY SPORT" tvg-logo="http://logo.megaott.net/ITALY/SKYSPORT24FHD.png" group-title="Sport ALB-ITA",Sky Sport 24
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/80488
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Uno
