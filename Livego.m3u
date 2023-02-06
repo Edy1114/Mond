@@ -190,18 +190,6 @@ http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/29819
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Aksion" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Aksion
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/42913
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Fantasy" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Fantasy
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/42914
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Comedy" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Comedy
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/42915
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Drame" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Drame 
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/42916
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Novela" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Novela
-http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/42917
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 ACTION FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Filma 24 Action
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/82673
 #EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Filma 24 THRILLER FHD " tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Filma 24 Thriller
@@ -239,6 +227,8 @@ http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/109984
 #EXTINF:-1 tvg-ID="" tvg-name="Dark Netflix 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Dark Netflix 4 HD
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/109985
 
+
+
 #EXTINF:-1 tvg-id="AL Sky Max" tvg-name="Sky AL Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Filma",Sky Max
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/3579
 #EXTINF:-1 tvg-id="AL Sky Aksion" tvg-name="Sky Aksion" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png"  group-title="Filma",Sky Aksion
@@ -249,6 +239,17 @@ http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/3581
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/3578
 #EXTINF:-1 tvg-id="AL Sky Novela" tvg-name="Sky Novela Al" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="Filma",Sky Novela
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/3576
+
+#EXTINF:-1 tvg-id="" tvg-name="Tëvë Aksion" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Aksion
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/42913
+#EXTINF:-1 tvg-id="" tvg-name="Tëvë Fantasy" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Fantasy
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/42914
+#EXTINF:-1 tvg-id="" tvg-name="Tëvë Comedy" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Comedy
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/42915
+#EXTINF:-1 tvg-id="" tvg-name="Tëvë Drame" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Drame 
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/42916
+#EXTINF:-1 tvg-id="" tvg-name="Tëvë Novela" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Novela
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/42917
 
 #EXTINF:-1 tvg-ID="" tvg-name="Dark Deluxe HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Dark Deluxe HD
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/109981
@@ -610,6 +611,10 @@ http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/19809
 #EXTINF:-1 tvg-id="SuperSport6.al" tvg-name="SuperSport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6
 http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/19810
 
+#EXTINF:-1 tvg-id="SuperSport News" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News HD
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/226
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2 HD
+http://livego.club:8080/cga3UFwq1HA0/nRYYF93jS1Hn/225
 
 
 
