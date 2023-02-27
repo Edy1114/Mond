@@ -169,7 +169,8 @@ http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/29810
 http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/232
 #EXTINF:-1 tvg-id="X Premium 2 HD" tvg-name="X Premium 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%202%20HD.png" group-title="Filma",X Premium 2
 http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/21700
-
+#EXTINF:-1 tvg-id="X Premium 3 HD" tvg-name="X Premium 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%203%20HD.png" group-title="Filma",X Premium 3
+http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/21699
 
 #EXTINF:-1 tvg-id="Kino Action HD" tvg-name="X Action HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Action%20HD.png" group-title="Filma",X Action
 http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/21692
@@ -247,16 +248,28 @@ http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/109985
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Aksion" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Aksion
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 1 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Filma",Tele One 1
 http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/42913
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Fantasy" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Fantasy
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 2 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Filma",Tele One 2
 http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/42914
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Comedy" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Comedy
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 3 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Filma",Tele One 3
 http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/42915
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Drame" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Drame 
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 4 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Filma",Tele One 4 
 http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/42916
-#EXTINF:-1 tvg-id="" tvg-name="Tëvë Novela" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Tëvë Novela
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 5 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Filma",Tele One 5 
 http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/42917
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 6 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Filma",Tele One 6
+http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/42918
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Aksion HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Filma",Tele One Aksion 
+http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/109938
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One GOLD Collection HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Filma",Tele One GOLD Collection
+http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/109945
+#EXTINF:-1 tvg-ID="" tvg-name="Tele One fantazi" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Filma",Tele One fantazi
+http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/109944
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Epik" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Filma",Tele One Epik
+http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/109942
+#EXTINF:-1 tvg-ID="" tvg-name="VIP AL: Tele One Aventure" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="Filma",Tele One Aventure
+http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/109939
 
 #EXTINF:-1 tvg-ID="" tvg-name="Dark Deluxe HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Filma",Dark Deluxe HD
 http://livego.club:8080/hMWCgxwk6Rfw1/ehRFzupG13DW/109981
