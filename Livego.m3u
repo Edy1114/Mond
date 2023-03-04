@@ -481,7 +481,10 @@ http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/80452
 http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/80524
 #EXTINF:-1 tvg-id="Cine 34" tvg-name="Mediaset Cine 34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/769px-Cine34_logo.svg.png" group-title="Italiane",Mediaset Cine34
 http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/80544
-
+#EXTINF:-1 tvg-ID="RSILA1.it" tvg-name="Rsi La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RSI_La_1.svg/500px-RSI_La_1.svg.png" group-title="Italiane",RSI LA 1 
+http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/50170
+#EXTINF:-1 tvg-ID="RSILA2.it" tvg-name="Rsi La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/RSI_La_2.svg/500px-RSI_La_2.svg.png" group-title="Italiane",RSI LA 2 
+http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/50171
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Prima Visione" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Prima Visione
 http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/35027
