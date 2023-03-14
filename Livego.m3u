@@ -763,6 +763,7 @@ http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/18679
 #EXTINF:-1 tvg-ID="" tvg-name="SkySp Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport Arena
 http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/80490
 
+
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 HD" tvg-logo="http://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" group-title="Sport ALB-ITA",Sky Sport F1
 http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/80521
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1200px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport MOTO GP
@@ -777,7 +778,8 @@ http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/5673
 http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/80491
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png" group-title="Sport ALB-ITA",Euro Sport 2 
 http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/80492
-
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport collection" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport Collection 
+http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/80556
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="LaLigaTV HD" tvg-logo="https://www.rfc-seraing.be/wp-content/uploads/2018/08/laliga-h-1200x1200_2018.png" group-title="UK Sports",LA LIGA HD
