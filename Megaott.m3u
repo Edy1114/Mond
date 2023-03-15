@@ -1,431 +1,521 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="BigBrother 1" tvg-name="BigBrother 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/BB1Alb-Logo.jpg"  group-title="SHQIPTARE",BigBrother 1
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400506128
+#EXTINF:-1 tvg-id="BigBrother 2" tvg-name="BigBrother 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/BB1Alb-Logo.jpg"  group-title="SHQIPTARE",BigBrother 2
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400506127
+#EXTINF:-1 tvg-id="Big Brother VIP Kosova 1" tvg-name="BigBrother 1" tvg-logo="https://shqip.com/app/uploads/2022/09/Screenshot_1-66-1-1.png"  group-title="SHQIPTARE",Big Brother VIP Kosova 1
+http://iptv365.xyz:80/0422722878/3AB8B6BB/32250
+#EXTINF:-1 tvg-id="Big Brother VIP Kosova 2" tvg-name="BigBrother 2" tvg-logo="https://shqip.com/app/uploads/2022/09/Screenshot_1-66-1-1.png"  group-title="SHQIPTARE",Big Brother VIP Kosova 2
+http://iptv365.xyz:80/0422722878/3AB8B6BB/32251
+
 
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png"  group-title="SHQIPTARE",Top Channel
-http://iptv365.xyz/0422722878/3AB8B6BB/360050
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148422
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png"  group-title="SHQIPTARE",Top Channel HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400148422
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360050
 #EXTINF:-1 tvg-id="Klan TV" tvg-name="TV Klan" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png"  group-title="SHQIPTARE",Klan 
-http://iptv365.xyz/0422722878/3AB8B6BB/321597
+http://iptv365.xyz:80/0422722878/3AB8B6BB/321597
 #EXTINF:-1 tvg-id="Klan TV" tvg-name="TV Klan" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png"  group-title="SHQIPTARE",Klan HD
-http://iptv365.xyz/0422722878/3AB8B6BB/183903
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183903
+
 #EXTINF:-1 tvg-id="Klan Plus" tvg-name="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png"  group-title="SHQIPTARE",Klan Plus
-http://iptv365.xyz/0422722878/3AB8B6BB/400148420
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148420
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-name="ABC News" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="SHQIPTARE",ABC News
-http://iptv365.xyz/0422722878/3AB8B6BB/184077
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184077
 #EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="SHQIPTARE",News 24
-http://iptv365.xyz/0422722878/3AB8B6BB/360057
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360057
 #EXTINF:-1 tvg-id="Vizion Plus" tvg-name="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="SHQIPTARE",Vizion Plus
-http://iptv365.xyz/0422722878/3AB8B6BB/400148418
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148418
 #EXTINF:-1 tvg-id="ORA News" tvg-name="ORA News" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="SHQIPTARE",ORA News
-http://iptv365.xyz/0422722878/3AB8B6BB/360058
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360058
+#EXTINF:-1 tvg-id="RTV ORA" tvg-name="RTV ORA" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="SHQIPTARE",RTV ORA
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261769
+#EXTINF:-1 tvg-id="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png"  group-title="SHQIPTARE",Fax News
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184080
 #EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png"  group-title="SHQIPTARE",Report TV
-http://iptv365.xyz/0422722878/3AB8B6BB/184087
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184087
 #EXTINF:-1 tvg-id="Top News" tvg-name="Top News" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="SHQIPTARE",Top News HD
-http://iptv365.xyz/0422722878/3AB8B6BB/118090
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118090
+#EXTINF:-1 tvg-id="Klan News" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klan-news-al.png"  group-title="SHQIPTARE",Klan News
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261771
 #EXTINF:-1 tvg-id="Syri TV" tvg-name="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="SHQIPTARE",Syri TV
-https://tv.syri.net/syrilive/webtv/playlist.m3u8
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184084
 #EXTINF:-1 tvg-id="MCN TV" tvg-name="MCN TV" tvg-logo="https://www.mcn.al/sites/default/files/mcn_logo_web.png"  group-title="SHQIPTARE",MCN TV
-http://iptv365.xyz/0422722878/3AB8B6BB/400149106
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400149106
+
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png"  group-title="SHQIPTARE",KanalD Drama
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183793
 #EXTINF:-1 tvg-id="Klan Music" tvg-name="Klan Music AL" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Music.png"  group-title="SHQIPTARE",Klan Music
-http://iptv365.xyz/0422722878/3AB8B6BB/400148377
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148377
 #EXTINF:-1 tvg-id="MyMusic.al" tvg-name="My Music" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="SHQIPTARE",My Music
-http://iptv365.xyz/0422722878/3AB8B6BB/400148362
-
-#EXTINF:-1 tvg-id="FilmNjeHD.al" tvg-name="Film Nje HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png"  group-title="SHQIPTARE",Film Nje
-http://iptv365.xyz/0422722878/3AB8B6BB/183667
-#EXTINF:-1 tvg-id="Film Dy HD" tvg-name="Film Dy HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png"  group-title="SHQIPTARE",Film Dy
-http://iptv365.xyz/0422722878/3AB8B6BB/183658
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png"  group-title="SHQIPTARE",Film Aksion
-http://iptv365.xyz/0422722878/3AB8B6BB/224628
-#EXTINF:-1 tvg-id="Film Autor" tvg-name="Film Autor" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png"  group-title="SHQIPTARE",Film Autor
-http://iptv365.xyz/0422722878/3AB8B6BB/183656
-#EXTINF:-1 tvg-id="FilmHits.al" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="SHQIPTARE",Film Hits  
-http://iptv365.xyz/0422722878/3AB8B6BB/183664
-#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png"  group-title="SHQIPTARE",Film Thriller
-http://iptv365.xyz/0422722878/3AB8B6BB/183669
-#EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="Film Drame" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png"  group-title="SHQIPTARE",Film Drame 
-http://iptv365.xyz/0422722878/3AB8B6BB/183657
-#EXTINF:-1 tvg-id="FilmKomedi.al" tvg-name="Film Komedi" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png"  group-title="SHQIPTARE",Film Komedi
-http://iptv365.xyz/0422722878/3AB8B6BB/183665
-#EXTINF:-1 tvg-id="FamilyHD.al" tvg-name="Film Family" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="SHQIPTARE",Film Family
-http://iptv365.xyz/0422722878/3AB8B6BB/400261822
-#EXTINF:-1 tvg-id="Stinet.al" tvg-name="Stinet" tvg-logo="http://www.albepg.com/tvlogi/Stinet.png"  group-title="SHQIPTARE",Film Stinet
-http://iptv365.xyz/0422722878/3AB8B6BB/183813
-#EXTINF:-1 tvg-id="T.al" tvg-name="T HD" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png"  group-title="SHQIPTARE",T HD
-http://iptv365.xyz/0422722878/3AB8B6BB/118070
-#EXTINF:-1 tvg-id="EUROFILM" tvg-name="Euro Film" tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png"  group-title="SHQIPTARE",Euro Film
-http://iptv365.xyz/0422722878/3AB8B6BB/183651
-
-
-
-
-#EXTINF:-1 tvg-id="Tring Super" tvg-name="Tring Super" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png"  group-title="SHQIPTARE",Tring Super
-http://iptv365.xyz/0422722878/3AB8B6BB/360076
-#EXTINF:-1 tvg-id="Tring Action" tvg-name="Tring Action" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png"  group-title="SHQIPTARE",Tring Action
-http://iptv365.xyz/0422722878/3AB8B6BB/400261848
-#EXTINF:-1 tvg-id="Tring Comedy" tvg-name="Tring Comedy" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png"  group-title="SHQIPTARE",Tring Comedy
-http://iptv365.xyz/0422722878/3AB8B6BB/183829
-#EXTINF:-1 tvg-id="Tring Fantasy" tvg-name="Tring Fantasy" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png"  group-title="SHQIPTARE",Tring Fantasy
-http://iptv365.xyz/0422722878/3AB8B6BB/118096
-#EXTINF:-1 tvg-id="Tring Life" tvg-name="Tring Life" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png"  group-title="SHQIPTARE",Tring Life
-http://iptv365.xyz/0422722878/3AB8B6BB/183832
-#EXTINF:-1 tvg-id="Smile" tvg-name="Tring Smile" tvg-logo="http://www.albepg.com/tvlogi/Smile.png"  group-title="SHQIPTARE",Tring Smile
-http://iptv365.xyz/0422722878/3AB8B6BB/118036
-#EXTINF:-1 tvg-id="Tring Shqip" tvg-name="Tring Shqip" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png" group-title="SHQIPTARE",Tring Shqip
-http://iptv365.xyz/0422722878/3AB8B6BB/118107
-#EXTINF:-1 tvg-id="Tring Family" tvg-name="Tring Family" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Family.png"  group-title="SHQIPTARE",Tring Family
-http://iptv365.xyz/0422722878/3AB8B6BB/400261846
-#EXTINF:-1 tvg-id="Jolly HD" tvg-name="Tring Jolly" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png"  group-title="SHQIPTARE",Tring Jolly
-http://iptv365.xyz/0422722878/3AB8B6BB/400148466
-#EXTINF:-1 tvg-id="Tring Novelas" tvg-name="Tring Novelas" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Novelas.png" group-title="SHQIPTARE",Tring Novelas
-http://iptv365.xyz/0422722878/3AB8B6BB/400261845
-#EXTINF:-1 tvg-id="3 Plus" tvg-name="3 Plus" tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png"  group-title="SHQIPTARE",Tring 3 Plus
-http://iptv365.xyz/0422722878/3AB8B6BB/400148468
-#EXTINF:-1 tvg-id="Tip TV" tvg-name="Tip TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tip_TV_alb.png" group-title="SHQIPTARE",Tip TV
-http://iptv365.xyz/0422722878/3AB8B6BB/118082
-#EXTINF:-1 tvg-id="Tring International" tvg-name="Tring International" tvg-logo="http://www.albepg.com/tvlogi/Tring%20International.png"  group-title="SHQIPTARE",Tring International
-http://iptv365.xyz/0422722878/3AB8B6BB/400261847
-
-#EXTINF:-1 tvg-id="FOX.al" tvg-name="FOX.al" tvg-logo="http://www.albepg.com/tvlogi/FOX.png"  group-title="SHQIPTARE",FOX
-http://iptv365.xyz/0422722878/3AB8B6BB/400261844
-#EXTINF:-1 tvg-id="FOXMovies.al" tvg-name="FOXMovies.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/320px-Fox_Movies_%28Asia%29_logo.svg.png"  group-title="SHQIPTARE",FOX Movies
-http://iptv365.xyz/0422722878/3AB8B6BB/183838
-
-
-#EXTINF:-1 tvg-id="Art Kino 1" tvg-name="ART Kino 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%201.png" group-title="SHQIPTARE",ART Kino 1 
-http://iptv365.xyz/0422722878/3AB8B6BB/183820
-#EXTINF:-1 tvg-id="Art Kino 2" tvg-name="ART Kino 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%202.png" group-title="SHQIPTARE",ART Kino 2
-http://iptv365.xyz/0422722878/3AB8B6BB/183821
-#EXTINF:-1 tvg-id="Art Kino 3" tvg-name="ART Kino 3" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%203.png" group-title="SHQIPTARE",ART Kino 3
-http://iptv365.xyz/0422722878/3AB8B6BB/183822
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 1" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="SHQIPTARE",Tele One 1
-http://iptv365.xyz/0422722878/3AB8B6BB/118073
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 2 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="SHQIPTARE",Tele One 2
-http://iptv365.xyz/0422722878/3AB8B6BB/118074
-#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 3 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="SHQIPTARE",Tele One 3
-http://iptv365.xyz/0422722878/3AB8B6BB/183856
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 4 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="SHQIPTARE",Tele One 4 
-http://iptv365.xyz/0422722878/3AB8B6BB/118076
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 5 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="SHQIPTARE",Tele One 5 
-http://iptv365.xyz/0422722878/3AB8B6BB/118077
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 6 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="SHQIPTARE",Tele One 6
-http://iptv365.xyz/0422722878/3AB8B6BB/118078
-
-
-
-#EXTINF:-1 tvg-id="AL Sky Max" tvg-name="Sky AL Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="SHQIPTARE",Sky Max
-http://iptv365.xyz/0422722878/3AB8B6BB/118032
-#EXTINF:-1 tvg-id="AL Sky Aksion" tvg-name="Sky Aksion" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png"  group-title="SHQIPTARE",Sky Aksion
-http://iptv365.xyz/0422722878/3AB8B6BB/118024
-#EXTINF:-1 tvg-id=" " tvg-name="Sky Comedy SD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png"  group-title="SHQIPTARE",Sky Comedy
-http://iptv365.xyz/0422722878/3AB8B6BB/118026
-#EXTINF:-1 tvg-id="AL Sky Drame" tvg-name="Sky Drame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="SHQIPTARE",Sky Drame
-http://iptv365.xyz/0422722878/3AB8B6BB/183791
-#EXTINF:-1 tvg-id="AL Sky Shqip" tvg-name="Sky Shqip" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="SHQIPTARE",Sky Shqip
-http://iptv365.xyz/0422722878/3AB8B6BB/400261839
-#EXTINF:-1 tvg-id="AL Sky Novela" tvg-name="Sky Novela" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png"  group-title="SHQIPTARE",Sky Novela
-http://iptv365.xyz/0422722878/3AB8B6BB/118033
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Q PREMIUM 1 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",Q PREMIUM 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261837
-#EXTINF:-1 tvg-id="" tvg-name="Q PREMIUM 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",Q PREMIUM 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261836
-#EXTINF:-1 tvg-id="" tvg-name="Q PREMIUM 3 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",Q PREMIUM 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261835
-#EXTINF:-1 tvg-id="" tvg-name="Q PREMIUM 4 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",Q PREMIUM 4 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261834
-#EXTINF:-1 tvg-id="" tvg-name="Q THRILLER FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",Q THRILLER FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261833
-#EXTINF:-1 tvg-id="" tvg-name="Q DRAMA FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",Q DRAMA FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261832
-#EXTINF:-1 tvg-id="" tvg-name="Q KOMEDI FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",Q KOMEDI FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261831
-#EXTINF:-1 tvg-id="" tvg-name="KINO PREMIERE 1 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",KINO PREMIERE 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261830
-#EXTINF:-1 tvg-id="" tvg-name="KINO PREMIERE 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",KINO PREMIERE 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261829
-#EXTINF:-1 tvg-id="" tvg-name="KINO PREMIERE 3 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",KINO PREMIERE 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261828
-#EXTINF:-1 tvg-id="" tvg-name="KINO PREMIERE 4 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",KINO PREMIERE 4 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261827
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV COMEDY HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",CINESTAR TV COMEDY HD
-http://iptv365.xyz/0422722878/3AB8B6BB/32103
-#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",CINESTAR TV 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/32104
-#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",CINESTAR TV 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/32105
-#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV ACTION HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",CINESTAR TV ACTION HD
-http://iptv365.xyz/0422722878/3AB8B6BB/32106
-#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV PREMIERE 1 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",CINESTAR TV PREMIERE 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/32107
-#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV PREMIERE 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",CINESTAR TV PREMIERE 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/32108
-#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV FANTASY HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",CINESTAR TV FANTASY HD
-http://iptv365.xyz/0422722878/3AB8B6BB/32109
-
-#EXTINF:-1 tvg-id="" tvg-name="STARFILM 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",STARFILM 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261814
-#EXTINF:-1 tvg-id="" tvg-name="STARFILM 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",STARFILM 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261813
-#EXTINF:-1 tvg-id="" tvg-name="STARFILM 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",STARFILM 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261812
-#EXTINF:-1 tvg-id="" tvg-name="STARFILM 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",STARFILM 4 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261811
-#EXTINF:-1 tvg-id="" tvg-name="STARFILM 5 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",STARFILM 5 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261810
-#EXTINF:-1 tvg-id="" tvg-name="STARFILM 6 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",STARFILM 6 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261809
-#EXTINF:-1 tvg-id="" tvg-name="STARFILM 7 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",STARFILM 7 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261808
-#EXTINF:-1 tvg-id="" tvg-name="STARFILM 8 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",STARFILM 8 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261807
-#EXTINF:-1 tvg-id="" tvg-name="STARFILM 9 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",STARFILM 9 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261806
-#EXTINF:-1 tvg-id="" tvg-name="STARFILM 10 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",STARFILM 10 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261805
-
-#EXTINF:-1 tvg-id="" tvg-name="D-1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",D-1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261800
-#EXTINF:-1 tvg-id="" tvg-name="D-ACTION HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",D-ACTION HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261799
-#EXTINF:-1 tvg-id="" tvg-name="D-HITS HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",D-HITS HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261798
-
-#EXTINF:-1 tvg-id="" tvg-name="FILM MIX HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",FILM MIX HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261820
-#EXTINF:-1 tvg-id="" tvg-name="FILM MIX 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",FILM MIX 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261819
-#EXTINF:-1 tvg-id="" tvg-name="FILMA ROMANCE HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",FILMA ROMANCE HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261818
-#EXTINF:-1 tvg-id="" tvg-name="FILMA HORROR HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",FILMA HORROR HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261817
-#EXTINF:-1 tvg-id="" tvg-name="FILMA PREMIER HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",FILMA PREMIER HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261816
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PRIME TV FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",PRIME TV FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261804
-#EXTINF:-1 tvg-id="" tvg-name="E MIRË TV FILM 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",E MIRË TV FILM 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261803
-#EXTINF:-1 tvg-id="" tvg-name="E MIRË TV FILM ACTION HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",E MIRË TV FILM ACTION HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261802
-#EXTINF:-1 tvg-id="" tvg-name="E MIRË TV FILM HITS HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",E MIRË TV FILM HITS HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400261801
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFILX 1 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK NETFILX 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188429
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFILX 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK NETFILX 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188428
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFILX 3 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK NETFILX 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188427
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFILX 4 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK NETFILX 4 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188426
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFILX 5 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK NETFILX 5 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188425
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 6 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK NETFLIX 6 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188424
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 7 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK NETFLIX 7 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188423
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 8 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK NETFLIX 8 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188422
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 9 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK NETFLIX 9 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188421
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 10 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK NETFLIX 10 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188420
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 11 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK NETFLIX 11 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188419
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 12 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK NETFLIX 12 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188418
-#EXTINF:-1 tvg-id="" tvg-name="AL| DARK SHQIP 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",DARK SHQIP 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400188416
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AL| Cinemax FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",Cinemax 
-http://iptv365.xyz/0422722878/3AB8B6BB/360069
-#EXTINF:-1 tvg-id="" tvg-name="AL| Euro Film 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",Euro Film 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/183652
-#EXTINF:-1 tvg-id="" tvg-name="AL| Euro Film 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",Euro Film 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/183653
-#EXTINF:-1 tvg-id="" tvg-name="AL| Euro Film 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",Euro Film 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/183677
-#EXTINF:-1 tvg-id="" tvg-name="AL| Euro Film 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",Euro Film 4 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/183655
-
-#EXTINF:-1 tvg-id="X Premium 1 HD" tvg-name="X Premium 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%201%20HD.png" group-title="SHQIPTARE",X Premium 1
-http://iptv365.xyz/0422722878/3AB8B6BB/118181
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148362
 
 
 
 #EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="RTSH 1 HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png" group-title="SHQIPTARE",RTSH 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/212427
+http://iptv365.xyz:80/0422722878/3AB8B6BB/212427
 #EXTINF:-1 tvg-id="RTSH2 HD" tvg-name="RTSH 2 HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH2%20HD.png" group-title="SHQIPTARE",RTSH 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/183883
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183883
 #EXTINF:-1 tvg-id="RTSH3 HD" tvg-name="RTSH 3 HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH3%20HD.png" group-title="SHQIPTARE",RTSH 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/183931
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183931
 #EXTINF:-1 tvg-id="RTSH Film" tvg-name="RTSH Film" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Film.png" group-title="SHQIPTARE",RTSH Film
-http://iptv365.xyz/0422722878/3AB8B6BB/400148402
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148402
 #EXTINF:-1 tvg-id="RTSH Shqip" tvg-name="RTSH Shqip" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Shqip.png" group-title="SHQIPTARE",RTSH Shqip
-http://iptv365.xyz/0422722878/3AB8B6BB/183934
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183934
 #EXTINF:-1 tvg-id="RTSH Plus" tvg-name="RTSH Plus" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Plus.png" group-title="SHQIPTARE",RTSH Plus
-http://iptv365.xyz/0422722878/3AB8B6BB/183933
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183933
 #EXTINF:-1 tvg-id="RTSH Sport" tvg-name="RTSH Sport" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png" group-title="SHQIPTARE",RTSH Sport
-http://iptv365.xyz/0422722878/3AB8B6BB/184119
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184119
+
+#EXTINF:-1 tvg-id="RTSH 24" tvg-name="Rtsh 24" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png" group-title="SHQIPTARE",RTSH 24
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184092
+#EXTINF:-1 tvg-id="RTSH Korca" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Korca.png" group-title="SHQIPTARE",RTSH Korca
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360051
+#EXTINF:-1 tvg-id="RTSH Gjirokastra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="SHQIPTARE",RTSH Gjirokastra
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148398
+#EXTINF:-1 tvg-id="RTSH Shkodra" tvg-name="Rtsh Shkodra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="SHQIPTARE",RTSH Shkodra
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148399
+#EXTINF:-1 tvg-id="RTSH Muzike" tvg-name="RTSH Muzike" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Muzike.png" group-title="SHQIPTARE",RTSH Muzike
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148404
+
+#EXTINF:-1 tvg-id="RTSH Kukësi" tvg-name="Rtsh Kukësi" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="SHQIPTARE",RTSH Kukësi
+http://185.89.156.111:8000/play/a02f
+#EXTINF:-1 tvg-id="RTSH Plus" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Plus.png" group-title="SHQIPTARE",RTSH Plus
+http://185.89.156.111:8000/play/a028
+
+#EXTINF:-1 tvg-id="" tvg-name="AL| MTV HITS HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",MTV HITS HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261765
+#EXTINF:-1 tvg-id="" tvg-name="AL| MTV HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",MTV HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261764
+#EXTINF:-1 tvg-id="" tvg-name="AL| MTV KOSOVA ♫" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",MTV KOSOVA
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148366
+#EXTINF:-1 tvg-id="" tvg-name="AL| FOLK + ♫" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",FOLK 
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148378
+#EXTINF:-1 tvg-id="" tvg-name="AL| ELRODI TV ♫" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",ELRODI TV
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148376
+#EXTINF:-1 tvg-id="" tvg-name="AL| MELODY TV ♫" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",MELODY TV
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148375
+#EXTINF:-1 tvg-id="clicktv.al" tvg-name="AL| CLICK TV ♫" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",CLICK TV
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148374
+#EXTINF:-1 tvg-id="" tvg-name="AL| BBF MUSIC ♫" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",BBF MUSIC
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148373
+#EXTINF:-1 tvg-id="" tvg-name="AL| SUPERSONIC TV HD ♫" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="SHQIPTARE",SUPERSONIC TV
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148326
+
+#EXTINF:-1 tvg-id="FilmNjeHD.al" tvg-name="Film Nje HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png"  group-title="FILMA",Film Nje
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183667
+#EXTINF:-1 tvg-id="Film Dy HD" tvg-name="Film Dy HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png"  group-title="FILMA",Film Dy
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183658
+#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png"  group-title="FILMA",Film Aksion
+http://iptv365.xyz:80/0422722878/3AB8B6BB/224628
+#EXTINF:-1 tvg-id="Film Autor" tvg-name="Film Autor" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png"  group-title="FILMA",Film Autor
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183656
+#EXTINF:-1 tvg-id="FilmHits.al" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="FILMA",Film Hits  
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183664
+#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png"  group-title="FILMA",Film Thriller
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183669
+#EXTINF:-1 tvg-id="FilmDrame.al" tvg-name="Film Drame" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png"  group-title="FILMA",Film Drame 
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183657
+#EXTINF:-1 tvg-id="FilmKomedi.al" tvg-name="Film Komedi" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png"  group-title="FILMA",Film Komedi
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183665
+#EXTINF:-1 tvg-id="Family HD" tvg-name="Family HD" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="FILMA",Film Family HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117945
+#EXTINF:-1 tvg-id="Stinet.al" tvg-name="Stinet" tvg-logo="http://www.albepg.com/tvlogi/Stinet.png"  group-title="FILMA",Film Stinet
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183813
+#EXTINF:-1 tvg-id="T.al" tvg-name="T HD" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png"  group-title="FILMA",T HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118070
+#EXTINF:-1 tvg-id="EUROFILM" tvg-name="Euro Film" tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png"  group-title="FILMA",Euro Film
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183651
+
+
+
+
+#EXTINF:-1 tvg-id="Tring Super" tvg-name="Tring Super" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png"  group-title="FILMA",Tring Super
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360076
+#EXTINF:-1 tvg-id="Tring Action" tvg-name="Tring Action" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png"  group-title="FILMA",Tring Action
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261848
+#EXTINF:-1 tvg-id="Tring Comedy" tvg-name="Tring Comedy" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png"  group-title="FILMA",Tring Comedy
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183829
+#EXTINF:-1 tvg-id="Tring Fantasy" tvg-name="Tring Fantasy" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png"  group-title="FILMA",Tring Fantasy
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118096
+#EXTINF:-1 tvg-id="Tring Life" tvg-name="Tring Life" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png"  group-title="FILMA",Tring Life
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183832
+#EXTINF:-1 tvg-id="Smile" tvg-name="Tring Smile" tvg-logo="http://www.albepg.com/tvlogi/Smile.png"  group-title="FILMA",Tring Smile
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118036
+#EXTINF:-1 tvg-id="Tring Shqip" tvg-name="Tring Shqip" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png" group-title="FILMA",Tring Shqip
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118107
+#EXTINF:-1 tvg-id="Tring Family" tvg-name="Tring Family" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Family.png"  group-title="FILMA",Tring Family
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261846
+#EXTINF:-1 tvg-id="Jolly HD" tvg-name="Tring Jolly" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png"  group-title="FILMA",Tring Jolly
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148466
+#EXTINF:-1 tvg-id="Tring Novelas" tvg-name="Tring Novelas" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Novelas.png" group-title="FILMA",Tring Novelas
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261845
+#EXTINF:-1 tvg-id="3 Plus" tvg-name="3 Plus" tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png"  group-title="FILMA",Tring 3 Plus
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148468
+#EXTINF:-1 tvg-id="Tip TV" tvg-name="Tip TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tip_TV_alb.png" group-title="FILMA",Tip TV
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118082
+#EXTINF:-1 tvg-id="Tring International" tvg-name="Tring International" tvg-logo="http://www.albepg.com/tvlogi/Tring%20International.png"  group-title="FILMA",Tring International
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261847
+#EXTINF:-1 tvg-id="Muse" tvg-logo="http://www.albepg.com/tvlogi/Muse.png"  group-title="FILMA",Tring Muse
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148320
+
+
+#EXTINF:-1 tvg-id="Art Kino 1" tvg-name="ART Kino 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%201.png" group-title="FILMA",ART Kino 1 
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183820
+#EXTINF:-1 tvg-id="Art Kino 2" tvg-name="ART Kino 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%202.png" group-title="FILMA",ART Kino 2
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183821
+#EXTINF:-1 tvg-id="Art Kino 3" tvg-name="ART Kino 3" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%203.png" group-title="FILMA",ART Kino 3
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183822
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 1" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="FILMA",Tele One 1
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118073
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 2 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="FILMA",Tele One 2
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118074
+#EXTINF:-1 tvg-id="" tvg-name="AL: TELE ONE 3 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="FILMA",Tele One 3
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183856
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 4 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="FILMA",Tele One 4 
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118076
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 5 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="FILMA",Tele One 5 
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118077
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tele One 6 HD" tvg-logo="https://media.glassdoor.com/sqll/1183894/teleone-squarelogo-1475144317449.png" group-title="FILMA",Tele One 6
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118078
+
+
+
+#EXTINF:-1 tvg-id="AL Sky Max" tvg-name="Sky AL Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="FILMA",Sky Max
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118032
+#EXTINF:-1 tvg-id="AL Sky Aksion" tvg-name="Sky Aksion" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png"  group-title="FILMA",Sky Aksion
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118024
+#EXTINF:-1 tvg-id=" " tvg-name="Sky Comedy SD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png"  group-title="FILMA",Sky Comedy
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118026
+#EXTINF:-1 tvg-id="AL Sky Drame" tvg-name="Sky Drame" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="FILMA",Sky Drame
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183791
+#EXTINF:-1 tvg-id="AL Sky Shqip" tvg-name="Sky Shqip" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/SkyNewZealandLogo.svg/1200px-SkyNewZealandLogo.svg.png"  group-title="FILMA",Sky Shqip
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261839
+#EXTINF:-1 tvg-id="AL Sky Novela" tvg-name="Sky Novela" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png"  group-title="FILMA",Sky Novela
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118033
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="KINO PREMIERE 1 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",KINO PREMIERE 1 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261830
+#EXTINF:-1 tvg-id="" tvg-name="KINO PREMIERE 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",KINO PREMIERE 2 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261829
+#EXTINF:-1 tvg-id="" tvg-name="KINO PREMIERE 3 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",KINO PREMIERE 3 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261828
+#EXTINF:-1 tvg-id="" tvg-name="KINO PREMIERE 4 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",KINO PREMIERE 4 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261827
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV COMEDY HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",CINESTAR TV COMEDY HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/32103
+#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",CINESTAR TV 1 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/32104
+#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",CINESTAR TV 2 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/32105
+#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV ACTION HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",CINESTAR TV ACTION HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/32106
+#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV PREMIERE 1 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",CINESTAR TV PREMIERE 1 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/32107
+#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV PREMIERE 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",CINESTAR TV PREMIERE 2 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/32108
+#EXTINF:-1 tvg-id="" tvg-name="AL| CINESTAR TV FANTASY HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",CINESTAR TV FANTASY HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/32109
+
+#EXTINF:-1 tvg-id="" tvg-name="STARFILM 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",STARFILM 1 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261814
+#EXTINF:-1 tvg-id="" tvg-name="STARFILM 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",STARFILM 2 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261813
+#EXTINF:-1 tvg-id="" tvg-name="STARFILM 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",STARFILM 3 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261812
+#EXTINF:-1 tvg-id="" tvg-name="STARFILM 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",STARFILM 4 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261811
+#EXTINF:-1 tvg-id="" tvg-name="STARFILM 5 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",STARFILM 5 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261810
+#EXTINF:-1 tvg-id="" tvg-name="STARFILM 6 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",STARFILM 6 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261809
+#EXTINF:-1 tvg-id="" tvg-name="STARFILM 7 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",STARFILM 7 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261808
+#EXTINF:-1 tvg-id="" tvg-name="STARFILM 8 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",STARFILM 8 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261807
+#EXTINF:-1 tvg-id="" tvg-name="STARFILM 9 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",STARFILM 9 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261806
+#EXTINF:-1 tvg-id="" tvg-name="STARFILM 10 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",STARFILM 10 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261805
+
+#EXTINF:-1 tvg-id="" tvg-name="D-1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",D-1 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261800
+#EXTINF:-1 tvg-id="" tvg-name="D-ACTION HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",D-ACTION HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261799
+#EXTINF:-1 tvg-id="" tvg-name="D-HITS HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",D-HITS HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261798
+
+#EXTINF:-1 tvg-id="" tvg-name="FILM MIX HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM MIX HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261820
+#EXTINF:-1 tvg-id="" tvg-name="FILM MIX 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM MIX 2 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261819
+#EXTINF:-1 tvg-id="" tvg-name="FILMA ROMANCE HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILMA ROMANCE HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261818
+#EXTINF:-1 tvg-id="" tvg-name="FILMA HORROR HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILMA HORROR HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261817
+#EXTINF:-1 tvg-id="" tvg-name="FILMA PREMIER HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILMA PREMIER HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261816
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PRIME TV FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",PRIME TV FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261804
+#EXTINF:-1 tvg-id="" tvg-name="E MIRË TV FILM 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",E MIRË TV FILM 1 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261803
+#EXTINF:-1 tvg-id="" tvg-name="E MIRË TV FILM ACTION HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",E MIRË TV FILM ACTION HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261802
+#EXTINF:-1 tvg-id="" tvg-name="E MIRË TV FILM HITS HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",E MIRË TV FILM HITS HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261801
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFILX 1 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK NETFILX 1 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188429
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFILX 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK NETFILX 2 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188428
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFILX 3 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK NETFILX 3 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188427
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFILX 4 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK NETFILX 4 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188426
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFILX 5 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK NETFILX 5 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188425
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 6 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK NETFLIX 6 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188424
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 7 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK NETFLIX 7 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188423
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 8 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK NETFLIX 8 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188422
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 9 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK NETFLIX 9 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188421
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 10 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK NETFLIX 10 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188420
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 11 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK NETFLIX 11 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188419
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK NETFLIX 12 FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK NETFLIX 12 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188418
+#EXTINF:-1 tvg-id="" tvg-name="AL| DARK SHQIP 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",DARK SHQIP 1 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400188416
 
 
 
 
 
-#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="Top Channel HD" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png"  group-title="SHQIPTARE",Top Channel SD
-http://iptv365.xyz/0422722878/3AB8B6BB/118088
-#EXTINF:-1 tvg-id="News 24" tvg-name="News 24 HD" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="SHQIPTARE",News 24
-http://iptv365.xyz/0422722878/3AB8B6BB/360057
-#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png"  group-title="SHQIPTARE",Report TV HD
-http://iptv365.xyz/0422722878/3AB8B6BB/184091
+#EXTINF:-1 tvg-id="" tvg-name="AL| Cinemax FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",Cinemax 
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360069
+#EXTINF:-1 tvg-id="" tvg-name="AL| Euro Film 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",Euro Film 1 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183652
+#EXTINF:-1 tvg-id="" tvg-name="AL| Euro Film 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",Euro Film 2 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183653
+#EXTINF:-1 tvg-id="" tvg-name="AL| Euro Film 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",Euro Film 3 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183677
+#EXTINF:-1 tvg-id="" tvg-name="AL| Euro Film 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",Euro Film 4 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183655
+
+#EXTINF:-1 tvg-id="X Premium 1 HD" tvg-name="X Premium 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%201%20HD.png" group-title="FILMA",X Premium 1
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118181
+
+
+#EXTINF:-1 tvg-id="FOX.al" tvg-name="FOX.al" tvg-logo="http://www.albepg.com/tvlogi/FOX.png"  group-title="FILMA",FOX
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261844
+#EXTINF:-1 tvg-id="FOXMovies.al" tvg-name="FOXMovies.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/320px-Fox_Movies_%28Asia%29_logo.svg.png"  group-title="FILMA",FOX Movies
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183838
+
+#EXTINF:-1 tvg-id="foxlife.al" tvg-name="AL| FOX LIFE HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FOX LIFE HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183863
+#EXTINF:-1 tvg-id="foxcrime.al" tvg-name="AL| FOX CRIME HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FOX CRIME HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183828
 
 
 
-#EXTINF:-1 tvg-id="Film Dy HD" tvg-name="Film Dy HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png"  group-title="SHQIPTARE",Film Dy HD
-http://iptv365.xyz/0422722878/3AB8B6BB/360075
-#EXTINF:-1 tvg-id="Film Aksion" tvg-name="Film Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png"  group-title="SHQIPTARE",Film Aksion HD
-http://iptv365.xyz/0422722878/3AB8B6BB/224628
-#EXTINF:-1 tvg-id="Family HD" tvg-name="Family HD" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="SHQIPTARE",Film Family HD
-http://iptv365.xyz/0422722878/3AB8B6BB/117945
+
+#EXTINF:-1 tvg-id="Film Dy HD" tvg-name="Film Dy HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png"  group-title="FILMA",Film Dy HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360075
+#EXTINF:-1 tvg-id="Film Aksion" tvg-name="Film Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png"  group-title="FILMA",Film Aksion HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/224628
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL| X PREMIUM 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",X PREMIUM 2 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118182
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILM PREMIUM 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM PREMIUM 1 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261826
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILM PREMIUM 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM PREMIUM 2 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261825
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILM PREMIUM 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM PREMIUM 3 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261824
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILM PREMIUM 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM PREMIUM 4 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261823
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILM ROMANCE HD" tvg-logo="https://lo1.in/alb/flmrmnc.png" group-title="EU | ALBANIA FILMA",AL| FILM ROMANCE HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261821
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL| MAX PREMIER 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",MAX PREMIER 1 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38072
+#EXTINF:-1 tvg-id="" tvg-name="AL| MAX PREMIER 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",MAX PREMIER 2 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38071
+#EXTINF:-1 tvg-id="" tvg-name="AL| MAX PREMIER 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",MAX PREMIER 3 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38070
+#EXTINF:-1 tvg-id="" tvg-name="AL| MAX PREMIER 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",MAX PREMIER 4 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38069
+#EXTINF:-1 tvg-id="" tvg-name="AL| MAX CINE HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",MAX CINE HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38068
+#EXTINF:-1 tvg-id="" tvg-name="AL| MAX ELITE HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",MAX ELITE HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38067
+#EXTINF:-1 tvg-id="" tvg-name="AL| MAX ENERGI HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",MAX ENERGI HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38066
+#EXTINF:-1 tvg-id="" tvg-name="AL| MAX ONE HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",MAX ONE HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38065
+#EXTINF:-1 tvg-id="" tvg-name="AL| MAX RED HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",MAX RED HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38064
+#EXTINF:-1 tvg-id="" tvg-name="AL| MAX STAR HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",MAX STAR HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38063
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILM24 AKSION 1 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM24 AKSION 1 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38080
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILM24 AKSION 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM24 AKSION 2 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38079
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILM24 AKSION 3 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM24 AKSION 3 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38078
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILM24 AZIATIK HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM24 AZIATIK HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38077
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILM24 AVENTURE HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM24 AVENTURE HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38076
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILM24 DRAME HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM24 DRAME HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38075
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILM24 FANTASHKEENC HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FILMA",FILM24 FANTASHKEENC HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38074
+
 
 
 
 
 
 #EXTINF:-1 tvg-id="Rai 1 HD" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="ITALIANE",Rai 1
-http://iptv365.xyz/0422722878/3AB8B6BB/194154
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194154
 #EXTINF:-1 tvg-id="Rai 2 HD" tvg-name="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="ITALIANE",Rai 2
-http://iptv365.xyz/0422722878/3AB8B6BB/194155
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194155
 #EXTINF:-1 tvg-id="Rai 3 HD" tvg-name="Rai 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1udzTud18EZ4OSe9N8Oiw-Qh6BYjn0t7bM0H4XQq5K96VOlw&s"  group-title="ITALIANE",Rai 3
-http://iptv365.xyz/0422722878/3AB8B6BB/194156
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194156
 #EXTINF:-1 tvg-id="Rai 4 HD" tvg-name="Rai 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rai_4_HD_-_Logo_2016.svg/1024px-Rai_4_HD_-_Logo_2016.svg.png"  group-title="ITALIANE",Rai 4
-http://iptv365.xyz/0422722878/3AB8B6BB/194157
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194157
 #EXTINF:-1 tvg-id="Rai 5 HD" tvg-name="Rai 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rai_5_HD_Logo.svg/800px-Rai_5_HD_Logo.svg.png"  group-title="ITALIANE",Rai 5
-http://iptv365.xyz/0422722878/3AB8B6BB/194158
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194158
 #EXTINF:-1 tvg-id="Rai Movie" tvg-name="Rai Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rai_Movie_HD_-_Logo.svg/1000px-Rai_Movie_HD_-_Logo.svg.png" group-title="ITALIANE",Rai Movie
-http://iptv365.xyz/0422722878/3AB8B6BB/194187
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194187
 #EXTINF:-1 tvg-id="Rai Premium" tvg-name="Rai Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rai_Premium_Logo_%282010%29.svg/500px-Rai_Premium_Logo_%282010%29.svg.png" group-title="ITALIANE",Rai Premium
-http://iptv365.xyz/0422722878/3AB8B6BB/194185
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194185
 #EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-italia-1-png.png"  group-title="ITALIANE",Italia 1
-http://iptv365.xyz/0422722878/3AB8B6BB/194167
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194167
 #EXTINF:-1 tvg-id="Rete 4" tvg-name="Rete 4" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rete-4-png-9.png"  group-title="ITALIANE",Rete 4
-http://iptv365.xyz/0422722878/3AB8B6BB/194153
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194153
 #EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-canale-5-png-4.png"  group-title="ITALIANE",Canale 5
-http://iptv365.xyz/0422722878/3AB8B6BB/194164
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194164
 #EXTINF:-1 tvg-id="20 Mediaset" tvg-name="MEDIASET 20" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/20_Mediaset_-_Logo_2018.svg/616px-20_Mediaset_-_Logo_2018.svg.png"  group-title="ITALIANE",Mediaset 20
-http://iptv365.xyz/0422722878/3AB8B6BB/194178
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194178
 #EXTINF:-1 tvg-id="Mediaset Extra" tvg-name="Mediaset Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/500px-Mediaset_Extra_logo.svg.png"  group-title="ITALIANE",Mediaset Extra
-http://iptv365.xyz/0422722878/3AB8B6BB/194415
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194415
 #EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Logo_Iris.svg/800px-Logo_Iris.svg.png" group-title="ITALIANE",Iris
-http://iptv365.xyz/0422722878/3AB8B6BB/378451
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378451
 #EXTINF:-1 tvg-id="La 7" tvg-name="LA 7HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/La7d_logo.svg/640px-La7d_logo.svg.png" group-title="ITALIANE",LA 7
-http://iptv365.xyz/0422722878/3AB8B6BB/378450
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378450
 
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/800px-Nove_-_Logo_2017.svg.png" group-title="ITALIANE",NOVE HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194409
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194409
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="GIALLO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Giallohd.png/800px-Giallohd.png" group-title="ITALIANE",GIALLO HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194245
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194245
 
 
 
 #EXTINF:-1 tvg-id="Cine 34" tvg-name="Mediaset Cine34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/769px-Cine34_logo.svg.png" group-title="ITALIANE",Mediaset Cine34
-http://iptv365.xyz/0422722878/3AB8B6BB/194191
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194191
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="Mediaset Cine34" tvg-logo="https://lo1.in/ITALY/PARAMOUNTCHANNELHD.png" group-title="ITALIANE",Paramount Network
-http://iptv365.xyz/0422722878/3AB8B6BB/194189
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194189
 
 
 #EXTINF:-1 tvg-id="Sky Uno" tvg-name="Sky Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sky_Uno_-_Logo_2018.svg/1000px-Sky_Uno_-_Logo_2018.svg.png" group-title="ITALIANE",Sky Uno
-http://iptv365.xyz/0422722878/3AB8B6BB/167852
+http://iptv365.xyz:80/0422722878/3AB8B6BB/167852
 #EXTINF:-1 tvg-id="Sky Cinema Uno" tvg-name="Sky Cinema Uno" tvg-logo="https://lo1.in/ITALY/SKYCINEMAUNO1.png" group-title="ITALIANE",Sky Cinema Uno
-http://iptv365.xyz/0422722878/3AB8B6BB/194443
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194443
 #EXTINF:-1 tvg-id="Sky Cinema Uno +24 HD" tvg-name="Sky Cinema Uno 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Cinema_Uno_%2B24_-_Logo_2019.svg/1000px-Sky_Cinema_Uno_%2B24_-_Logo_2019.svg.png"  group-title="ITALIANE",Sky Cinema Uno +24 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194455
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194455
 #EXTINF:-1 tvg-id="Sky Cinema Due HD" tvg-name="SKY CINEMA DUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sky_Cinema_Due_-_Logo_2019.svg/1000px-Sky_Cinema_Due_-_Logo_2019.svg.png"  group-title="ITALIANE",Sky Cinema Due
-http://iptv365.xyz/0422722878/3AB8B6BB/194198
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194198
 #EXTINF:-1 tvg-id="Sky Cinema Due HD" tvg-name="SKY CINEMA DUE+24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sky_Cinema_Due_-_Logo_2019.svg/1000px-Sky_Cinema_Due_-_Logo_2019.svg.png"  group-title="ITALIANE",Sky Cinema Due+24
-http://iptv365.xyz/0422722878/3AB8B6BB/194195
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194195
 
 
 #EXTINF:-1 tvg-id="Sky Cinema Comedy" tvg-name="Sky Cinema Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Comedy_-_Logo_2016.svg/500px-Sky_Cinema_Comedy_-_Logo_2016.svg.png"  group-title="ITALIANE",Sky Cinema Comedy
-http://iptv365.xyz/0422722878/3AB8B6BB/194197
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194197
 #EXTINF:-1 tvg-id="Sky Cinema Action" tvg-name="SKY CINEMA Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sky_Cinema_Action_-_Logo_2019.svg/500px-Sky_Cinema_Action_-_Logo_2019.svg.png" group-title="ITALIANE",Sky Cinema Action
-http://iptv365.xyz/0422722878/3AB8B6BB/194202
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194202
 #EXTINF:-1 tvg-id="SKY Cinema Collection" tvg-name="SKY Cinema Collection" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sky_Cinema_Collection_-_Logo_2019.svg/500px-Sky_Cinema_Collection_-_Logo_2019.svg.png"  group-title="ITALIANE",SKY Cinema Collection
-http://iptv365.xyz/0422722878/3AB8B6BB/194450
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194450
 #EXTINF:-1 tvg-id="Sky Cinema Drama" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sky_Cinema_Drama_-_Logo_2019.svg/800px-Sky_Cinema_Drama_-_Logo_2019.svg.png"  group-title="ITALIANE",Sky Cinema Drama
-http://iptv365.xyz/0422722878/3AB8B6BB/194463
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194463
 #EXTINF:-1 tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sky_Cinema_Family_-_Logo_2018.svg/1000px-Sky_Cinema_Family_-_Logo_2018.svg.png"  group-title="ITALIANE",Sky Cinema Family
-http://iptv365.xyz/0422722878/3AB8B6BB/194199
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194199
 #EXTINF:-1 tvg-id="Sky Cinema Romance" tvg-name="Sky Cinema Romance HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Cinema_Romance_-_Logo_2019.svg/1000px-Sky_Cinema_Romance_-_Logo_2019.svg.png"  group-title="ITALIANE",Sky Cinema Romance
-http://iptv365.xyz/0422722878/3AB8B6BB/194462
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194462
 #EXTINF:-1 tvg-id="Sky Cinema Suspense" tvg-name="SKY Cinema Suspense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Suspense_-_Logo_2019.svg/1024px-Sky_Cinema_Suspense_-_Logo_2019.svg.png"  group-title="ITALIANE",Sky Cinema Suspense
-http://iptv365.xyz/0422722878/3AB8B6BB/194201
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194201
 #EXTINF:-1 tvg-id="Sky Cinema Classica" tvg-name="Sky Cinema Classica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sky_Cinema_Classics_-_Logo_2016.svg/640px-Sky_Cinema_Classics_-_Logo_2016.svg.png" group-title="ITALIANE",Sky Cinema Classica
-http://iptv365.xyz/0422722878/3AB8B6BB/194502
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194502
 
 #EXTINF:-1 tvg-id="PremiumCinema.it" tvg-name="Premium Cinema 1 Full HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwQF-_uCt-PSWRto77Xwub2LpnOM7yXo-SEVkVUwZ_wYC8K7x&s" group-title="ITALIANE",Premium Cinema 1
-http://iptv365.xyz/0422722878/3AB8B6BB/378353
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378353
 #EXTINF:-1 tvg-id="PremiumCinema2.it" tvg-name="Premium Cinema 2 Full HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwQF-_uCt-PSWRto77Xwub2LpnOM7yXo-SEVkVUwZ_wYC8K7x&s" group-title="ITALIANE",Premium Cinema 2
-http://iptv365.xyz/0422722878/3AB8B6BB/378355
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378355
 #EXTINF:-1 tvg-id="PremiumCinema3.it" tvg-name="Premium Cinema 3 Full HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwQF-_uCt-PSWRto77Xwub2LpnOM7yXo-SEVkVUwZ_wYC8K7x&s" group-title="ITALIANE",Premium Cinema 3
-http://iptv365.xyz/0422722878/3AB8B6BB/378434
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378434
 #EXTINF:-1 tvg-id="PremiumAction.it" tvg-name="Premium Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/800px-Premium_Cinema.svg.png" group-title="ITALIANE",Premium Action
-http://iptv365.xyz/0422722878/3AB8B6BB/167901
+http://iptv365.xyz:80/0422722878/3AB8B6BB/167901
 #EXTINF:-1 tvg-id="PremiumCrime.it" tvg-name="Premium Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Premium_Cinema.svg/800px-Premium_Cinema.svg.png" group-title="ITALIANE",Premium Crime
-http://iptv365.xyz/0422722878/3AB8B6BB/378433
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378433
 
 #EXTINF:-1 tvg-id="Primafila1.it" tvg-name="SKY Primafila 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378343
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378343
 #EXTINF:-1 tvg-id="Primafila2.it" tvg-name="SKY PrimaFila 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY PrimaFila 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378345
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378345
 #EXTINF:-1 tvg-id="Primafila3.it" tvg-name="SKY Primafila 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378346
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378346
 #EXTINF:-1 tvg-id="Primafila4.it" tvg-name="SKY Primafila 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 4 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378349
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378349
 #EXTINF:-1 tvg-id="Primafila5.it" tvg-name="SKY Primafila 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 5 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378342
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378342
 #EXTINF:-1 tvg-id="Primafila6.it" tvg-name="SKY Primafila 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 6 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378443
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378443
 #EXTINF:-1 tvg-id="Primafila7.it" tvg-name="SKY Primafila 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 7 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378344
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378344
 #EXTINF:-1 tvg-id="Primafila8.it" tvg-name="SKY Primafila 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 8 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378440
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378440
 #EXTINF:-1 tvg-id="Primafila9.it" tvg-name="SKY Primafila 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 9 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378439
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378439
 #EXTINF:-1 tvg-id="Primafila10.it" tvg-name="SKY Primafila 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 10 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378437
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378437
 #EXTINF:-1 tvg-id="Primafila11.it" tvg-name="SKY Primafila 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 11 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378347
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378347
 #EXTINF:-1 tvg-id="Primafila12.it" tvg-name="SKY Primafila 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 12 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378348
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378348
 #EXTINF:-1 tvg-id="Primafila13.it" tvg-name="SKY Primafila 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 13 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378350
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378350
 #EXTINF:-1 tvg-id="Primafila14.it" tvg-name="SKY Primafila 14 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 14 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378438
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378438
 #EXTINF:-1 tvg-id="Primafila15.it" tvg-name="SKY Primafila 15 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 15 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378441
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378441
 #EXTINF:-1 tvg-id="Primafila16.it" tvg-name="SKY Primafila 16 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 16 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378442
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378442
 #EXTINF:-1 tvg-id="Primafila17.it" tvg-name="SKY Primafila 17 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 17 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378444
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378444
 #EXTINF:-1 tvg-id="Primafila18.it" tvg-name="SKY Primafila 18 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="ITALIANE",SKY Primafila 18 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378445
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378445
 
 
 
@@ -434,27 +524,27 @@ http://iptv365.xyz/0422722878/3AB8B6BB/378445
 
 
 #EXTINF:-1 tvg-id="Rai 1 HD" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="ITALIANE",Rai 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194392
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194392
 #EXTINF:-1 tvg-id="Rai 2 HD" tvg-name="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="ITALIANE",Rai 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194393
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194393
 #EXTINF:-1 tvg-id="Rai 3 HD" tvg-name="Rai 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1udzTud18EZ4OSe9N8Oiw-Qh6BYjn0t7bM0H4XQq5K96VOlw&s"  group-title="ITALIANE",Rai 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194394
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194394
 #EXTINF:-1 tvg-id="Rai 4 HD" tvg-name="Rai 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rai_4_HD_-_Logo_2016.svg/1024px-Rai_4_HD_-_Logo_2016.svg.png"  group-title="ITALIANE",Rai 4 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194395
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194395
 #EXTINF:-1 tvg-id="Rai 5 HD" tvg-name="Rai 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rai_5_HD_Logo.svg/800px-Rai_5_HD_Logo.svg.png"  group-title="ITALIANE",Rai 5 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194396
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194396
 #EXTINF:-1 tvg-id="Rai Movie" tvg-name="Rai Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rai_Movie_HD_-_Logo.svg/1000px-Rai_Movie_HD_-_Logo.svg.png" group-title="ITALIANE",Rai Movie HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194440
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194440
 #EXTINF:-1 tvg-id="Rai Premium" tvg-name="Rai Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rai_Premium_Logo_%282010%29.svg/500px-Rai_Premium_Logo_%282010%29.svg.png" group-title="ITALIANE",Rai Premium HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194439
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194439
 #EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-italia-1-png.png"  group-title="ITALIANE",Italia 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194399
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194399
 #EXTINF:-1 tvg-id="Rete 4" tvg-name="Rete 4" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rete-4-png-9.png"  group-title="ITALIANE",Rete 4 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194397
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194397
 #EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-canale-5-png-4.png"  group-title="ITALIANE",Canale 5 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194398
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194398
 #EXTINF:-1 tvg-id="Mediaset Extra" tvg-name="Mediaset Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/500px-Mediaset_Extra_logo.svg.png"  group-title="ITALIANE",Mediaset Extra SD
-http://iptv365.xyz/0422722878/3AB8B6BB/194415
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194415
 
 
 
@@ -462,294 +552,304 @@ http://iptv365.xyz/0422722878/3AB8B6BB/194415
 
 
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/b/bf/Real_time_new_logo.png" group-title="DOKUMENTARE",Real Time
-http://iptv365.xyz/0422722878/3AB8B6BB/400230043
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400230043
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/b/bf/Real_time_new_logo.png" group-title="DOKUMENTARE",Real Time HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400229585
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400229585
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX FHD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="DOKUMENTARE",DMAX 
-http://iptv365.xyz/0422722878/3AB8B6BB/372909
+http://iptv365.xyz:80/0422722878/3AB8B6BB/372909
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/800px-Nove_-_Logo_2017.svg.png" group-title="DOKUMENTARE",NOVE 
-http://iptv365.xyz/0422722878/3AB8B6BB/194174
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194174
 #EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX FULL HD" tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="DOKUMENTARE",FOX HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378363
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378363
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="GIALLO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/1280px-Giallo_-_Logo_2014.svg.png" group-title="DOKUMENTARE",GIALLO HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194547
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194547
 #EXTINF:-1 tvg-id="Focus" tvg-name="Focus Mediaset" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Focus_Mondadori_logo.png" group-title="DOKUMENTARE",Focus Mediaset
-http://iptv365.xyz/0422722878/3AB8B6BB/194425
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194425
 #EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png" group-title="DOKUMENTARE",History HD
-http://iptv365.xyz/0422722878/3AB8B6BB/194239
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194239
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://www.albepg.com/tvlogi/National%20Geographic.png"  group-title="DOKUMENTARE",National Geographic
-http://iptv365.xyz/0422722878/3AB8B6BB/194543
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194543
 #EXTINF:-1 tvg-id="NationalGeographicWild.it" tvg-name="NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="DOKUMENTARE",NAT GEO WILD
-http://iptv365.xyz/0422722878/3AB8B6BB/194541
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194541
 #EXTINF:-1 tvg-id="Discovery.it" tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/640px-Discovery_Channel_-_Logo_2019.svg.png" group-title="DOKUMENTARE",DISCOVERY HD
-http://iptv365.xyz/0422722878/3AB8B6BB/378372
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378372
 #EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/640px-Discovery_Science_2017_Logo.svg.png" group-title="DOKUMENTARE",Discovery Science
-http://iptv365.xyz/0422722878/3AB8B6BB/378371
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378371
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TOPcrime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/640px-Top_Crime_-_Logo_2013.svg.png" group-title="DOKUMENTARE",TOP Crime
-http://iptv365.xyz/0422722878/3AB8B6BB/194417
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194417
 #EXTINF:-1 tvg-id="Crime and Investigation" tvg-name="Crime and Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="DOKUMENTARE",Crime and Investigation
-http://iptv365.xyz/0422722878/3AB8B6BB/378374
+http://iptv365.xyz:80/0422722878/3AB8B6BB/378374
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MotorTrend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="DOKUMENTARE",MotorTrend
-http://iptv365.xyz/0422722878/3AB8B6BB/194243
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194243
 #EXTINF:-1 tvg-id="Rai Storia" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/1000px-Rai_Storia_-_Logo_2017.svg.png" group-title="DOKUMENTARE",Rai Storia
-http://iptv365.xyz/0422722878/3AB8B6BB/372910
+http://iptv365.xyz:80/0422722878/3AB8B6BB/372910
 
 
 
 #EXTINF:-1 tvg-id="ExplorerShkence.al" tvg-name="Explorer Shkence HD" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png"  group-title="DOKUMENTARE",Explorer Shkence
-http://iptv365.xyz/0422722878/3AB8B6BB/183878
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183878
 #EXTINF:-1 tvg-id="ExplorerHistori.al" tvg-name="Explorer Histori" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png"  group-title="DOKUMENTARE",Explorer Histori 
-http://iptv365.xyz/0422722878/3AB8B6BB/183876
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183876
 #EXTINF:-1 tvg-id="ExplorerNatyra.al" tvg-name="Explorer Natyra" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png"  group-title="DOKUMENTARE",Explorer Natyra
-http://iptv365.xyz/0422722878/3AB8B6BB/183877
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183877
 #EXTINF:-1 tvg-id="Tring World" tvg-name="Tring World" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png"  group-title="DOKUMENTARE",Tring World 
-http://iptv365.xyz/0422722878/3AB8B6BB/118117
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118117
 #EXTINF:-1 tvg-id="Tring Planet" tvg-name="Tring Planet" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png"  group-title="DOKUMENTARE",Tring Planet
-http://iptv365.xyz/0422722878/3AB8B6BB/118106
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118106
 #EXTINF:-1 tvg-id="Tring History" tvg-name="TRING HISTORI" tvg-logo="http://www.albepg.com/tvlogi/Tring%20History.png"  group-title="DOKUMENTARE",Tring History
-http://iptv365.xyz/0422722878/3AB8B6BB/118097
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118097
 #EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel" tvg-logo="http://www.albepg.com/tvlogi/Travel%20Channel.png"  group-title="DOKUMENTARE",Travel Channel
-http://iptv365.xyz/0422722878/3AB8B6BB/118091
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118091
 #EXTINF:-1 tvg-id="SKY PLANET" tvg-name="SKY PLANET" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Shkenca.png"  group-title="DOKUMENTARE",SKY PLANET
-http://iptv365.xyz/0422722878/3AB8B6BB/118034
-
-
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118034
 #EXTINF:-1 tvg-id="Art Doku 1" tvg-name="Art Doku 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%201.png"  group-title="DOKUMENTARE",ART Doku 1 
-http://iptv365.xyz/0422722878/3AB8B6BB/183885
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183885
 #EXTINF:-1 tvg-id="Art Doku 2" tvg-name="Art Doku 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%202.png"  group-title="DOKUMENTARE",ART Doku 2
-http://iptv365.xyz/0422722878/3AB8B6BB/183886
-
-
-#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="TRING SPORT 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport 1 
-http://95.107.132.106/out/u/683_6.m3u8
-#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="Tring Sport 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport 2 
-http://95.107.132.106/out/u/692_6.m3u8
-#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="TRING SPORT 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport 3 
-http://95.107.132.106/out/u/699_2.m3u8
-#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="TRING SPORT 4 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport 4 
-http://95.107.132.106/out/u/713_3.m3u8
-
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183886
+#EXTINF:-1 tvg-id="" tvg-name="AL| E MIRË TV DOKUMENTAR HD" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%201.png"  group-title="DOKUMENTARE",E MIRË TV DOKUMENTAR HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261773
+#EXTINF:-1 tvg-id="" tvg-name="AL| SKY GALAXY FHD" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%201.png"  group-title="DOKUMENTARE",SKY GALAXY FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261774
+#EXTINF:-1 tvg-id="" tvg-name="AL| SKY GEO FHD" tvg-logo="http://www.albepg.com/tvlogi/Art%20Doku%201.png"  group-title="DOKUMENTARE",SKY GEO FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261775
 
 #EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="Tring Sport News HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%20News%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport News HD
-http://iptv365.xyz/0422722878/3AB8B6BB/118114
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118114
 #EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="TRING SPORT 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/118110
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118110
 #EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="Tring Sport 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/118111
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118111
 #EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="TRING SPORT 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/118112
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118112
 #EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="TRING SPORT 4 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport 4 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/118113
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118113
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 1 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="SPORT ALB-ITA",OVERSPORT 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400260897
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400260897
 #EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 2 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="SPORT ALB-ITA",OVERSPORT 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400260896
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400260896
 #EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 3 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="SPORT ALB-ITA",OVERSPORT 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400260895
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400260895
 #EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 4 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="SPORT ALB-ITA",OVERSPORT 4 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400260894
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400260894
 
 #EXTINF:-1 tvg-id="SuperSport News" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="SPORT ALB-ITA",SuperSport News
-http://iptv365.xyz/0422722878/3AB8B6BB/118056
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118056
 #EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="Super Sport 2 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="SPORT ALB-ITA",Super Sport 2
-http://iptv365.xyz/0422722878/3AB8B6BB/118057
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118057
 #EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="Super Sport 3 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="SPORT ALB-ITA",Super Sport 3
-http://iptv365.xyz/0422722878/3AB8B6BB/118058
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118058
 #EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="Super Sport 4 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png"  group-title="SPORT ALB-ITA",Super Sport 4
-http://iptv365.xyz/0422722878/3AB8B6BB/118059
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118059
 #EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="Super Sport 5 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png"  group-title="SPORT ALB-ITA",Super Sport 5
-http://iptv365.xyz/0422722878/3AB8B6BB/118060
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118060
 #EXTINF:-1 tvg-id="SuperSport6.al" tvg-name="Super Sport 6 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="SPORT ALB-ITA",Super Sport 6
-http://iptv365.xyz/0422722878/3AB8B6BB/400148242
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148242
+#EXTINF:-1 tvg-id="SuperSport6.al" tvg-name="Super Sport 7 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%207.png"  group-title="SPORT ALB-ITA",Super Sport 7
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400142477
 
 #EXTINF:-1 tvg-id="" tvg-name="AL| Super Sport 1 FHD" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="SPORT ALB-ITA",SuperSport News 
-http://iptv365.xyz/0422722878/3AB8B6BB/400148238
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148238
 #EXTINF:-1 tvg-id="SuperSport 2" tvg-name="Super Sport 2 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="SPORT ALB-ITA",Super Sport 2
-http://iptv365.xyz/0422722878/3AB8B6BB/360088
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360088
 #EXTINF:-1 tvg-id="SuperSport 3" tvg-name="Super Sport 3 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="SPORT ALB-ITA",Super Sport 3
-http://iptv365.xyz/0422722878/3AB8B6BB/360089
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360089
 #EXTINF:-1 tvg-id="SuperSport 4" tvg-name="Super Sport 4 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png"  group-title="SPORT ALB-ITA",Super Sport 4
-http://iptv365.xyz/0422722878/3AB8B6BB/360090
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360090
 #EXTINF:-1 tvg-id="SuperSport 5" tvg-name="Super Sport 5 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png"  group-title="SPORT ALB-ITA",Super Sport 5
-http://iptv365.xyz/0422722878/3AB8B6BB/360091
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360091
+#EXTINF:-1 tvg-id="SuperSport6.al" tvg-name="Super Sport 6 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="SPORT ALB-ITA",Super Sport 6 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118061
 
 
 #EXTINF:-1 tvg-id="SuperSportKosova1.al" tvg-name="AL|Super Sport Kosova 1 HD" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="SPORT ALB-ITA",SuperSport Kosova 2
-http://iptv365.xyz/0422722878/3AB8B6BB/118045
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118045
 #EXTINF:-1 tvg-id="SuperSportKosova2.al" tvg-name="AL| Super Sport Kosova 2 HD" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="SPORT ALB-ITA",SuperSport Kosova 3
-http://iptv365.xyz/0422722878/3AB8B6BB/118046
-
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118046
+#EXTINF:-1 tvg-id="SuperSportKosova2.al" tvg-name="AL| Super Sport Kosova 2 HD" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="SPORT ALB-ITA",SuperSport Kosova 3 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38073
 
 
 #EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="TRING SPORT 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/360092
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360092
 #EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="Tring Sport 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/360093
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360093
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="TRING SPORT 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport 3 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360094
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="TRING SPORT 4 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png"  group-title="SPORT ALB-ITA",Tring Sport 4 FHD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/360095
+
 
 #EXTINF:-1 tvg-id="Art Sport 1" tvg-name="Art Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%201.png" group-title="SPORT ALB-ITA",Art Sport 1
-http://iptv365.xyz/0422722878/3AB8B6BB/184099
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184099
 #EXTINF:-1 tvg-id="Art Sport 2" tvg-name="Art Sport 2" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%202.png" group-title="SPORT ALB-ITA",Art Sport 2
-http://iptv365.xyz/0422722878/3AB8B6BB/184100
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184100
 #EXTINF:-1 tvg-id="Art Sport 3" tvg-name="Art Sport 3" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%203.png" group-title="SPORT ALB-ITA",Art Sport 3
-http://iptv365.xyz/0422722878/3AB8B6BB/184101
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184101
+#EXTINF:-1 tvg-id="Art Sport 4" tvg-name="Art Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/ArtSport_Logo.jpg"  group-title="SPORT ALB-ITA",Art Sport 4
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400260893
+#EXTINF:-1 tvg-id="Art Sport 5" tvg-name="Art Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/ArtSport_Logo.jpg"  group-title="SPORT ALB-ITA",Art Sport 5
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400260892
+#EXTINF:-1 tvg-id="Art Sport 6" tvg-name="Art Sport 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/ArtSport_Logo.jpg"  group-title="SPORT ALB-ITA",Art Sport 6
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400260891
+
 
 #EXTINF:-1 tvg-id="Kujtesa Sport 1" tvg-name="Kujtesa Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png"  group-title="SPORT ALB-ITA",Kujtesa Sport 1
-http://iptv365.xyz/0422722878/3AB8B6BB/184112
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184112
 #EXTINF:-1 tvg-id="Kujtesa Sport 2" tvg-name="Kujtesa Sport 2" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png"  group-title="SPORT ALB-ITA",Kujtesa Sport 2
-http://iptv365.xyz/0422722878/3AB8B6BB/184113
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184113
 #EXTINF:-1 tvg-id="Kujtesa Sport 3" tvg-name="Kujtesa Sport 3" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png"  group-title="SPORT ALB-ITA",Kujtesa Sport 3
-http://iptv365.xyz/0422722878/3AB8B6BB/184114
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184114
 #EXTINF:-1 tvg-id="Kujtesa Sport 4" tvg-name="Kujtesa Sport 4" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png"  group-title="SPORT ALB-ITA",Kujtesa Sport 4
-http://iptv365.xyz/0422722878/3AB8B6BB/184115
+http://iptv365.xyz:80/0422722878/3AB8B6BB/184115
 
 
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/320px-Rai_Sport_-_Logo_2017.svg.png" group-title="SPORT ALB-ITA",Rai Sport
-http://iptv365.xyz/0422722878/3AB8B6BB/194217
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194217
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="SKY SPORT 24 HD" tvg-logo="http://logo.megaott.net/ITALY/SKYSPORT24FHD.png" group-title="SPORT ALB-ITA",Sky Sport 24
-http://iptv365.xyz/0422722878/3AB8B6BB/194523
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194523
 #EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="SPORT ALB-ITA",Sky Sport Uno
-http://iptv365.xyz/0422722878/3AB8B6BB/194524
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194524
 #EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="SKY SPORT SERIE A HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sky_Sport_Serie_A_HD_-_Logo_2018.svg/1280px-Sky_Sport_Serie_A_HD_-_Logo_2018.svg.png" group-title="SPORT ALB-ITA",Sky Sport Serie A
-http://iptv365.xyz/0422722878/3AB8B6BB/372884
+http://iptv365.xyz:80/0422722878/3AB8B6BB/372884
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="SPORT ALB-ITA",Sky Sport Football
-http://iptv365.xyz/0422722878/3AB8B6BB/194525
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194525
 #EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/1280px-Sky_Sport_Arena_-_Logo_2018.svg.png" group-title="SPORT ALB-ITA",Sky Sport Arena
-http://iptv365.xyz/0422722878/3AB8B6BB/194222
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194222
 #EXTINF:-1 tvg-id="SkySp F1" tvg-name="SKY SPORTS F1" tvg-logo="http://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" group-title="SPORT ALB-ITA",Sky Sports F1
-http://iptv365.xyz/0422722878/3AB8B6BB/194529
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194529
 
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTO GP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1200px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="SPORT ALB-ITA",Sky Sport Moto GP
-http://iptv365.xyz/0422722878/3AB8B6BB/194225
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194225
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sport Italia SoloCalcio" tvg-logo="https://www.calcioefinanza.it/wp-content/uploads/2016/07/sportitalia-e1522408947655.jpg" group-title="SPORT ALB-ITA",Sport Italia Solo Calcio
-http://iptv365.xyz/0422722878/3AB8B6BB/194535
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194535
 
 
 #EXTINF:-1 tvg-id="eurosport.it" tvg-name="EUROSPORT 1 HD" tvg-logo="http://logo.megaott.net/ITALY/EUROSPORT1HD.png" group-title="SPORT ALB-ITA",Euro Sport 1 
-http://iptv365.xyz/0422722878/3AB8B6BB/194503
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194503
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="|EUROSPORT 2 HD" tvg-logo="http://logo.megaott.net/ITALY/EUROSPORT2HD.png" group-title="SPORT ALB-ITA",Euro Sport 2 
-http://iptv365.xyz/0422722878/3AB8B6BB/194504
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194504
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="SUPER TENNIS HD" tvg-logo="http://logo.megaott.net/ITALY/SUPERTENNIS.png" group-title="SPORT ALB-ITA",Super Tennis
-http://iptv365.xyz/0422722878/3AB8B6BB/194501
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194501
 #EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sky_Sport_NBA_-_Logo_2018.svg/1280px-Sky_Sport_NBA_-_Logo_2018.svg.png" group-title="SPORT ALB-ITA",Sky Sport NBA
-http://iptv365.xyz/0422722878/3AB8B6BB/194527
+http://iptv365.xyz:80/0422722878/3AB8B6BB/194527
 
 
 
 
 #EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK: LaLiga TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/LaLiga_TV_Bar_HD.png/320px-LaLiga_TV_Bar_HD.png" group-title="UK SPORTS",LaLiga TV 
-http://iptv365.xyz/0422722878/3AB8B6BB/153728
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153728
 #EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BTSPORT_ESPN_BLACK_RED.png/800px-BTSPORT_ESPN_BLACK_RED.png" group-title="UK SPORTS",BT Sport ESPN HD
-http://iptv365.xyz/0422722878/3AB8B6BB/153713
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153713
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 FHD" tvg-logo="http://logo.megaott.net/UK/BTSPORTS1.png" group-title="UK SPORTS",BT Sport 1 
-http://iptv365.xyz/0422722878/3AB8B6BB/153714
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153714
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2 SD" tvg-logo="http://logo.megaott.net/UK/BTSPORTS2.png" group-title="UK SPORTS",BT Sport 2 
-http://iptv365.xyz/0422722878/3AB8B6BB/153717
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153717
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 FHD" tvg-logo="http://logo.megaott.net/UK/BTSPORTS3.png" group-title="UK SPORTS",BT Sport 3 
-http://iptv365.xyz/0422722878/3AB8B6BB/153718
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153718
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK SPORTS",beIN Sports Sports English 1
-http://iptv365.xyz/0422722878/3AB8B6BB/81
+http://iptv365.xyz:80/0422722878/3AB8B6BB/81
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK SPORTS",beIN Sports Sports English 2
-http://iptv365.xyz/0422722878/3AB8B6BB/82
+http://iptv365.xyz:80/0422722878/3AB8B6BB/82
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK SPORTS",beIN Sports Sports English 3
-http://iptv365.xyz/0422722878/3AB8B6BB/83
+http://iptv365.xyz:80/0422722878/3AB8B6BB/83
 
 #EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event SD" tvg-logo="http://logo.megaott.net/UK/SKYSPORTSMAINEVENT.png" group-title="UK SPORTS",Sky Sports Main Event
-http://iptv365.xyz/0422722878/3AB8B6BB/153692
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153692
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Premier League FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/640px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",Sky Sports Premier League
-http://iptv365.xyz/0422722878/3AB8B6BB/153693
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153693
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football FHD" tvg-logo="http://logo.megaott.net/UK/SKYSPORTSFOOTBALL.png" group-title="UK SPORTS",Sky Sports Football
-http://iptv365.xyz/0422722878/3AB8B6BB/153695
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153695
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK: Sky Sports Action FHD" tvg-logo="http://logo.megaott.net/UK/SKYSPORTSACTION.png" group-title="UK SPORTS",Sky Sports Action
-http://iptv365.xyz/0422722878/3AB8B6BB/153703
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153703
 #EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix FHD" tvg-logo="http://logo.megaott.net/UK/SKYSPORTSMIX.png" group-title="UK SPORTS",Sky Sports Mix 
-http://iptv365.xyz/0422722878/3AB8B6BB/153711
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153711
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="http://logo.megaott.net/UK/SKYSPORTSF1.png" group-title="UK SPORTS",Sky Sports F1 
-http://iptv365.xyz/0422722878/3AB8B6BB/153701
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153701
 
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT Football FHD" tvg-logo="https://www.dstvafrica.com/media/7529/supersport.png" group-title="UK SPORTS",SuperSport Football 
-http://iptv365.xyz/0422722878/3AB8B6BB/190006
+http://iptv365.xyz:80/0422722878/3AB8B6BB/190006
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT La liga FHD" tvg-logo="https://www.dstvafrica.com/media/7529/supersport.png" group-title="UK SPORTS",SuperSport La liga 
-http://iptv365.xyz/0422722878/3AB8B6BB/190005
+http://iptv365.xyz:80/0422722878/3AB8B6BB/190005
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT  Premier League FHD" tvg-logo="https://www.dstvafrica.com/media/7529/supersport.png" group-title="UK SPORTS",SuperSport Premier League 
-http://iptv365.xyz/0422722878/3AB8B6BB/190004
+http://iptv365.xyz:80/0422722878/3AB8B6BB/190004
 
 #EXTINF:-1 tvg-id="" tvg-name="US (English) beIN SPORTS (S)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK SPORTS",US (English) beIN SPORTS (S)
-http://iptv365.xyz/0422722878/3AB8B6BB/181503
+http://iptv365.xyz:80/0422722878/3AB8B6BB/181503
 #EXTINF:-1 tvg-id="" tvg-name="US (Spanish) beIN SPORTS LaLiga (S)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK SPORTS",US (Spanish) beIN SPORTS LaLiga (S)
-http://iptv365.xyz/0422722878/3AB8B6BB/181504
+http://iptv365.xyz:80/0422722878/3AB8B6BB/181504
 #EXTINF:-1 tvg-id="" tvg-name="US ESPN ESPNU (S)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK SPORTS",US ESPN ESPNU (S)
-http://iptv365.xyz/0422722878/3AB8B6BB/181506
+http://iptv365.xyz:80/0422722878/3AB8B6BB/181506
 
 
 
 
 
 #EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: Premier Sports 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/800px-Premier_sports_logo_2018.svg.png" group-title="UK SPORTS",Premier Sports 1 
-http://iptv365.xyz/0422722878/3AB8B6BB/153723
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153723
 #EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: Premier Sports 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/800px-Premier_sports_logo_2018.svg.png" group-title="UK SPORTS",Premier Sports 2 
-http://iptv365.xyz/0422722878/3AB8B6BB/153724
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153724
 #EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: Freesports FHD" tvg-logo="http://logo.megaott.net/UK/Freesports.png" group-title="UK SPORTS",Freesports 
-http://iptv365.xyz/0422722878/3AB8B6BB/153725
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153725
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News FHD" tvg-logo="http://logo.megaott.net/UK/SKYSPORTSNEWS.png" group-title="UK SPORTS",Sky Sports News
-http://iptv365.xyz/0422722878/3AB8B6BB/153707
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153707
 #EXTINF:-1 tvg-id="boxnation.uk" tvg-name="UK: Box Nation HD" tvg-logo="http://logo.megaott.net/UK/BOXNATION.png" group-title="UK SPORTS",Box Nation 
-http://iptv365.xyz/0422722878/3AB8B6BB/153733
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153733
 #EXTINF:-1 tvg-id="" tvg-name="UK: WWE NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/223px-WWE_Network_logo.svg.png" group-title="UK SPORTS",WWE NETWORK FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/153736
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153736
 #EXTINF:-1 tvg-id="" tvg-name="UK: LFC TV HD" tvg-logo="http://logo.megaott.net/UK/LFCT.png" group-title="UK SPORTS",LFC TV HD
-http://iptv365.xyz/0422722878/3AB8B6BB/153731
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153731
 #EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png" group-title="UK SPORTS",Eurosport 1 
-http://iptv365.xyz/0422722878/3AB8B6BB/153720
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153720
 #EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png" group-title="UK SPORTS",Eurosport 2 
-http://iptv365.xyz/0422722878/3AB8B6BB/153721
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153721
 #EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/640px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="UK SPORTS",Sky Sports Golf 
-http://iptv365.xyz/0422722878/3AB8B6BB/153700
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153700
 
 
 
 #EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK: LaLiga TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/LaLiga_TV_Bar_HD.png/320px-LaLiga_TV_Bar_HD.png" group-title="UK SPORTS",LaLiga TV SD
-http://iptv365.xyz/0422722878/3AB8B6BB/190011
+http://iptv365.xyz:80/0422722878/3AB8B6BB/190011
 #EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN FHD" tvg-logo="http://logo.megaott.net/UK/BTSPORTSESPN.png" group-title="UK SPORTS",BT Sport ESPN SD
-http://iptv365.xyz/0422722878/3AB8B6BB/13716
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13716
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 SD" tvg-logo="http://logo.megaott.net/UK/BTSPORTS1.png" group-title="UK SPORTS",BT Sport 1 SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153715
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153715
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2 FHD" tvg-logo="http://logo.megaott.net/UK/BTSPORTS2.png" group-title="UK SPORTS",BT Sport 2 SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153716
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153716
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 SD" tvg-logo="http://logo.megaott.net/UK/BTSPORTS3.png" group-title="UK SPORTS",BT Sport 3 SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153719
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153719
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football SD" tvg-logo="http://logo.megaott.net/UK/SKYSPORTSFOOTBALL.png" group-title="UK SPORTS",Sky Sports Football SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153696
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153696
 #EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix SD" tvg-logo="http://logo.megaott.net/UK/SKYSPORTSMIX.png" group-title="UK SPORTS",Sky Sports Mix SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153712
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153712
 #EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: Freesports SD" tvg-logo="http://logo.megaott.net/UK/Freesports.png" group-title="UK SPORTS",Freesports SD
-http://iptv365.xyz/0422722878/3AB8B6BB/189995
+http://iptv365.xyz:80/0422722878/3AB8B6BB/189995
 
 
 
 #EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN SD" tvg-logo="http://logo.megaott.net/UK/BTSPORTSESPN.png" group-title="UK SPORTS",BT Sport ESPN HD
-http://iptv365.xyz/0422722878/3AB8B6BB/13717
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13717
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 HD" tvg-logo="http://logo.megaott.net/UK/BTSPORTS1.png" group-title="UK SPORTS",BT Sport 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/13780
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13780
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2 HD" tvg-logo="http://logo.megaott.net/UK/BTSPORTS2.png" group-title="UK SPORTS",BT Sport 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/13779
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13779
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 HD" tvg-logo="http://logo.megaott.net/UK/BTSPORTS3.png" group-title="UK SPORTS",BT Sport 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/13778
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13778
 #EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix HD" tvg-logo="http://logo.megaott.net/UK/SKYSPORTSMIX.png" group-title="UK SPORTS",Sky Sports Mix HD
-http://iptv365.xyz/0422722878/3AB8B6BB/189987
+http://iptv365.xyz:80/0422722878/3AB8B6BB/189987
 
 
 #EXTINF:-1 tvg-id="beinsports5.us" tvg-name="US BeIN Sports 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK SPORTS",US BeIN Sports 5
-http://iptv365.xyz/0422722878/3AB8B6BB/181529
+http://iptv365.xyz:80/0422722878/3AB8B6BB/181529
 #EXTINF:-1 tvg-id="beinsports4.us" tvg-name="US beIN SPORTS 4 (S)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK SPORTS",US beIN SPORTS 4 (S)
-http://iptv365.xyz/0422722878/3AB8B6BB/181543
+http://iptv365.xyz:80/0422722878/3AB8B6BB/181543
 #EXTINF:-1 tvg-id="beinsports6.us" tvg-name="US beIN SPORTS 6 (S)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK SPORTS",US beIN SPORTS 6 (S)
-http://iptv365.xyz/0422722878/3AB8B6BB/181545
+http://iptv365.xyz:80/0422722878/3AB8B6BB/181545
 #EXTINF:-1 tvg-id="beinsports7.us" tvg-name="US beIN SPORTS 7 (S)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="UK SPORTS",US beIN SPORTS 7 (S)
-http://iptv365.xyz/0422722878/3AB8B6BB/181546
+http://iptv365.xyz:80/0422722878/3AB8B6BB/181546
 
 
 
@@ -757,55 +857,55 @@ http://iptv365.xyz/0422722878/3AB8B6BB/181546
 
 
 #EXTINF:-1 tvg-id="" tvg-name="US (Spanish) beIN SPORTS en Espanol (S)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="SPAIN SPORTS",US (Spanish) beIN SPORTS en Espanol (S)
-http://iptv365.xyz/0422722878/3AB8B6BB/181505
+http://iptv365.xyz:80/0422722878/3AB8B6BB/181505
 #EXTINF:-1 tvg-id="" tvg-name="DAZN PREMIER 1  (SOLO EVENTO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/477px-DAZN_logo.svg.png" group-title="SPAIN SPORTS",ES:DAZN PREMIER 1  (SOLO EVENTO)
-http://iptv365.xyz/0422722878/3AB8B6BB/165068
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165068
 #EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="M. DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/640px-Movistar_Deportes.svg.png" group-title="SPAIN SPORTS",ES:M. DEPORTES FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/189463
+http://iptv365.xyz:80/0422722878/3AB8B6BB/189463
 #EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="M. DEPORTES 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/640px-Movistar_Deportes.svg.png" group-title="SPAIN SPORTS",ES:M. DEPORTES 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165890
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165890
 #EXTINF:-1 tvg-id="mlaliga.es" tvg-name="M. LALIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="SPAIN SPORTS",ES:M. LALIGA HD
-http://iptv365.xyz/0422722878/3AB8B6BB/165970
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165970
 #EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="M. LALIGA1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="SPAIN SPORTS",ES:M. LALIGA1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/165971
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165971
 #EXTINF:-1 tvg-id="" tvg-name="[ES] M. DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/640px-Movistar_Deportes.svg.png" group-title="SPAIN SPORTS",ES: M. DEPORTES 1
-http://iptv365.xyz/0422722878/3AB8B6BB/155767
+http://iptv365.xyz:80/0422722878/3AB8B6BB/155767
 #EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Movistar%2B.png/640px-Movistar%2B.png" group-title="SPAIN SPORTS",ES:MULTIDEPORTE
-http://iptv365.xyz/0422722878/3AB8B6BB/189465
+http://iptv365.xyz:80/0422722878/3AB8B6BB/189465
 #EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Movistar%2B.png/640px-Movistar%2B.png" group-title="SPAIN SPORTS",ES:GOL TV HD
-http://iptv365.xyz/0422722878/3AB8B6BB/165977
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165977
 
 
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="SPAIN SPORTS",ES:M. LaLiga 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/187554
+http://iptv365.xyz:80/0422722878/3AB8B6BB/187554
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/LaLiga_TV_Bar_HD.png/320px-LaLiga_TV_Bar_HD.png" group-title="SPAIN SPORTS",ES:M. LaLiga 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/187555
+http://iptv365.xyz:80/0422722878/3AB8B6BB/187555
 #EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="M. LaLiga 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="SPAIN SPORTS",ES:M. LaLiga 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/187556
+http://iptv365.xyz:80/0422722878/3AB8B6BB/187556
 #EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="LIGA DE CAMPEONES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="SPAIN SPORTS",ES: M. LIGA DE CAMPEONES FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165883
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165883
 #EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="M. LCAMPEON 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="SPAIN SPORTS",ES:M. LCAMPEON 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/187583
+http://iptv365.xyz:80/0422722878/3AB8B6BB/187583
 #EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="M. LCAMPEON 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/640px-Movistar_LaLiga.svg.png" group-title="SPAIN SPORTS",ES:M. LCAMPEON 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/187584
+http://iptv365.xyz:80/0422722878/3AB8B6BB/187584
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/640px-Movistar_Deportes.svg.png" group-title="SPAIN SPORTS",ES:M. LALIGA HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/189459
+http://iptv365.xyz:80/0422722878/3AB8B6BB/189459
 #EXTINF:-1 tvg-id="" tvg-name="ES: M. LALIGA1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/640px-Movistar_Deportes.svg.png" group-title="SPAIN SPORTS",ES:M. LALIGA1 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/189460
+http://iptv365.xyz:80/0422722878/3AB8B6BB/189460
 #EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/640px-Movistar_Deportes.svg.png" group-title="SPAIN SPORTS",ES:M. DEPORTES HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/189463
+http://iptv365.xyz:80/0422722878/3AB8B6BB/189463
 #EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/640px-Movistar_Deportes.svg.png" group-title="SPAIN SPORTS",ES:M. DEPORTES 1 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/189464
+http://iptv365.xyz:80/0422722878/3AB8B6BB/189464
 #EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Movistar%2B.png/640px-Movistar%2B.png" group-title="SPAIN SPORTS",ES:MULTIDEPORTE HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/189465
+http://iptv365.xyz:80/0422722878/3AB8B6BB/189465
 #EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Movistar%2B.png/640px-Movistar%2B.png" group-title="SPAIN SPORTS",ES:GOL TV HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/189466
+http://iptv365.xyz:80/0422722878/3AB8B6BB/189466
 #EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Movistar%2B.png/640px-Movistar%2B.png" group-title="SPAIN SPORTS",ES:TELEDEPORTE HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/189467
+http://iptv365.xyz:80/0422722878/3AB8B6BB/189467
 
 
 
@@ -814,84 +914,84 @@ http://iptv365.xyz/0422722878/3AB8B6BB/189467
 
 
 #EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR - BEIN SPORTS 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR - BEIN SPORTS 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/615
+http://iptv365.xyz:80/0422722878/3AB8B6BB/615
 #EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR - BEIN SPORTS 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR - BEIN SPORTS 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/616
+http://iptv365.xyz:80/0422722878/3AB8B6BB/616
 #EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR - BEIN SPORTS 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR - BEIN SPORTS 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/617
+http://iptv365.xyz:80/0422722878/3AB8B6BB/617
 #EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR -BEIN SPORTS MAX4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX4 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/618
+http://iptv365.xyz:80/0422722878/3AB8B6BB/618
 #EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR -BEIN SPORTS MAX5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX5 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/619
+http://iptv365.xyz:80/0422722878/3AB8B6BB/619
 #EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR -BEIN SPORTS MAX6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX6 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/620
+http://iptv365.xyz:80/0422722878/3AB8B6BB/620
 #EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR -BEIN SPORTS MAX7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX7 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/621
+http://iptv365.xyz:80/0422722878/3AB8B6BB/621
 #EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR -BEIN SPORTS MAX8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX8 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/622
+http://iptv365.xyz:80/0422722878/3AB8B6BB/622
 #EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR -BEIN SPORTS MAX9 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX9 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/623
+http://iptv365.xyz:80/0422722878/3AB8B6BB/623
 #EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR -BEIN SPORTS MAX10 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX10 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/624
+http://iptv365.xyz:80/0422722878/3AB8B6BB/624
 #EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+  SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="FRANCE SPORTS ",FR - CANAL+  SPORT HD
-http://iptv365.xyz/0422722878/3AB8B6BB/604
+http://iptv365.xyz:80/0422722878/3AB8B6BB/604
 #EXTINF:-1 tvg-id="footplus24.fr" tvg-name="FR - FOOT+  24/24 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/1200px-Foot%2B_2011.svg.png" group-title="FRANCE SPORTS ",FR -FOOT+ 24/24 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/626
+http://iptv365.xyz:80/0422722878/3AB8B6BB/626
 #EXTINF:-1 tvg-id="" tvg-name="FR -FOOT+ HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Foot%2B_2011.svg/1200px-Foot%2B_2011.svg.png" group-title="FRANCE SPORTS ",FR -FOOT+ HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/661
+http://iptv365.xyz:80/0422722878/3AB8B6BB/661
 
 
 
 
 #EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR - RMC SPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="FRANCE SPORTS ",FR - RMC SPORT 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/605
+http://iptv365.xyz:80/0422722878/3AB8B6BB/605
 #EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR - RMC SPORT 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="FRANCE SPORTS ",FR - RMC SPORT 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/606
+http://iptv365.xyz:80/0422722878/3AB8B6BB/606
 #EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="FR - RMC SPORT 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="FRANCE SPORTS ",FR - RMC SPORT 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/607
+http://iptv365.xyz:80/0422722878/3AB8B6BB/607
 #EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="FR - RMC SPORT 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="FRANCE SPORTS ",FR - RMC SPORT 4 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/608
+http://iptv365.xyz:80/0422722878/3AB8B6BB/608
 #EXTINF:-1 tvg-id="rmcsport5.fr" tvg-name="FR - RMC SPORT 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="FRANCE SPORTS ",FR - RMC SPORT 5 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/609
+http://iptv365.xyz:80/0422722878/3AB8B6BB/609
 #EXTINF:-1 tvg-id="rmcsport6.fr" tvg-name="FR - RMC SPORT 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="FRANCE SPORTS ",FR - RMC SPORT 6 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/610
+http://iptv365.xyz:80/0422722878/3AB8B6BB/610
 #EXTINF:-1 tvg-id="rmcsport7.fr" tvg-name="FR - RMC SPORT 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="FRANCE SPORTS ",FR - RMC SPORT 7 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/611
+http://iptv365.xyz:80/0422722878/3AB8B6BB/611
 #EXTINF:-1 tvg-id="rmcsport8.fr" tvg-name="FR - RMC SPORT 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="FRANCE SPORTS ",FR - RMC SPORT 8 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/612
+http://iptv365.xyz:80/0422722878/3AB8B6BB/612
 
 
 #EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR -BEIN SPORTS 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS 1 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/650
+http://iptv365.xyz:80/0422722878/3AB8B6BB/650
 #EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR -BEIN SPORTS 2 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS 2 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/651
+http://iptv365.xyz:80/0422722878/3AB8B6BB/651
 #EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR -BEIN SPORTS 3 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS 3 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/652
+http://iptv365.xyz:80/0422722878/3AB8B6BB/652
 #EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR -BEIN SPORTS MAX4 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX4 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/653
+http://iptv365.xyz:80/0422722878/3AB8B6BB/653
 #EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR -BEIN SPORTS MAX5 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX5 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/654
+http://iptv365.xyz:80/0422722878/3AB8B6BB/654
 #EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR -BEIN SPORTS MAX6 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX6 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/655
+http://iptv365.xyz:80/0422722878/3AB8B6BB/655
 #EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR -BEIN SPORTS MAX7 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX7 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/656
+http://iptv365.xyz:80/0422722878/3AB8B6BB/656
 #EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR -BEIN SPORTS MAX8 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX8 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/657
+http://iptv365.xyz:80/0422722878/3AB8B6BB/657
 #EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR -BEIN SPORTS MAX9 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX9 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/658
+http://iptv365.xyz:80/0422722878/3AB8B6BB/658
 #EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR -BEIN SPORTS MAX10 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="FRANCE SPORTS ",FR -BEIN SPORTS MAX10 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/659
+http://iptv365.xyz:80/0422722878/3AB8B6BB/659
 
 
 
 #EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR -RMC SPORT 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="FRANCE SPORTS ",FR -RMC SPORT 1 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/640
+http://iptv365.xyz:80/0422722878/3AB8B6BB/640
 #EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR -RMC SPORT 2 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="FRANCE SPORTS ",FR -RMC SPORT 2 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/676
+http://iptv365.xyz:80/0422722878/3AB8B6BB/676
 #EXTINF:-1 tvg-id="" tvg-name="FR -RMC SPORT 3 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="FRANCE SPORTS ",FR -RMC SPORT 3 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/677
+http://iptv365.xyz:80/0422722878/3AB8B6BB/677
 #EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="FR -RMC SPORT 4 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="FRANCE SPORTS ",FR -RMC SPORT 4 HEVC
-http://iptv365.xyz/0422722878/3AB8B6BB/678
+http://iptv365.xyz:80/0422722878/3AB8B6BB/678
 
 
 
@@ -901,220 +1001,220 @@ http://iptv365.xyz/0422722878/3AB8B6BB/678
 
 
 #EXTINF:-1 tvg-id="skysport1.de" tvg-name="SKY SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Sky_Sport_1_Logo_2016.png" group-title="GERMANY SPORTS",SKY SPORT 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/164495
+http://iptv365.xyz:80/0422722878/3AB8B6BB/164495
 #EXTINF:-1 tvg-id="skysport2.de" tvg-name="SKY SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky_Sport_2_Logo_2016.png" group-title="GERMANY SPORTS",SKY SPORT 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/164496
+http://iptv365.xyz:80/0422722878/3AB8B6BB/164496
 #EXTINF:-1 tvg-id="dazn.de" tvg-name="DAZN 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/477px-DAZN_logo.svg.png" group-title="GERMANY SPORTS",DAZN 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/164345
+http://iptv365.xyz:80/0422722878/3AB8B6BB/164345
 #EXTINF:-1 tvg-id="atvmainfranken.de" tvg-name="DAZN 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/477px-DAZN_logo.svg.png" group-title="GERMANY SPORTS",DAZN 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/164346
+http://iptv365.xyz:80/0422722878/3AB8B6BB/164346
 #EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="SKY BUNDESLIGA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",SKY BUNDESLIGA 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/164494
+http://iptv365.xyz:80/0422722878/3AB8B6BB/164494
 #EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="SKY BUNDESLIGA 2 FHD weekend only" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",SKY BUNDESLIGA 2 FHD weekend only
-http://iptv365.xyz/0422722878/3AB8B6BB/16243
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16243
 #EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="SKY BUNDESLIGA 3 FHD weekend only" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",SKY BUNDESLIGA 3 FHD weekend only
-http://iptv365.xyz/0422722878/3AB8B6BB/16242
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16242
 #EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="SKY BUNDESLIGA 4 FHD (weekend only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",SKY BUNDESLIGA 4 FHD (weekend only)
-http://iptv365.xyz/0422722878/3AB8B6BB/16241
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16241
 #EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="SKY BUNDESLIGA 5 FHD ( weekend only)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",SKY BUNDESLIGA 5 FHD ( weekend only)
-http://iptv365.xyz/0422722878/3AB8B6BB/16240
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16240
 #EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="SKY BUNDESLIGA 6 FHD  (weekend only )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",SKY BUNDESLIGA 6 FHD  (weekend only )
-http://iptv365.xyz/0422722878/3AB8B6BB/16239
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16239
 
 #EXTINF:-1 tvg-id="skysportsnewshd.de" tvg-name="SKY SPORT NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",SKY SPORT NEWS FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/164364
+http://iptv365.xyz:80/0422722878/3AB8B6BB/164364
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Telekom 3 Bundesliga 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",Telekom 3 Bundesliga 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/215255
+http://iptv365.xyz:80/0422722878/3AB8B6BB/215255
 #EXTINF:-1 tvg-id="" tvg-name="Telekom 3 Bundesliga 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",Telekom 3 Bundesliga 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/215256
+http://iptv365.xyz:80/0422722878/3AB8B6BB/215256
 #EXTINF:-1 tvg-id="" tvg-name="Telekom 3 Bundesliga 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",Telekom 3 Bundesliga 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/215257
+http://iptv365.xyz:80/0422722878/3AB8B6BB/215257
 #EXTINF:-1 tvg-id="" tvg-name="Telekom 3 Bundesliga 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",Telekom 3 Bundesliga 4 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/215258
+http://iptv365.xyz:80/0422722878/3AB8B6BB/215258
 #EXTINF:-1 tvg-id="" tvg-name="Telekom 3 Bundesliga 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",Telekom 3 Bundesliga 5 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/215259
+http://iptv365.xyz:80/0422722878/3AB8B6BB/215259
 #EXTINF:-1 tvg-id="" tvg-name="Telekom 3 Bundesliga 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",Telekom 3 Bundesliga 6 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/215260
+http://iptv365.xyz:80/0422722878/3AB8B6BB/215260
 #EXTINF:-1 tvg-id="" tvg-name="Telekom 3 Bundesliga 7 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",Telekom 3 Bundesliga 7 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/215261
+http://iptv365.xyz:80/0422722878/3AB8B6BB/215261
 #EXTINF:-1 tvg-id="" tvg-name="Telekom 3 Bundesliga 8 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Sky_Sport_Bundesliga_UHD_Logo_2020.png" group-title="GERMANY SPORTS",Telekom 3 Bundesliga 8 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/215262
+http://iptv365.xyz:80/0422722878/3AB8B6BB/215262
 
 
 
 
 #EXTINF:-1 tvg-id="skysport1.de" tvg-name="SKY SPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Sky_Sport_1_Logo_2016.png" group-title="GERMANY SPORTS",SKY SPORT 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/164352
+http://iptv365.xyz:80/0422722878/3AB8B6BB/164352
 #EXTINF:-1 tvg-id="dazn.de" tvg-name="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/477px-DAZN_logo.svg.png" group-title="GERMANY SPORTS",DAZN 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/164488
+http://iptv365.xyz:80/0422722878/3AB8B6BB/164488
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/477px-DAZN_logo.svg.png" group-title="GERMANY SPORTS",DAZN 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/164489
+http://iptv365.xyz:80/0422722878/3AB8B6BB/164489
 
 
 #EXTINF:-1 tvg-id="eurosport1.de" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/512px-Eurosport_logo_%282001-2011%29.svg.png" group-title="GERMANY SPORTS",EUROSPORT 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/164347
+http://iptv365.xyz:80/0422722878/3AB8B6BB/164347
 #EXTINF:-1 tvg-id="eurosport2.de" tvg-name="EUROSPORT 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/512px-Eurosport_logo_%282001-2011%29.svg.png" group-title="GERMANY SPORTS",EUROSPORT 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/164348
+http://iptv365.xyz:80/0422722878/3AB8B6BB/164348
 #EXTINF:-1 tvg-id="eurosport2xtra.de" tvg-name="EUROSPORT 2 EXTRA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/512px-Eurosport_logo_%282001-2011%29.svg.png" group-title="GERMANY SPORTS",EUROSPORT 2 EXTRA FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/164349
+http://iptv365.xyz:80/0422722878/3AB8B6BB/164349
 
 
 
 #EXTINF:-1 tvg-id="foxsports1.nl" tvg-name="Fox Sports 1 HD" tvg-logo="http://logo.megaott.net/NEDERLAND-OLD/FOXSPORTS.png" group-title="SPORT MIX",NL-Fox Sports 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/16873
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16873
 #EXTINF:-1 tvg-id="foxsports2.nl" tvg-name="Fox Sports 2 HD" tvg-logo="http://logo.megaott.net/NEDERLAND-OLD/FOXSPORTS.png" group-title="SPORT MIX",NL-Fox Sports 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/16872
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16872
 #EXTINF:-1 tvg-id="foxsports3.nl" tvg-name="Fox Sports 3 HD" tvg-logo="http://logo.megaott.net/NEDERLAND-OLD/FOXSPORTS.png" group-title="SPORT MIX",NL-Fox Sports 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/16871
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16871
 #EXTINF:-1 tvg-id="foxsports4.nl" tvg-name="Fox Sports 4 HD" tvg-logo="http://logo.megaott.net/NEDERLAND-OLD/FOXSPORTS.png" group-title="SPORT MIX",NL-Fox Sports 4 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/16870
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16870
 #EXTINF:-1 tvg-id="foxsports5.nl" tvg-name="Fox Sports 5 HD" tvg-logo="http://logo.megaott.net/NEDERLAND-OLD/FOXSPORTS.png" group-title="SPORT MIX",NL-Fox Sports 5 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/16869
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16869
 #EXTINF:-1 tvg-id="foxsports6.nl" tvg-name="Fox Sports 6 HD" tvg-logo="http://logo.megaott.net/NEDERLAND-OLD/FOXSPORTS.png" group-title="SPORT MIX",NL-Fox Sports 6 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/16868
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16868
 #EXTINF:-1 tvg-id="ziggosport.nl" tvg-name="Ziggo Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Ziggo_Sport_Totaal_Logo.jpg" group-title="SPORT MIX",NL-Ziggo Sport
-http://iptv365.xyz/0422722878/3AB8B6BB/16824
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16824
 #EXTINF:-1 tvg-id="ziggosportvoetbal.nl" tvg-name="Ziggo Sport Voetbal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Ziggo_Sport_Totaal_Logo.jpg" group-title="SPORT MIX",NL-Ziggo Sport Voetbal HD
-http://iptv365.xyz/0422722878/3AB8B6BB/16818
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16818
 #EXTINF:-1 tvg-id="ziggosportselect.nl" tvg-name="Ziggo Sport Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Ziggo_Sport_Totaal_Logo.jpg" group-title="SPORT MIX",NL-Ziggo Sport Select HD
-http://iptv365.xyz/0422722878/3AB8B6BB/16819
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16819
 
 
 
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPORT TV+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/800px-Logo_SportTV.svg.png" group-title="SPORT MIX",PT-SPORT TV+ FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165516
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165516
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/800px-Logo_SportTV.svg.png" group-title="SPORT MIX",PT-SPORT TV 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165511
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165511
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/800px-Logo_SportTV.svg.png" group-title="SPORT MIX",PT-SPORT TV 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165512
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165512
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/800px-Logo_SportTV.svg.png" group-title="SPORT MIX",PT-SPORT TV 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165513
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165513
 #EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/800px-Logo_SportTV.svg.png" group-title="SPORT MIX",PT-SPORT TV 4 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165514
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165514
 
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SPORT MIX",PT-ELEVEN SPORT 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165518
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165518
 #EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORT 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SPORT MIX",PT-ELEVEN SPORT 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165519
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165519
 #EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORT 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SPORT MIX",PT-ELEVEN SPORT 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165520
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165520
 #EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORT 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SPORT MIX",PT-ELEVEN SPORT 4 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165521
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165521
 #EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORT 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SPORT MIX",PT-ELEVEN SPORT 5 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165522
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165522
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORT 6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SPORT MIX",PT-ELEVEN SPORT 6 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/165523
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165523
 
 
 #EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI Sport 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Logo-digisport.png" group-title="SPORT MIX",RO:DIGI Sport 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/169969
+http://iptv365.xyz:80/0422722878/3AB8B6BB/169969
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI Sport 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Logo-digisport.png" group-title="SPORT MIX",RO:DIGI Sport 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/169992
+http://iptv365.xyz:80/0422722878/3AB8B6BB/169992
 #EXTINF:-1 tvg-id="digisport3.ro" tvg-name="Digi Sport 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Logo-digisport.png" group-title="SPORT MIX",RO:Digi Sport 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/170027
+http://iptv365.xyz:80/0422722878/3AB8B6BB/170027
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI Sport 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Logo-digisport.png" group-title="SPORT MIX",RO:DIGI Sport 4 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/169993
+http://iptv365.xyz:80/0422722878/3AB8B6BB/169993
 
 #EXTINF:-1 tvg-id="telekomsport1.ro" tvg-name="TELEKOM SPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/640px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="SPORT MIX",RO:TELEKOM SPORT 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/171358
+http://iptv365.xyz:80/0422722878/3AB8B6BB/171358
 #EXTINF:-1 tvg-id="telekomsport2.ro" tvg-name="TELEKOM SPORT 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/640px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="SPORT MIX",RO:TELEKOM SPORT 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/171359
+http://iptv365.xyz:80/0422722878/3AB8B6BB/171359
 #EXTINF:-1 tvg-id="telekomsport3.ro" tvg-name="TELEKOM SPORT 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/640px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="SPORT MIX",RO:TELEKOM SPORT 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/171360
+http://iptv365.xyz:80/0422722878/3AB8B6BB/171360
 #EXTINF:-1 tvg-id="telekomsport4.ro" tvg-name="TELEKOM SPORT 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/640px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="SPORT MIX",RO:TELEKOM SPORT 4 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/171361
+http://iptv365.xyz:80/0422722878/3AB8B6BB/171361
 
 
 #EXTINF:-1 tvg-id="" tvg-name="|PL|: CANAL+ Sport FHD" tvg-logo="http://logo.megaott.net/PHILIPINES/z49.png" group-title="SPORT MIX",PL: CANAL+ Sport FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/117354
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117354
 #EXTINF:-1 tvg-id="" tvg-name="|PL|: CANAL+ Sport 2 FHD" tvg-logo="http://logo.megaott.net/PHILIPINES/z54.png" group-title="SPORT MIX",PL: CANAL+ Sport 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/117351
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117351
 #EXTINF:-1 tvg-id="" tvg-name="|PL|: CANAL+ Sport 3 FHD" tvg-logo="http://logo.megaott.net/PHILIPINES/z53.png" group-title="SPORT MIX",PL: CANAL+ Sport 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/117352
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117352
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="|PL|: ELEVEN SPORTS HD" tvg-logo="http://logo.megaott.net/PHILIPINES/z5.png" group-title="SPORT MIX",PL: ELEVEN SPORTS 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/117392
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117392
 #EXTINF:-1 tvg-id="" tvg-name="|PL|: ELEVEN SPORTS HD" tvg-logo="http://logo.megaott.net/PHILIPINES/z5.png" group-title="SPORT MIX",PL: ELEVEN SPORTS 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/117393
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117393
 #EXTINF:-1 tvg-id="" tvg-name="|PL|: ELEVEN SPORTS 3 FHD" tvg-logo="http://logo.megaott.net/PHILIPINES/z7.png" group-title="SPORT MIX",PL: ELEVEN SPORTS 3 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/117394
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117394
 #EXTINF:-1 tvg-id="" tvg-name="|PL|: ELEVEN SPORTS 4 FHD" tvg-logo="http://logo.megaott.net/PHILIPINES/z6.png" group-title="SPORT MIX",PL: ELEVEN SPORTS 4 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/117395
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117395
 
 
 #EXTINF:-1 tvg-id="" tvg-name="|PL|: Polsat Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Polsat-Sport-HD.jpg" group-title="SPORT MIX",PL: Polsat Sport HD
-http://iptv365.xyz/0422722878/3AB8B6BB/117492
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117492
 #EXTINF:-1 tvg-id="" tvg-name="|PL|: Polsat Sport FIGHT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Polsat-Sport-HD.jpg" group-title="SPORT MIX",PL: Polsat Sport FIGHT FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/117493
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117493
 #EXTINF:-1 tvg-id="" tvg-name="|PL|: Polsat Sport Premium 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Polsat-Sport-HD.jpg" group-title="SPORT MIX",PL: Polsat Sport Premium 1 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/117495
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117495
 #EXTINF:-1 tvg-id="" tvg-name="|PL|: Polsat Sport Premium 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Polsat-Sport-HD.jpg" group-title="SPORT MIX",PL: Polsat Sport Premium 2 FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/117496
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117496
 #EXTINF:-1 tvg-id="" tvg-name="|PL| Polsat Sport Premium 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Polsat-Sport-HD.jpg" group-title="SPORT MIX",PL Polsat Sport Premium 6
-http://iptv365.xyz/0422722878/3AB8B6BB/117499
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117499
 
 
 #EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="Arena Sport 1 HD" tvg-logo="https://www.seekpng.com/png/full/29-297991_arena-sports-arena-sport.png" group-title="SPORT MIX",EX-YU:Arena Sport 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/174081
+http://iptv365.xyz:80/0422722878/3AB8B6BB/174081
 #EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="Arena Sport 2 HD" tvg-logo="https://www.seekpng.com/png/full/29-297991_arena-sports-arena-sport.png" group-title="SPORT MIX",EX-YU:Arena Sport 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/174082
+http://iptv365.xyz:80/0422722878/3AB8B6BB/174082
 #EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="Arena Sport 3 HD" tvg-logo="https://www.seekpng.com/png/full/29-297991_arena-sports-arena-sport.png" group-title="SPORT MIX",EX-YU:Arena Sport 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/174083
+http://iptv365.xyz:80/0422722878/3AB8B6BB/174083
 #EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="Arena Sport 4 HD" tvg-logo="https://www.seekpng.com/png/full/29-297991_arena-sports-arena-sport.png" group-title="SPORT MIX",EX-YU:Arena Sport 4 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/174084
+http://iptv365.xyz:80/0422722878/3AB8B6BB/174084
 #EXTINF:-1 tvg-id="arenasport5.hr" tvg-name="Arena Sport 5 HD" tvg-logo="https://www.seekpng.com/png/full/29-297991_arena-sports-arena-sport.png" group-title="SPORT MIX",EX-YU:Arena Sport 5 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/174085
+http://iptv365.xyz:80/0422722878/3AB8B6BB/174085
 
 
 
 
 #EXTINF:-1 tvg-id="sporttv1.si" tvg-name="SPORT TV 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/800px-Logo_SportTV.svg.png" group-title="SPORT MIX",EX-YU:SPORT TV 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/174279
+http://iptv365.xyz:80/0422722878/3AB8B6BB/174279
 #EXTINF:-1 tvg-id="sporttv2.si" tvg-name="SPORT TV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/800px-Logo_SportTV.svg.png" group-title="SPORT MIX",EX-YU:SPORT TV 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/174280
+http://iptv365.xyz:80/0422722878/3AB8B6BB/174280
 #EXTINF:-1 tvg-id="sporttv3.si" tvg-name="SPORT TV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/800px-Logo_SportTV.svg.png" group-title="SPORT MIX",EX-YU:SPORT TV 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/174281
+http://iptv365.xyz:80/0422722878/3AB8B6BB/174281
 
 
 #EXTINF:-1 tvg-id="sportklub1.rs" tvg-name="SPORT KLUB 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sportklub_logo.png/320px-Sportklub_logo.png" group-title="SPORT MIX",EX-YU:SPORT KLUB 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/116020
+http://iptv365.xyz:80/0422722878/3AB8B6BB/116020
 #EXTINF:-1 tvg-id="sportklub2.rs" tvg-name="SPORT KLUB 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sportklub_logo.png/320px-Sportklub_logo.png" group-title="SPORT MIX",EX-YU:SPORT KLUB 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/116021
+http://iptv365.xyz:80/0422722878/3AB8B6BB/116021
 
 
 
 #EXTINF:-1 tvg-id="cmorefotboll.se" tvg-name="|SW| C MORE FOTBOLL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/C_More_Logo.svg/640px-C_More_Logo.svg.png" group-title="SPORT MIX",SW-C MORE FOTBOLL HD
-http://iptv365.xyz/0422722878/3AB8B6BB/16910
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16910
 #EXTINF:-1 tvg-id="cmoresportsfkanalen.se" tvg-name="|SW| C More Sport FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/C_More_Logo.svg/640px-C_More_Logo.svg.png" group-title="SPORT MIX",SW-C More Sport FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/160833
+http://iptv365.xyz:80/0422722878/3AB8B6BB/160833
 
 #EXTINF:-1 tvg-id="cmoresport1.fi" tvg-name="|FI| C MORE SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/C_More_Logo.svg/640px-C_More_Logo.svg.png" group-title="SPORT MIX",FI-C MORE SPORT 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/16986
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16986
 
 
 
 
 #EXTINF:-1 tvg-id="viasatsport.se" tvg-name="|SW| VIASAT SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Viasat_Sport_old_logo.png" group-title="SPORT MIX",SW-VIASAT SPORT HD
-http://iptv365.xyz/0422722878/3AB8B6BB/16900
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16900
 #EXTINF:-1 tvg-id="viasatsportpremium.se" tvg-name="|SW| Viasat Sport Premium FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Viasat_Sport_old_logo.png" group-title="SPORT MIX",SW-Viasat Sport Premium FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/160906
+http://iptv365.xyz:80/0422722878/3AB8B6BB/160906
 #EXTINF:-1 tvg-id="viasatsportpremium.se" tvg-name="|SW| VIASAT SPORT PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Viasat_Sport_old_logo.png" group-title="SPORT MIX",SW-VIASAT SPORT PREMIUM HD
-http://iptv365.xyz/0422722878/3AB8B6BB/16899
+http://iptv365.xyz:80/0422722878/3AB8B6BB/16899
 
 
 
 
 #EXTINF:-1 tvg-id="digisport1.hu" tvg-name="HU: DIGI SPORT 1 HD" tvg-logo="http://logo.megaott.net/ecuador/v61.png" group-title="SPORT MIX",HU: DIGI SPORT 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/160500
+http://iptv365.xyz:80/0422722878/3AB8B6BB/160500
 #EXTINF:-1 tvg-id="digisport2.hu" tvg-name="HU: DIGI SPORT 2 HD" tvg-logo="http://logo.megaott.net/ecuador/v60.png" group-title="SPORT MIX",HU: DIGI SPORT 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/160501
+http://iptv365.xyz:80/0422722878/3AB8B6BB/160501
 #EXTINF:-1 tvg-id="digisport3.hu" tvg-name="HU: DIGI SPORT 3 HD" tvg-logo="http://logo.megaott.net/ecuador/v59.png" group-title="SPORT MIX",HU: DIGI SPORT 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/160502
+http://iptv365.xyz:80/0422722878/3AB8B6BB/160502
 
 
 
@@ -1122,54 +1222,54 @@ http://iptv365.xyz/0422722878/3AB8B6BB/160502
 
 
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPORT TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/800px-Logo_SportTV.svg.png" group-title="SPORT MIX",PT-SPORT TV+
-http://iptv365.xyz/0422722878/3AB8B6BB/165652
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165652
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/800px-Logo_SportTV.svg.png" group-title="SPORT MIX",PT-SPORT TV 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/165647
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165647
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/800px-Logo_SportTV.svg.png" group-title="SPORT MIX",PT-SPORT TV 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/165648
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165648
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/800px-Logo_SportTV.svg.png" group-title="SPORT MIX",PT-SPORT TV 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/165649
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165649
 
 #EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="SPORT TV NBA HD" tvg-logo="http://logo.megaott.net/PORTUGAL/SPORTTVNBA.png" group-title="SPORT MIX",PT-SPORT TV NBA HD
-http://iptv365.xyz/0422722878/3AB8B6BB/165653
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165653
 
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SPORT MIX",PT-ELEVEN SPORT 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/165619
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165619
 #EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="SPORT MIX",PT-ELEVEN SPORT 3
-http://iptv365.xyz/0422722878/3AB8B6BB/165603
+http://iptv365.xyz:80/0422722878/3AB8B6BB/165603
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1 HD" tvg-logo="https://spng.subpng.com/20181115/lwz/kisspng-uefa-europa-league-europe-tivibu-spor-logo-tivibu-spor-5bee45123c6a08.4660608815423419062475.jpg" group-title="SPORT MIX",TR: TIVIBU SPOR 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/191512
+http://iptv365.xyz:80/0422722878/3AB8B6BB/191512
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2 HD" tvg-logo="https://spng.subpng.com/20181115/lwz/kisspng-uefa-europa-league-europe-tivibu-spor-logo-tivibu-spor-5bee45123c6a08.4660608815423419062475.jpg" group-title="SPORT MIX",TR: TIVIBU SPOR 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/191513
+http://iptv365.xyz:80/0422722878/3AB8B6BB/191513
 #EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3 HD" tvg-logo="https://spng.subpng.com/20181115/lwz/kisspng-uefa-europa-league-europe-tivibu-spor-logo-tivibu-spor-5bee45123c6a08.4660608815423419062475.jpg" group-title="SPORT MIX",TR: TIVIBU SPOR 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/191514
+http://iptv365.xyz:80/0422722878/3AB8B6BB/191514
 #EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SMARTSPOR 1 HD" tvg-logo="https://spng.subpng.com/20181115/lwz/kisspng-uefa-europa-league-europe-tivibu-spor-logo-tivibu-spor-5bee45123c6a08.4660608815423419062475.jpg" group-title="SPORT MIX",TR: SMARTSPOR 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/191515
+http://iptv365.xyz:80/0422722878/3AB8B6BB/191515
 #EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S SPORT HD" tvg-logo="https://spng.subpng.com/20181115/lwz/kisspng-uefa-europa-league-europe-tivibu-spor-logo-tivibu-spor-5bee45123c6a08.4660608815423419062475.jpg" group-title="SPORT MIX",TR: S SPORT HD
-http://iptv365.xyz/0422722878/3AB8B6BB/191516
+http://iptv365.xyz:80/0422722878/3AB8B6BB/191516
 
 
 #EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Logo-digisport.png" group-title="SPORT MIX",RO:DIGI SPORT 1
-http://iptv365.xyz/0422722878/3AB8B6BB/17311
+http://iptv365.xyz:80/0422722878/3AB8B6BB/17311
 #EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Logo-digisport.png" group-title="SPORT MIX",RO:DIGI SPORT 2
-http://iptv365.xyz/0422722878/3AB8B6BB/17310
+http://iptv365.xyz:80/0422722878/3AB8B6BB/17310
 #EXTINF:-1 tvg-id="digisport3.ro" tvg-name="DIGI SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Logo-digisport.png" group-title="SPORT MIX",RO:DIGI SPORT 3
-http://iptv365.xyz/0422722878/3AB8B6BB/17309
+http://iptv365.xyz:80/0422722878/3AB8B6BB/17309
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Logo-digisport.png" group-title="SPORT MIX",RO:DIGI SPORT 4
-http://iptv365.xyz/0422722878/3AB8B6BB/17308
+http://iptv365.xyz:80/0422722878/3AB8B6BB/17308
 
 
 #EXTINF:-1 tvg-id="telekomsport1.ro" tvg-name="TELEKOM SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/640px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="SPORT MIX",RO:TELEKOM SPORT 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/17305
+http://iptv365.xyz:80/0422722878/3AB8B6BB/17305
 #EXTINF:-1 tvg-id="telekomsport2.ro" tvg-name="TELEKOM SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/640px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="SPORT MIX",RO:TELEKOM SPORT 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/17304
+http://iptv365.xyz:80/0422722878/3AB8B6BB/17304
 #EXTINF:-1 tvg-id="telekomsport3.ro" tvg-name="TELEKOM SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/640px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="SPORT MIX",RO:TELEKOM SPORT 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/17303
+http://iptv365.xyz:80/0422722878/3AB8B6BB/17303
 #EXTINF:-1 tvg-id="telekomsport4.ro" tvg-name="TELEKOM SPORT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_Telekom_Sport_%282017%29.svg/640px-Logo_Telekom_Sport_%282017%29.svg.png" group-title="SPORT MIX",RO:TELEKOM SPORT 4 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/17302
+http://iptv365.xyz:80/0422722878/3AB8B6BB/17302
 
 
 
@@ -1177,203 +1277,214 @@ http://iptv365.xyz/0422722878/3AB8B6BB/17302
 
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: beIN Sports  FHD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 1
-http://iptv365.xyz/0422722878/3AB8B6BB/6
+http://iptv365.xyz:80/0422722878/3AB8B6BB/6
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: beIN Sports  FHD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 2
-http://iptv365.xyz/0422722878/3AB8B6BB/7
+http://iptv365.xyz:80/0422722878/3AB8B6BB/7
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: beIN Sports  FHD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 3
-http://iptv365.xyz/0422722878/3AB8B6BB/8
+http://iptv365.xyz:80/0422722878/3AB8B6BB/8
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: beIN Sports  FHD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 4
-http://iptv365.xyz/0422722878/3AB8B6BB/9
+http://iptv365.xyz:80/0422722878/3AB8B6BB/9
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: beIN Sports  FHD 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 5
-http://iptv365.xyz/0422722878/3AB8B6BB/10
+http://iptv365.xyz:80/0422722878/3AB8B6BB/10
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: beIN Sports  FHD 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 6
-http://iptv365.xyz/0422722878/3AB8B6BB/11
+http://iptv365.xyz:80/0422722878/3AB8B6BB/11
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: beIN Sports  FHD 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 7
-http://iptv365.xyz/0422722878/3AB8B6BB/12
+http://iptv365.xyz:80/0422722878/3AB8B6BB/12
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports Premium 1
-http://iptv365.xyz/0422722878/3AB8B6BB/20
+http://iptv365.xyz:80/0422722878/3AB8B6BB/20
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Premium 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports Premium 2
-http://iptv365.xyz/0422722878/3AB8B6BB/21
+http://iptv365.xyz:80/0422722878/3AB8B6BB/21
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Premium 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports Premium 3
-http://iptv365.xyz/0422722878/3AB8B6BB/22
+http://iptv365.xyz:80/0422722878/3AB8B6BB/22
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports French 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports French 1
-http://iptv365.xyz/0422722878/3AB8B6BB/78
+http://iptv365.xyz:80/0422722878/3AB8B6BB/78
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports French 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports French 2
-http://iptv365.xyz/0422722878/3AB8B6BB/79
+http://iptv365.xyz:80/0422722878/3AB8B6BB/79
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports French 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports French 3
-http://iptv365.xyz/0422722878/3AB8B6BB/80
+http://iptv365.xyz:80/0422722878/3AB8B6BB/80
 
 
 
 
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",TR: BEIN SPORTS 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/191528
+http://iptv365.xyz:80/0422722878/3AB8B6BB/191528
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",TR: BEIN SPORTS 2 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/191532
+http://iptv365.xyz:80/0422722878/3AB8B6BB/191532
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",TR: BEIN SPORTS 3 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/191534
+http://iptv365.xyz:80/0422722878/3AB8B6BB/191534
 #EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",TR: BEIN SPORTS 4 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/191536
+http://iptv365.xyz:80/0422722878/3AB8B6BB/191536
 #EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",TR: BEIN SPORTS MAX 1 HD
-http://iptv365.xyz/0422722878/3AB8B6BB/191539
+http://iptv365.xyz:80/0422722878/3AB8B6BB/191539
 
 
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: beIN Sports  FHD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 1
-http://iptv365.xyz/0422722878/3AB8B6BB/34
+http://iptv365.xyz:80/0422722878/3AB8B6BB/34
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: beIN Sports  FHD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 2
-http://iptv365.xyz/0422722878/3AB8B6BB/35
+http://iptv365.xyz:80/0422722878/3AB8B6BB/35
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: beIN Sports  FHD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 3
-http://iptv365.xyz/0422722878/3AB8B6BB/36
+http://iptv365.xyz:80/0422722878/3AB8B6BB/36
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: beIN Sports  FHD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 4
-http://iptv365.xyz/0422722878/3AB8B6BB/37
+http://iptv365.xyz:80/0422722878/3AB8B6BB/37
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: beIN Sports  FHD 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 5
-http://iptv365.xyz/0422722878/3AB8B6BB/38
+http://iptv365.xyz:80/0422722878/3AB8B6BB/38
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: beIN Sports  FHD 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 6
-http://iptv365.xyz/0422722878/3AB8B6BB/39
+http://iptv365.xyz:80/0422722878/3AB8B6BB/39
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: beIN Sports  FHD 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 7
-http://iptv365.xyz/0422722878/3AB8B6BB/40
+http://iptv365.xyz:80/0422722878/3AB8B6BB/40
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports Premium 1
-http://iptv365.xyz/0422722878/3AB8B6BB/48
+http://iptv365.xyz:80/0422722878/3AB8B6BB/48
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Premium 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports Premium 2
-http://iptv365.xyz/0422722878/3AB8B6BB/49
+http://iptv365.xyz:80/0422722878/3AB8B6BB/49
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Premium 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports Premium 3
-http://iptv365.xyz/0422722878/3AB8B6BB/50
+http://iptv365.xyz:80/0422722878/3AB8B6BB/50
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports French 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports French 1
-http://iptv365.xyz/0422722878/3AB8B6BB/51
+http://iptv365.xyz:80/0422722878/3AB8B6BB/51
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports French 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports French 2
-http://iptv365.xyz/0422722878/3AB8B6BB/52
+http://iptv365.xyz:80/0422722878/3AB8B6BB/52
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports French 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports French 3
-http://iptv365.xyz/0422722878/3AB8B6BB/53
+http://iptv365.xyz:80/0422722878/3AB8B6BB/53
 
 
 
 
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: beIN Sports  FHD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 1
-http://iptv365.xyz/0422722878/3AB8B6BB/61
+http://iptv365.xyz:80/0422722878/3AB8B6BB/61
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: beIN Sports  FHD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 2
-http://iptv365.xyz/0422722878/3AB8B6BB/62
+http://iptv365.xyz:80/0422722878/3AB8B6BB/62
 #EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: beIN Sports  FHD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 3
-http://iptv365.xyz/0422722878/3AB8B6BB/63
+http://iptv365.xyz:80/0422722878/3AB8B6BB/63
 #EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: beIN Sports  FHD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 4
-http://iptv365.xyz/0422722878/3AB8B6BB/64
+http://iptv365.xyz:80/0422722878/3AB8B6BB/64
 #EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: beIN Sports  FHD 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 5
-http://iptv365.xyz/0422722878/3AB8B6BB/65
+http://iptv365.xyz:80/0422722878/3AB8B6BB/65
 #EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: beIN Sports  FHD 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 6
-http://iptv365.xyz/0422722878/3AB8B6BB/66
+http://iptv365.xyz:80/0422722878/3AB8B6BB/66
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: beIN Sports  FHD 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports  FHD 7
-http://iptv365.xyz/0422722878/3AB8B6BB/67
+http://iptv365.xyz:80/0422722878/3AB8B6BB/67
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports Premium 1
-http://iptv365.xyz/0422722878/3AB8B6BB/75
+http://iptv365.xyz:80/0422722878/3AB8B6BB/75
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Premium 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports Premium 2
-http://iptv365.xyz/0422722878/3AB8B6BB/76
+http://iptv365.xyz:80/0422722878/3AB8B6BB/76
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Premium 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",AR: beIN Sports Premium 3
-http://iptv365.xyz/0422722878/3AB8B6BB/77
+http://iptv365.xyz:80/0422722878/3AB8B6BB/77
 
 
 #EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: BEIN SPORTS MAX 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",TR: BEIN SPORTS MAX 1 SD
-http://iptv365.xyz/0422722878/3AB8B6BB/191540
+http://iptv365.xyz:80/0422722878/3AB8B6BB/191540
 #EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: BEIN SPORTS MAX 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/640px-Bein_sport_logo.png" group-title="BEIN SPORTS",TR: BEIN SPORTS MAX 2 SD
-http://iptv365.xyz/0422722878/3AB8B6BB/191542
+http://iptv365.xyz:80/0422722878/3AB8B6BB/191542
 
 
 
 #EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK: Sky Cinema Premiere FHD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMAPREMIER.png" group-title="UK-USA CINEMA",UK: Sky Cinema Premiere FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/153744
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153744
 #EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK: Sky Cinema Premiere SD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMAPREMIER.png" group-title="UK-USA CINEMA",UK: Sky Cinema Premiere SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153745
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153745
 #EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK: Sky Cinema Hits FHD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMAHITS.png" group-title="UK-USA CINEMA",UK: Sky Cinema Hits FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/153746
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153746
 #EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK: Sky Cinema Hits SD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMAHITS.png" group-title="UK-USA CINEMA",UK: Sky Cinema Hits SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153747
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153747
 #EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK: Sky Cinema Greats FHD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMAGREATS.png" group-title="UK-USA CINEMA",UK: Sky Cinema Greats FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/153749
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153749
 #EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK: Sky Cinema Greats SD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMAGREATS.png" group-title="UK-USA CINEMA",UK: Sky Cinema Greats SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153750
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153750
 #EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK: Sky Cinema Family FHD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMAFAMILY.png" group-title="UK-USA CINEMA",UK: Sky Cinema Family FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/153752
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153752
 #EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK: Sky Cinema Family SD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMAFAMILY.png" group-title="UK-USA CINEMA",UK: Sky Cinema Family SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153753
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153753
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: Sky Cinema Action FHD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMAACTION.png" group-title="UK-USA CINEMA",UK: Sky Cinema Action FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/153754
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153754
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: Sky Cinema Action SD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMAACTION.png" group-title="UK-USA CINEMA",UK: Sky Cinema Action SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153755
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153755
 #EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK: Sky Cinema Comedy FHD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMACOMEDY.png" group-title="UK-USA CINEMA",UK: Sky Cinema Comedy FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/153756
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153756
 #EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK: Sky Cinema Comedy SD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMATHRILLER.png" group-title="UK-USA CINEMA",UK: Sky Cinema Comedy SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153757
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153757
 #EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK: Sky Cinema Drama FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sky_Cinema_Drama_-_Logo_2019.svg/2560px-Sky_Cinema_Drama_-_Logo_2019.svg.png" group-title="UK-USA CINEMA",UK: Sky Cinema Drama FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/153760
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153760
 #EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK: Sky Cinema Drama SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sky_Cinema_Drama_-_Logo_2019.svg/2560px-Sky_Cinema_Drama_-_Logo_2019.svg.png" group-title="UK-USA CINEMA",UK: Sky Cinema Drama SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153761
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153761
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Sci-fi FHD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMASCI-FI.png" group-title="UK-USA CINEMA",UK: Sky Cinema Sci-fi FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/153762
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153762
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Sci-fi SD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMASCI-FI.png" group-title="UK-USA CINEMA",UK: Sky Cinema Sci-fi SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153763
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153763
 #EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK: Sky Cinema Select SD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMASELECT.png" group-title="UK-USA CINEMA",UK: Sky Cinema Select SD
-http://iptv365.xyz/0422722878/3AB8B6BB/153765
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153765
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Crime & Thriller FHD" tvg-logo="http://logo.megaott.net/UK/SKYCINEMATHRILLER.png" group-title="UK-USA CINEMA",UK: Sky Cinema Crime & Thriller FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/153758
+http://iptv365.xyz:80/0422722878/3AB8B6BB/153758
 
 
 #EXTINF:-1 tvg-id="hbofamily.us" tvg-name="|USA| HBO FAMILY HD" tvg-logo="http://logo.megaott.net/USA/HBOFAMILYFHD.png" group-title="UK-USA CINEMA",USA-HBO FAMILY HD
-http://iptv365.xyz/0422722878/3AB8B6BB/13635
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13635
 #EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="|USA| HBO COMEDY HD" tvg-logo="http://logo.megaott.net/USA/HBOCOMEDY.png" group-title="UK-USA CINEMA",USA-HBO COMEDY HD
-http://iptv365.xyz/0422722878/3AB8B6BB/13634
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13634
 #EXTINF:-1 tvg-id="" tvg-name="|USA| HBO ZONE HD" tvg-logo="http://logo.megaott.net/USA/HBOZONE.png" group-title="UK-USA CINEMA",USA-HBO ZONE HD
-http://iptv365.xyz/0422722878/3AB8B6BB/13637
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13637
 #EXTINF:-1 tvg-id="" tvg-name="|USA| STARZ ENCORE WESTERNS" tvg-logo="http://logo.megaott.net/USA/STARZENCOREWESTERNS.png" group-title="UK-USA CINEMA",USA-STARZ ENCORE WESTERNS
-http://iptv365.xyz/0422722878/3AB8B6BB/13628
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13628
 #EXTINF:-1 tvg-id="starzedge.us" tvg-name="US STARZ EDGE" tvg-logo="http://logo.megaott.net/USA/STARZEDGE.png" group-title="UK-USA CINEMA",US STARZ EDGE
-http://iptv365.xyz/0422722878/3AB8B6BB/13626
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13626
 #EXTINF:-1 tvg-id="" tvg-name="|USA| STARZ COMEDY" tvg-logo="http://logo.megaott.net/USA/STARZCOMEDY.png" group-title="UK-USA CINEMA",USA-STARZ COMEDY
-http://iptv365.xyz/0422722878/3AB8B6BB/13625
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13625
 #EXTINF:-1 tvg-id="" tvg-name="US: Starz Cinema FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Starz_Cinema_2016.svg/640px-Starz_Cinema_2016.svg.png" group-title="UK-USA CINEMA",USA-Starz Cinema FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/170173
+http://iptv365.xyz:80/0422722878/3AB8B6BB/170173
 #EXTINF:-1 tvg-id="cinemax.us" tvg-name="|USA| CINEMAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="UK-USA CINEMA",USA-CINEMAX 5
-http://iptv365.xyz/0422722878/3AB8B6BB/13618
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13618
 #EXTINF:-1 tvg-id="" tvg-name="US: Cinemax Thriller Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="UK-USA CINEMA",USA-Cinemax Thriller Max HD
-http://iptv365.xyz/0422722878/3AB8B6BB/170629
+http://iptv365.xyz:80/0422722878/3AB8B6BB/170629
 #EXTINF:-1 tvg-id="" tvg-name="US: Cinemax Outer Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="UK-USA CINEMA",USA-Cinemax Outer Max
-http://iptv365.xyz/0422722878/3AB8B6BB/170172
+http://iptv365.xyz:80/0422722878/3AB8B6BB/170172
 #EXTINF:-1 tvg-id="" tvg-name="US: Cinemax Moviemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="UK-USA CINEMA",USA-Cinemax Moviemax
-http://iptv365.xyz/0422722878/3AB8B6BB/170171
+http://iptv365.xyz:80/0422722878/3AB8B6BB/170171
 #EXTINF:-1 tvg-id="usanetwork.us" tvg-name="|USA| USA NETWORK" tvg-logo="http://logo.megaott.net/USA/USANETWORK.png" group-title="UK-USA CINEMA",USA-USA NETWORK
-http://iptv365.xyz/0422722878/3AB8B6BB/13612
+http://iptv365.xyz:80/0422722878/3AB8B6BB/13612
 
 
 
 
 #EXTINF:-1 tvg-id="BangBang.al" tvg-name="Bang Bang HD" tvg-logo="http://www.albepg.com/tvlogi/Bang%20Bang.png" group-title="FEMIJE",Bang Bang 
-http://iptv365.xyz/0422722878/3AB8B6BB/183965
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183965
 #EXTINF:-1 tvg-id="Cufo.al" tvg-name="Cufo" tvg-logo="http://www.albepg.com/tvlogi/Cufo%20TV.png"  group-title="FEMIJE",Cufo
-http://iptv365.xyz/0422722878/3AB8B6BB/183973
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183973
 #EXTINF:-1 tvg-id="Tring Tring" tvg-name="Tring Tring HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Tring.png"  group-title="FEMIJE",Tring Tring
-http://iptv365.xyz/0422722878/3AB8B6BB/118116
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118116
 #EXTINF:-1 tvg-id="Tring Kids" tvg-name="Tring Kids" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png"  group-title="FEMIJE",Tring Kids
-http://iptv365.xyz/0422722878/3AB8B6BB/118102
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118102
+#EXTINF:-1 tvg-id="RTSH Femije" tvg-name="RTSH Femije" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Femije.png" group-title="FEMIJE",RTSH Femije
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400148401
 #EXTINF:-1 tvg-id="" tvg-name="AL BABY TV HD" tvg-logo="http://www.albepg.com/tvlogi/Baby%20TV.png" group-title="FEMIJE",BABY TV 
-http://iptv365.xyz/0422722878/3AB8B6BB/183957
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183957
 #EXTINF:-1 tvg-id="JuniorTV.al" tvg-name="Junior" tvg-logo="http://www.albepg.com/tvlogi/Junior.png" group-title="FEMIJE",Junior
-http://iptv365.xyz/0422722878/3AB8B6BB/212445
+http://iptv365.xyz:80/0422722878/3AB8B6BB/212445
 #EXTINF:-1 tvg-id="" tvg-name="AL| Sofia FHD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FEMIJE",Sofia FHD
-http://iptv365.xyz/0422722878/3AB8B6BB/118037
-#EXTINF:-1 tvg-id="" tvg-name="AL| EB Tom and Jerry HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FEMIJE",Tom and Jerry HD
-http://iptv365.xyz/0422722878/3AB8B6BB/400149111
+http://iptv365.xyz:80/0422722878/3AB8B6BB/118037
 #EXTINF:-1 tvg-id="" tvg-name="AL| Nick Junior" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FEMIJE",Nick Junior
-http://iptv365.xyz/0422722878/3AB8B6BB/117930
+http://iptv365.xyz:80/0422722878/3AB8B6BB/117930
+
+#EXTINF:-1 tvg-id="" tvg-name="AL| DISNEY JUNIOR HD" ttvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FEMIJE",DISNEY JUNIOR HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/183953
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILMA VIZATIMOR HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FEMIJE",FILMA VIZATIMOR HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261781
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILMA VIZATIMOR 2 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FEMIJE",FILMA VIZATIMOR 2 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261780
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILMA VIZATIMOR 4 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FEMIJE",FILMA VIZATIMOR 4 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261779
+#EXTINF:-1 tvg-id="" tvg-name="AL| FILMA VIZATIMOR 5 HD" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="FEMIJE",FILMA VIZATIMOR 5 HD
+http://iptv365.xyz:80/0422722878/3AB8B6BB/400261778
