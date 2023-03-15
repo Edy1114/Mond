@@ -37,7 +37,7 @@ http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="MCN TV" tvg-logo="https://www.mcn.al/sites/default/files/mcn_logo_web.png"  group-title="Shqiptare",MCN TV
 http://79.106.90.124:5151/live/mcnpp1/playlist.m3u8
 #EXTINF:-1 tvg-id="Klan News" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klan-news-al.png"  group-title="Shqiptare",Klan News
-http://88.214.16.14:9000/klannews
+http://79.106.90.124:5151/live/klannewsott/playlist.m3u8
 #EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
 http://79.106.90.124:5151/live/syritvott/playlist.m3u8
 
@@ -47,8 +47,6 @@ http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/26561
 http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/1143
 #EXTINF:-1 tvg-id="My Music" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
 http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/2107
-#EXTINF:-1 tvg-id="Klan Music" tvg-name="Klan Music AL" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Music.png"  group-title="Shqiptare",Klan Music
-http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/36014
 #EXTINF:-1 tvg-ID="" tvg-name="Folk" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", Folk 
 http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/2131
 #EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Supersonic" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", Supersonic
@@ -76,13 +74,6 @@ http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/29890
 http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/29889
 #EXTINF:-1 tvg-id="RTSH Gjirokastra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Gjirokastra
 http://livego.club:8080/c5JQyZH4BUAX/mRHsrc9uyrMU/29888
-
-#EXTINF:-1 tvg-id="RTSH Kukësi" tvg-name="Rtsh Kukësi" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Kukësi
-http://185.89.156.111:8000/play/a02f
-#EXTINF:-1 tvg-id="RTSH Shkodra" tvg-name="Rtsh Shkodra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Shkodra
-http://185.89.156.111:8000/play/a02g
-#EXTINF:-1 tvg-id="RTSH Plus" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Plus.png" group-title="Shqiptare",RTSH Plus
-http://185.89.156.111:8000/play/a028
 
 
 
