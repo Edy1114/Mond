@@ -73,13 +73,6 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29889
 #EXTINF:-1 tvg-id="RTSH Gjirokastra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Gjirokastra
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29888
 
-#EXTINF:-1 tvg-id="RTSH Kukësi" tvg-name="Rtsh Kukësi" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Kukësi
-http://185.89.156.111:8000/play/a02f
-#EXTINF:-1 tvg-id="RTSH Shkodra" tvg-name="Rtsh Shkodra" tvg-logo="http://www.albepg.com/tvlogi/RTSH.png" group-title="Shqiptare",RTSH Shkodra
-http://185.89.156.111:8000/play/a02g
-#EXTINF:-1 tvg-id="RTSH Plus" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Plus.png" group-title="Shqiptare",RTSH Plus
-http://185.89.156.111:8000/play/a028
-
 
 
 #EXTINF:-1 tvg-id="Film Aksion" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png"  group-title="Filma",Film Aksion
