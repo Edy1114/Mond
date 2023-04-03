@@ -619,18 +619,18 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/10759
 #EXTINF:-1 tvg-ID="natgeowild.us" tvg-name="VIP US: Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",US: Nat Geo Wild HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/22874
 
-#EXTINF:-1 tvg-id="Fox+1.it" tvg-name="Fox HD +1" tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="Dokumentare",FOX +1 HD
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/83829
-#EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png" group-title="Dokumentare",History
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1001
+
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX FHD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="Dokumentare",DMAX FHD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80502
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="Dokumentare",MotorTrend FHD
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80525
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/800px-Nove_-_Logo_2017.svg.png" group-title="Dokumentare",NOVE  FHD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/18685
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="Dokumentare",MotorTrend
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/35235
+#EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png" group-title="Dokumentare",History
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1001
+#EXTINF:-1 tvg-id="Fox+1.it" tvg-name="Fox HD +1" tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="Dokumentare",FOX +1 HD
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/83829
+
 
 
 
