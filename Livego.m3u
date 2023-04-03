@@ -500,17 +500,16 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/35019
 #EXTINF:-1 tvg-ID="NULL" tvg-name="Eagle Cinema Animazione" tvg-logo="https://www.eaglefilmsme.com/public/images/eagle-films-logo.png" group-title="Italiane",Eagle Cinema Animazione
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/35028
 
-
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/320px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="Italiane",Sky Atlantic
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80473
 #EXTINF:-1 tvg-id="Sky Uno" tvg-name="Sky Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sky_Uno_-_Logo_2018.svg/1000px-Sky_Uno_-_Logo_2018.svg.png" group-title="Italiane",Sky Uno
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/5678
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80508
 #EXTINF:-1 tvg-id="Sky Cinema Uno" tvg-name="Sky Cinema Uno HD" tvg-logo="https://lo1.in/ITALY/SKYCINEMAUNO1.png" group-title="Italiane",Sky Cinema Uno
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80568
 #EXTINF:-1 tvg-id="Sky Cinema Uno +24 HD" tvg-name="Sky Cinema Uno 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Cinema_Uno_%2B24_-_Logo_2019.svg/1000px-Sky_Cinema_Uno_%2B24_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Uno +24 HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80551
 #EXTINF:-1 tvg-id="Sky Cinema Due HD" tvg-name="SKY CINEMA Due HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sky_Cinema_Due_-_Logo_2019.svg/1000px-Sky_Cinema_Due_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Due
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80539
-
-
 #EXTINF:-1 tvg-id="Sky Cinema Action" tvg-name="SKY CINEMA Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sky_Cinema_Action_-_Logo_2019.svg/500px-Sky_Cinema_Action_-_Logo_2019.svg.png" group-title="Italiane",Sky Cinema Action
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80507
 #EXTINF:-1 tvg-id="SKY Cinema Collection" tvg-name="SKY Cinema COLLECTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sky_Cinema_Collection_-_Logo_2019.svg/500px-Sky_Cinema_Collection_-_Logo_2019.svg.png"  group-title="Italiane",SKY Cinema Collection
@@ -578,9 +577,8 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29817
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://www.albepg.com/tvlogi/Animal%20Planet.png"  group-title="Dokumentare",Animal Planet
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29793
 
-
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="Dokumentare",MotorTrend
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/35235
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="Dokumentare",MotorTrend 
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80525
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Real_Time_logo.svg/500px-Real_Time_logo.svg.png" group-title="Dokumentare",Real Time 
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80504
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX FHD" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="Dokumentare",DMAX 
@@ -593,10 +591,8 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80505
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80449
 #EXTINF:-1 tvg-id="Focus" tvg-name="Focus Mediaset" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Focus_Mondadori_logo.png" group-title="Dokumentare",Focus Mediaset
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80450
-#EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png" group-title="Dokumentare",History HD
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1001
-#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/640px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Dokumentare",DISCOVERY HD
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80511
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/640px-HGTV_logo.svg.png" group-title="Dokumentare",Discovery-Italia HGTV
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80512
 #EXTINF:-1 tvg-id="NationalGeographic.it" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/800px-National_Geographic_Channel.svg.png"  group-title="Dokumentare",National Geographic 
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80482
 #EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/640px-Discovery_Science_2017_Logo.svg.png" group-title="Dokumentare",Discovery Science
@@ -607,8 +603,7 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/83825
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80562
 #EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX FULL HD" tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="Dokumentare",FOX HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80478
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="Dokumentare",MotorTrend HD
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80525
+
 
 #EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="UK: Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",UK: Discovery
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1638
@@ -638,6 +633,10 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80502
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80525
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/800px-Nove_-_Logo_2017.svg.png" group-title="Dokumentare",NOVE  FHD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/18685
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="Dokumentare",MotorTrend
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/35235
+
+
 
 #EXTINF:-1 tvg-id="Tring Sport News" tvg-name="Tring Sport News" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="Sport ALB-ITA" ,Tring Sport News
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/212
@@ -721,10 +720,9 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80232
 #EXTINF:-1 tvg-id="SuperSport 6" tvg-name="SuperSport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6 HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80233
 
-
-
 #EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Fight Box" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Sport ALB-ITA",Fight Box
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29821
+
 
 #EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/400px-DAZN_Logo_Master.svg.png" group-title="Sport ALB-ITA",DAZN
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80543
@@ -737,29 +735,29 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/26104
 
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="SKY SPORT" tvg-logo="http://logo.megaott.net/ITALY/SKYSPORT24FHD.png" group-title="Sport ALB-ITA",Sky Sport 24
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80488
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Uno
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80519
-#EXTINF:-1 tvg-id="Sky Calcio 1" tvg-name="SKY Calcio 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/800px-Sky_Calcio_-_Logo_2015.svg.png" group-title="Sport ALB-ITA",Sky Sport Calcio
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/5677
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Football
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80520
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Uno
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80519
 #EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="SKY SPORT SERIE A HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sky_Sport_Serie_A_HD_-_Logo_2018.svg/1280px-Sky_Sport_Serie_A_HD_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Serie A
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80489
+#EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="SKY SPORT SERIE A HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sky_Sport_Serie_A_HD_-_Logo_2018.svg/1280px-Sky_Sport_Serie_A_HD_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Serie A+1
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/138460
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Football
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/5672
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Uno
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80519
 #EXTINF:-1 tvg-ID="" tvg-name="SkySp Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport Arena
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80490
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Football
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80520
+#EXTINF:-1 tvg-id="Sky Calcio 1" tvg-name="SKY Calcio 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky_Calcio_-_Logo_2015.svg/800px-Sky_Calcio_-_Logo_2015.svg.png" group-title="Sport ALB-ITA",Sky Sport Calcio
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/83802
+#EXTINF:-1 tvg-id="SkySportCollection.it" tvg-name="SKY SPORT COLLECTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Collection 
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80556
 
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport Football
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/5672
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 HD" tvg-logo="http://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" group-title="Sport ALB-ITA",Sky Sport F1
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80521
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1200px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport MOTO GP HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80532
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1200px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport MOTO GP
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/5676
 #EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sky_Sport_NBA_-_Logo_2018.svg/1280px-Sky_Sport_NBA_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport NBA
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/5673
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80518
 #EXTINF:-1 tvg-id="eurosport.it" tvg-name="EUROSPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png" group-title="Sport ALB-ITA",Euro Sport 1 
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80491
 #EXTINF:-1 tvg-id="eurosport2.it" tvg-name="EUROSPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png" group-title="Sport ALB-ITA",Euro Sport 2 
