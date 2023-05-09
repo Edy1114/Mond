@@ -780,7 +780,7 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/253
 #EXTINF:-1 tvg-ID="" tvg-name="SkySp Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Arena HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/12662
 
-#EXTINF:-1 tvg-ID="" tvg-name="BT Sport Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports Ultimate
+#EXTINF:-1 tvg-ID="" tvg-name="BT Sport Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports Ultimate 4K
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/124500
 #EXTINF:-1 tvg-ID="" tvg-name="BT Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/640px-BT_Sport_logo_2019.svg.png" group-title="UK Sports",BT Sports 1
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1641
@@ -1049,7 +1049,8 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/23139
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/23138
 
 
-
+#EXTINF:-1 tvg-ID="RMCSport4K" tvg-name="RMC Sport 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/500px-Logo_RMC_Sport_2018.svg.png" group-title="France Sports",FR: RMC SPORT 4K
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29093
 #EXTINF:-1 tvg-ID="RMCSport1" tvg-name="RMC Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/500px-Logo_RMC_Sport_2018.svg.png" group-title="France Sports",FR: RMC SPORT 1 HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/7285
 #EXTINF:-1 tvg-ID="RMCSport2" tvg-name="RMC Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/500px-Logo_RMC_Sport_2018.svg.png" group-title="France Sports",FR: RMC SPORT 2 HD
