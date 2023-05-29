@@ -435,6 +435,8 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80512
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/83825
 #EXTINF:-1 tvg-id="DiscoveryFood.it" tvg-name="Discovery Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png"  group-title="Dokumentare",Discovery Food Network
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80562
+#EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png" group-title="Dokumentare",History
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80481
 #EXTINF:-1 tvg-id="NationalGeographic.it" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/800px-National_Geographic_Channel.svg.png"  group-title="Dokumentare",National Geographic 
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80482
 
@@ -464,8 +466,6 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80502
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/18685
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png" group-title="Dokumentare",MotorTrend
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/35235
-#EXTINF:-1 tvg-id="History.it" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png" group-title="Dokumentare",History
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1001
 #EXTINF:-1 tvg-id="Fox+1.it" tvg-name="Fox HD +1" tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="Dokumentare",FOX +1 HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/83829
 
