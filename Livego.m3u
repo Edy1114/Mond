@@ -16,8 +16,6 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2106
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/26566
 #EXTINF:-1 tvg-id="Klan Kosova" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png"  group-title="Shqiptare",Klan Kosova
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1078
-#EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus HD
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1051
 
 #EXTINF:-1 tvg-id="RTV ORA" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare", RTV ORA 
 http://live1.mediadesk.al/oratv.php
@@ -25,6 +23,8 @@ http://live1.mediadesk.al/oratv.php
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="News 24" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus HD
+https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 
 #EXTINF:-1 tvg-id="MCN TV" tvg-logo="https://www.mcn.al/sites/default/files/mcn_logo_web.png"  group-title="Shqiptare",MCN TV
 http://79.106.90.124:5151/live/mcnpp1/playlist.m3u8
