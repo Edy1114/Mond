@@ -35,7 +35,7 @@ http://79.106.90.124:5151/live/syritvott/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Top News" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/26561
-#EXTINF:-1 tvg-id="KanalD Drama" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png"  group-title="Shqiptare",KanalD Drama
+#EXTINF:-1 tvg-id="Kanal D" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png"  group-title="Shqiptare",KanalD Drama
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1143
 #EXTINF:-1 tvg-name="My Music" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2107
@@ -71,27 +71,27 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29888
 
 #EXTINF:-1 tvg-id="Film Aksion Digitalb" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png"  group-title="Filma",Film Aksion
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/242
-#EXTINF:-1 tvg-id="Film Komedi" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png"  group-title="Filma",Film Komedi
+#EXTINF:-1 tvg-id="Film Komedi Digitalb" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png"  group-title="Filma",Film Komedi
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/237
 #EXTINF:-1 tvg-id="Film Autor" tvg-name="Film Autor" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png"  group-title="Filma",Film Autor
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/241
-#EXTINF:-1 tvg-id="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Filma",Film Hits  
+#EXTINF:-1 tvg-id="Film Hits Digitalb" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Filma",Film Hits  
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/238
-#EXTINF:-1 tvg-id="Film Hits" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Filma",Film Hits HD
+#EXTINF:-1 tvg-id="Film Hits Digitalb" tvg-name="Film Hits" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png"  group-title="Filma",Film Hits HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2158
-#EXTINF:-1 tvg-id="Film Thriller" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png"  group-title="Filma",Film Thriller
+#EXTINF:-1 tvg-id="Film Thriller Digitalb" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png"  group-title="Filma",Film Thriller
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/234
-#EXTINF:-1 tvg-id="Film Dramë" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png"  group-title="Filma",Film Drame 
+#EXTINF:-1 tvg-id="Film Drame Digitralb" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png"  group-title="Filma",Film Drame 
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/240
 #EXTINF:-1 tvg-id="Digi Gold" tvg-name="Film Nje" tvg-logo="http://www.albepg.com/tvlogi/Digi%20Gold.png"  group-title="Filma",Digi Gold
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/236
 #EXTINF:-1 tvg-id="Max HD" tvg-name="Film Dy" tvg-logo="http://www.albepg.com/tvlogi/Max%20HD.png"  group-title="Filma",Max HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/239
-#EXTINF:-1 tvg-id="Film Family" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="Filma",Film Family
+#EXTINF:-1 tvg-id="DigitAlb Family" tvg-logo="http://www.albepg.com/tvlogi/Family%20HD.png"  group-title="Filma",Film Family
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29818
-#EXTINF:-1 tvg-id="T HD" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png"  group-title="Filma",T HD
+#EXTINF:-1 tvg-id="DigitAlb T HD" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png"  group-title="Filma",T HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1074
-#EXTINF:-1 tvg-id="Euro Film" tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png"  group-title="Filma",Euro Film
+#EXTINF:-1 tvg-id="DigitAlb EuroFilm" tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png"  group-title="Filma",Euro Film
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/20978
 
 
