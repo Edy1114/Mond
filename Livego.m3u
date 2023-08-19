@@ -120,7 +120,10 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1052
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2117
 #EXTINF:-1 tvg-id="Tip TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Tip_TV_alb.png" group-title="Filma",Tip TV
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29847
-
+#EXTINF:-1 tvg-id="Tring Original" tvg-name="Tring Original" tvg-logo="https://www.tring.al/download/brandi/TringLogoRGBreverse-l.png"  group-title="Filma",Tring Original
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29832
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tring.al/download/brandi/TringLogoRGBreverse-l.png"  group-title="Filma",Tring Novelas
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/3576
 
 #EXTINF:-1 tvg-id="ArtKino 1" tvg-name="ART Kino 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Kino%201.png" group-title="Filma",ART Kino 1 
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29836
@@ -2444,5 +2447,4 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2847
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2855
 #EXTINF:-1 tvg-ID="zeetv.uk" tvg-name="UK: Zee TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Zee TV
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2837
-#EXTINF:-1 tvg-ID="zing.uk" tvg-name="UK: Zing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Zing
-http://livego.club:8080/h7h8U4jxPy0h/qrprZ1ubMuG/2854
+
