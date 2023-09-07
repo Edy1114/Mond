@@ -97,7 +97,10 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/20978
 
 
 
-
+#EXTINF:-1 tvg-id="Tring Collection" tvg-name="Tring Collection" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Classic.png"  group-title="Filma",Tring Collection 
+http://eu.bestvideostreaming.is/8813/mpegts
+#EXTINF:-1 tvg-id="Tring Classic" tvg-name="Tring Classic" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Classic.png"  group-title="Filma",Tring Classic 
+http://185.183.35.119:8080/trNGClAssICfjsjf/index.m3u8
 #EXTINF:-1 tvg-id="Tring Super" tvg-name="Tring Super" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png"  group-title="Filma",Tring Super
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/211
 #EXTINF:-1 tvg-id="Tring Action" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png"  group-title="Filma",Tring Action
