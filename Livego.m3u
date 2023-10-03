@@ -14,6 +14,8 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29855
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2106
 #EXTINF:-1 tvg-id="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png"  group-title="Shqiptare",Fax News
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/26566
+#EXTINF:-1 tvg-id="MCN TV" tvg-logo="http://www.mcntv.al/images/logo8.png"  group-title="Shqiptare",MCN TV
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29797
 #EXTINF:-1 tvg-id="Klan Kosova" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png"  group-title="Shqiptare",Klan Kosova
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1078
 
@@ -26,8 +28,6 @@ https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 
 #EXTINF:-1 tvg-id="RTV ORA" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare", RTV ORA 
 http://178.33.34.186:5151/live/rtvoraott/playlist.m3u8
-#EXTINF:-1 tvg-id="MCN TV" tvg-logo="http://www.mcntv.al/images/logo8.png"  group-title="Shqiptare",MCN TV
-http://178.33.34.186:5151/live/mcnpp1/playlist.m3u8
 #EXTINF:-1 tvg-id="Klan News" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klan-news-al.png"  group-title="Shqiptare",Klan News
 http://178.33.34.186:5151/live/klannewsott/playlist.m3u8
 #EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
