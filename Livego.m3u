@@ -19,9 +19,9 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29797
 #EXTINF:-1 tvg-id="Klan Kosova" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png"  group-title="Shqiptare",Klan Kosova
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1078
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/e/eb/Albania_Logo.jpg" group-title="Shqiptare",Big Brother VIP Kosova 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/e/eb/Albania_Logo.jpg" group-title="Shqiptare",Big Brother VIP Kosova 1
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/126112
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/e/eb/Albania_Logo.jpg" group-title="Shqiptare",Big Brother VIP Kosova 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/e/eb/Albania_Logo.jpg" group-title="Shqiptare",Big Brother VIP Kosova 2
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/126113
 
 #EXTINF:-1 tvg-id="Report TV" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png"  group-title="Shqiptare",Report TV
