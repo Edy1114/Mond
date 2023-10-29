@@ -69,6 +69,9 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/7924
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29891
 #EXTINF:-1 tvg-id="RTSH Sport" tvg-name="RTSH Sport" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png" group-title="Shqiptare",Rtsh Sport
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2102
+#EXTINF:-1 tvg-id="RTSH Sport" tvg-name="RTSH Sport" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png" group-title="Shqiptare",Rtsh Sport HD
+http://79.106.48.2:5151/live/rtshsport/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTSH 24" tvg-name="Rtsh 24" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png" group-title="Shqiptare",RTSH 24
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29890
 #EXTINF:-1 tvg-id="RTSH Korca" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqiptare",RTSH Korca
