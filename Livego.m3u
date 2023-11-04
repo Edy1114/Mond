@@ -531,16 +531,6 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2154
 #EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="Tring Sport 4" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 4 HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2153
 
-
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 1 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 1 HD
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/98714
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 2 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 2 HD
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/98715
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 3 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 3 HD
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/98716
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 4 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 4 HD
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/98717
-
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 AL" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/224
 #EXTINF:-1 tvg-id="SuperSport 2 AL" tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2
@@ -554,12 +544,15 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/19809
 #EXTINF:-1 tvg-id="SuperSport 6 AL" tvg-name="SuperSport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/19810
 
-#EXTINF:-1 tvg-id="SuperSport 1 AL" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News FHD
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/226
-#EXTINF:-1 tvg-id="SuperSport 2 AL" tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2 FHD
-http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/225
 
-
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 1 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 1 HD
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/98714
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 2 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 2 HD
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/98715
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 3 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 3 HD
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/98716
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 4 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 4 HD
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/98717
 
 
 #EXTINF:-1 tvg-id="Art Sport 1" tvg-name="Art Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%201.png"  group-title="Sport ALB-ITA",Art Sport 1
@@ -599,6 +592,11 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80230
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80232
 #EXTINF:-1 tvg-id="SuperSport 6 AL" tvg-name="SuperSport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6 HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80233
+
+#EXTINF:-1 tvg-id="SuperSport 1 AL" tvg-name="SuperSport News" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News FHD
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/226
+#EXTINF:-1 tvg-id="SuperSport 2 AL" tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2 FHD
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/225
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Fight Box" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Sport ALB-ITA",Fight Box
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/29821
