@@ -397,6 +397,7 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/83810
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80509
 #EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/320px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="Italiane",Sky Atlantic
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80473
+
 #EXTINF:-1 tvg-id="Sky Uno" tvg-name="Sky Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sky_Uno_-_Logo_2018.svg/1000px-Sky_Uno_-_Logo_2018.svg.png" group-title="Italiane",Sky Uno
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80508
 #EXTINF:-1 tvg-id="Sky Cinema Uno" tvg-name="Sky Cinema Uno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/320px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="Italiane",Sky Cinema Uno
@@ -419,6 +420,14 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80475
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80468
 #EXTINF:-1 tvg-ID="Sky Serie" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sky_Serie.svg/320px-Sky_Serie.svg.png" group-title="Italiane",Sky Serie 
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/83814
+
+#EXTINF:-1 tvg-id="Sky Investigation" tvg-name="Sky Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sky_Investigation.svg/320px-Sky_Investigation.svg.png" group-title="Italiane",Sky Investigation 
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/83812
+#EXTINF:-1 tvg-id="Sky Nature" tvg-name="Sky Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sky_Nature_Logo_2020.png" group-title="Italiane",Sky Nature
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/83813
+#EXTINF:-1 tvg-id="Sky Series" tvg-name="Sky Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sky_Serie.svg/512px-Sky_Serie.svg.png" group-title="Italiane",Sky Series
+http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/83814
+
 
 #EXTINF:-1 tvg-id="Primafila1.it" tvg-name="Prima Fila 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png" group-title="Italiane",SKY Primafila 1 HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/34992
