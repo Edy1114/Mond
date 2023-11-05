@@ -38,7 +38,9 @@ http://178.33.34.186:5151/live/rtvoraott/playlist.m3u8
 #EXTINF:-1 tvg-id="Klan News" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klan-news-al.png"  group-title="Shqiptare",Klan News
 http://178.33.34.186:5151/live/klannewsott/playlist.m3u8
 #EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
-http://185.183.35.119:8080/SyRItVsfhao/index.m3u8
+http://79.106.48.2:5151/live/syritvott/playlist.m3u8
+#EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV HD
+http://109.236.44.157:2121/syritv
 
 #EXTINF:-1 tvg-id="Top News" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/26561
