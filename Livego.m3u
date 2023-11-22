@@ -46,13 +46,13 @@ http://109.236.44.157:2121/syritv
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/26561
 #EXTINF:-1 tvg-id="Kanal D" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png"  group-title="Shqiptare",KanalD Drama
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1143
-#EXTINF:-1 tvg-name="My Music" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
+#EXTINF:-1 tvg-id="My Music" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2107
-#EXTINF:-1 tvg-ID="" tvg-name="Folk" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", Folk 
+#EXTINF:-1 tvg-ID="Folk" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", Folk 
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2131
-#EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Supersonic" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", Supersonic
+#EXTINF:-1 tvg-ID="Supersonic" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", Supersonic
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2118
-#EXTINF:-1 tvg-ID="" tvg-name="AL: BBF" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", BBF
+#EXTINF:-1 tvg-ID="BBF" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png" group-title="Shqiptare", BBF
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/2135
 
 
