@@ -507,7 +507,7 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80511
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",Discovery Science
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/80512
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/640px-HGTV_logo.svg.png" group-title="Dokumentare",Discovery HGTV
+#EXTINF:-1 tvg-ID="Discovery HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/640px-HGTV_logo.svg.png" group-title="Dokumentare",Discovery HGTV
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/74171
 #EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="UK: Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",UK: Discovery
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/1638
@@ -669,7 +669,7 @@ http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/150290
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="LaLigaTV HD" tvg-logo="https://www.rfc-seraing.be/wp-content/uploads/2018/08/laliga-h-1200x1200_2018.png" group-title="UK Sports",LA LIGA HD
+#EXTINF:-1 tvg-ID="LaLigaTV HD" tvg-logo="https://www.rfc-seraing.be/wp-content/uploads/2018/08/laliga-h-1200x1200_2018.png" group-title="UK Sports",LA LIGA HD
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/18771
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports News
 http://livego.club:8080/h7h8U4jxPy0h/qrrprZ1ubMuG/30338
