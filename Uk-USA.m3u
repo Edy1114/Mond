@@ -1,0 +1,873 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="5starmax.us" tvg-name="Cinemax 5 Star Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Cinemax 5 Star Max
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10700
+#EXTINF:-1 tvg-ID="actionmax.us" tvg-name="Cinemax ActionMax" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Cinemax ActionMax
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10720
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Cinemax Moremax" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Cinemax Moremax
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10693
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Cinemax Thrillermax" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Cinemax Thrillermax
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/30734
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Cinemax West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Cinemax West
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/30735
+
+#EXTINF:-1 tvg-ID="epix.us" tvg-name="Epix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Epix
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22908
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Epix Drive" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Epix Drive
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/30733
+#EXTINF:-1 tvg-ID="epixhits.us" tvg-name="Epix Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Epix Hits
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22907
+#EXTINF:-1 tvg-ID="escape.us" tvg-name="Escape" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Escape
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22906
+
+#EXTINF:-1 tvg-ID="hallmarkdrama.us" tvg-name="Hallmark Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Hallmark Drama
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22885
+#EXTINF:-1 tvg-ID="hallmark.us" tvg-name="HALLMARK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: HALLMARK HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10730
+#EXTINF:-1 tvg-ID="hallmarkmoviesmysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Hallmark Movies & Mysteries
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22884
+#EXTINF:-1 tvg-ID="hbocomedy.us" tvg-name="HBO COMEDY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: HBO COMEDY HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10731
+#EXTINF:-1 tvg-ID="hbofamily.us" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: HBO Family HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/878
+#EXTINF:-1 tvg-ID="hbomax.us" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: HBO Plus
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/875
+#EXTINF:-1 tvg-ID="hbo.us" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: HBO HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10732
+#EXTINF:-1 tvg-ID="hbosignature.us" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: HBO SIGNATURE
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10733
+#EXTINF:-1 tvg-ID="hbozone.us" tvg-name="HBO ZONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: HBO ZONE
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10734
+#EXTINF:-1 tvg-ID="hbomaxprime.us" tvg-name="HBO East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: HBO East HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5388
+
+
+#EXTINF:-1 tvg-ID="moviemax.us" tvg-name="Moviemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Moviemax HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/30736
+
+#EXTINF:-1 tvg-ID="starzencorewesterns.us" tvg-name="Starz Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Starz Cinema
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10741
+#EXTINF:-1 tvg-ID="starzencorefamily.us" tvg-name="Starz Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Starz Comedy
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10742
+#EXTINF:-1 tvg-ID="starzencoresuspense.us" tvg-name="Starz East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Starz East
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10743
+#EXTINF:-1 tvg-ID="starzedge.us" tvg-name="Starz Edge HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Starz Edge HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10744
+#EXTINF:-1 tvg-ID="starzencore.us" tvg-name="Starz Encore East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Starz Encore East
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10725
+#EXTINF:-1 tvg-ID="starzencore.us" tvg-name="Starz Encore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Starz Encore HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10724
+#EXTINF:-1 tvg-ID="starzwest.us" tvg-name="Starz West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Starz West
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10746
+#EXTINF:-1 tvg-ID="starzcinema.us" tvg-name="Starz Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Starz Cinema HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/874
+
+#EXTINF:-1 tvg-ID="cinemascreeningroom.us" tvg-name="Cinemax Moremax" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Cinemax Moremax
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5395
+#EXTINF:-1 tvg-ID="cinemax.us" tvg-name="Cinemax East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Cinemax East
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5393
+#EXTINF:-1 tvg-ID="cinemascreeningroom100.us" tvg-name="Cinemax ActionMax East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Cinemax ActionMax East
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5394
+#EXTINF:-1 tvg-ID="5starmax.us" tvg-name="Cinemax 5 StarMax" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Cinemax 5 StarMax
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5392
+
+#EXTINF:-1 tvg-ID="vh1.us" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: VH1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10154
+#EXTINF:-1 tvg-ID="vh1.us" tvg-name="VH1 Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: VH1 Classic
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10155
+#EXTINF:-1 tvg-ID="vh1.us" tvg-name="VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: VH1 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10655
+#EXTINF:-1 tvg-ID="viceland.us" tvg-name="Viceland HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Viceland HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22851
+#EXTINF:-1 tvg-ID="wetv.us" tvg-name="We Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: We Tv
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22849
+#EXTINF:-1 tvg-ID="wlnytv1055.us" tvg-name="Westerns 4 U" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Westerns 4 U
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22848
+
+
+
+
+#EXTINF:-1 tvg-ID="crimeinvestigation.us" tvg-name="Crime & Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Crime & Investigation HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10691
+#EXTINF:-1 tvg-ID="discoverychannel.us" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: DISCOVERY CHANNEL HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10761
+#EXTINF:-1 tvg-ID="discoveryfamily.us" tvg-name="Discovery Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Discovery Family
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22914
+#EXTINF:-1 tvg-ID="investigationdiscovery.us" tvg-name="Discovery ID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Discovery ID HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22913
+#EXTINF:-1 tvg-ID="discoverylife.us" tvg-name="Discovery Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Discovery Life HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22912
+#EXTINF:-1 tvg-ID="discoveryscience.us" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Discovery Science HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/15405
+#EXTINF:-1 tvg-ID="NULL" tvg-name="DISCOVERY VELOCITY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: DISCOVERY VELOCITY HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10690
+#EXTINF:-1 tvg-ID="" tvg-name="MotorTrend" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: MotorTrend
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/111048
+#EXTINF:-1 tvg-ID="disneychannel.us" tvg-name="Disney HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Disney HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22911
+#EXTINF:-1 tvg-ID="disneyjunior.us" tvg-name="DISNEY JR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: DISNEY JR HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10735
+#EXTINF:-1 tvg-ID="disneyxd.us" tvg-name="Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Disney XD HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22910
+#EXTINF:-1 tvg-ID="mtv.us" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: MTV HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10757
+#EXTINF:-1 tvg-ID="" tvg-name="MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: MTV LIVE HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10760
+#EXTINF:-1 tvg-ID="nasachannel.us" tvg-name="NASA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: NASA TV HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10649
+#EXTINF:-1 tvg-ID="natgeo.us" tvg-name="NAT GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: NAT GEO HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10759
+#EXTINF:-1 tvg-ID="natgeowild.us" tvg-name="Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Nat Geo Wild HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22874
+#EXTINF:-1 tvg-ID="hgtv.us" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: HGTV HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10668
+#EXTINF:-1 tvg-ID="historychannel.us" tvg-name="HISTORY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: HISTORY HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10762
+#EXTINF:-1 tvg-ID="animalplanet.us" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Animal Planet HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5406
+
+
+
+#EXTINF:-1 tvg-ID="natgeo.us" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: National Geographic HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5404
+#EXTINF:-1 tvg-ID="investigationdiscovery.us" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Investigation Discovery
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5410
+#EXTINF:-1 tvg-ID="historychannel.us" tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: HISTORY
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5405
+#EXTINF:-1 tvg-ID="foodnetwork.us" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Food Network HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5403
+#EXTINF:-1 tvg-ID="tennischannel.us" tvg-name="TENNIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: TENNIS HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5407
+#EXTINF:-1 tvg-ID="discoveryscience.us" tvg-name="Discovery Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Discovery Life HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5409
+#EXTINF:-1 tvg-ID="discoverychannel.us" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Discovery Channel HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5408
+
+#EXTINF:-1 tvg-ID="showtimenext.us" tvg-name="Showtime Next" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Showtime Next
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5399
+#EXTINF:-1 tvg-ID="showtimeextreme.us" tvg-name="Showtime Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Showtime Extreme
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5398
+#EXTINF:-1 tvg-ID="showtime2.us" tvg-name="ShowTime 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: ShowTime 2 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5401
+#EXTINF:-1 tvg-ID="showtime.us" tvg-name="ShowTime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: ShowTime HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5390
+
+
+#EXTINF:-1 tvg-ID="beinsports.us" tvg-name="Bein Sports USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Bein Sports USA HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5391
+#EXTINF:-1 tvg-ID="worldfishingnetwork.us" tvg-name="World Fight Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: World Fight Channel HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/9867
+#EXTINF:-1 tvg-ID="NULL" tvg-name="World Fishing Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: World Fishing Network HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10723
+#EXTINF:-1 tvg-ID="wwe.us" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: WWE Network
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10766
+
+#EXTINF:-1 tvg-ID="fx.us" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: FX HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5231
+#EXTINF:-1 tvg-ID="foxbusiness.us" tvg-name="FOX Business HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: FOX Business HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5233
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: ESPN HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5227
+
+
+
+#EXTINF:-1 tvg-ID="cnbcworld.us" tvg-name="CNBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: CNBC HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10676
+#EXTINF:-1 tvg-ID="cnn.us" tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: CNN HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10749
+#EXTINF:-1 tvg-ID="usanetwork.us" tvg-name="USA Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: USA Network HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/871
+#EXTINF:-1 tvg-ID="" tvg-name="ABC News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: ABC News HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/873
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: ESPN
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/872
+#EXTINF:-1 tvg-ID="espn2.us" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: ESPN 2 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5386
+#EXTINF:-1 tvg-ID="hdnetmovies.us" tvg-name="Headline News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Headline News
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22882
+#EXTINF:-1 tvg-ID="hsn2.us" tvg-name="HEART TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: HEART TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10713
+#EXTINF:-1 tvg-ID="heroesandiconstv.us" tvg-name="Heroes Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Heroes Channel HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22895
+#EXTINF:-1 tvg-ID="spike.ca" tvg-name="SPIKE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: SPIKE TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10756
+#EXTINF:-1 tvg-ID="ionlife.us" tvg-name="IFC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: IFC HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22887
+#EXTINF:-1 tvg-ID="independentfilmchannel.us" tvg-name="Independent Film Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Independent Film Channel
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22878
+#EXTINF:-1 tvg-ID="cw.us" tvg-name="CW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: CW HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5230
+#EXTINF:-1 tvg-ID="comedycentral.us" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: COMEDY CENTRAL HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/5242
+#EXTINF:-1 tvg-ID="cbskcbs.us" tvg-name="CBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: CBS HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7800
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC One FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",BBC One FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/125452
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: BBC One UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",BBC One UHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/125419
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="VIP UK: BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",BBC One
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2240
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="VIP UK: BBC Two FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",BBC Two FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2238
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: BBC Three FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",BBC Three FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2239
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="VIP UK: BBC Four FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",BBC Four FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/8169
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="VIP UK: ITV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ITV FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/6886
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="VIP UK: ITV 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ITV 2 FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7623
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="VIP UK: ITV 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ITV 3 FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/8182
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="VIP UK: ITV 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ITV 4 FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7624
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="VIP UK: Channel 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Channel 4 FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/8170
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="VIP UK: Channel 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Channel 5 FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/8171
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK:  RTE 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom", RTE 1 FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/146295
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK:  RTE 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom", RTE 2 FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/146294
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK:  RTE Jr FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom", RTE Jr FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/146293
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: RTE News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",RTE News FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/146292
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Virgin Media One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Virgin Media One
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22622
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Virgin Media Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Virgin Media Two
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22623
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Virgin Media Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Virgin Media Three
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/22624
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="VIP UK: Sky Atlantic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Atlantic HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12581
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="VIP UK: Sky Cinema Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Cinema Action HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12576
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="VIP UK: Sky Cinema Animation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Cinema Animation HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12575
+#EXTINF:-1 tvg-ID="skycomedy.uk" tvg-name="VIP UK: Sky Cinema Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Cinema Comedy HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12577
+#EXTINF:-1 tvg-ID="skydisney.uk" tvg-name="VIP UK: Sky Cinema Disney HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Cinema Disney HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/11773
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="VIP UK: Sky Cinema Drama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Cinema Drama HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/11772
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Cinema Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Cinema Family HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/29790
+#EXTINF:-1 tvg-ID="Sky Movies Greats UK" tvg-name="VIP UK: Sky Cinema Greats HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Cinema Greats HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/11771
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Sky Cinema Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Cinema Hits HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/60881
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="VIP UK: Sky Cinema Premiere HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Cinema Premiere HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/11769
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="VIP UK: Sky Cinema SC-FI & Horror HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Cinema SC-FI & Horror HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/11768
+#EXTINF:-1 tvg-ID="skyselect.uk" tvg-name="VIP UK: Sky Cinema Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Cinema Select HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12579
+#EXTINF:-1 tvg-ID="skycrimethriller.uk" tvg-name="VIP UK: Sky Cinema Thriller HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Cinema Thriller HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12578
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Documentary FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Documentary FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/30634
+#EXTINF:-1 tvg-ID="itvboxoffice.uk" tvg-name="VIP UK: Sky History FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky History FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12475
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Nature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Nature FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20585
+#EXTINF:-1 tvg-ID="skywitness.uk" tvg-name="VIP UK: Sky Witness HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Witness HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20567
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Crime FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Crime FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20586
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Great! Movies Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Great! Movies Action
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74230
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: Great! Movies Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Great! Movies Classic
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74231
+#EXTINF:-1 tvg-ID="" tvg-name="VIP UK: SKY Store PreOrder 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",SKY Store PreOrder 1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74228
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Store 1 FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/44266
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Store 2 FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/44267
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Store 3 FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/44268
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Store 4 FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/44269
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP UK: Sky Store 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Store 5 FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/44270
+
+
+
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport Main Events
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/259
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK: Sky Sport Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport Cricket
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/258
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="UK: Sky Sport Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport Action
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/257
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK: Sky Sport Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport Golf
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/256
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK: Sky Sport PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport PL
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/255
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sport F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport F1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/253
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK: Sky Sport News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport News
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/416
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Events HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport Main Events HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/6680
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK: Sky Sport Cricket HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport Cricket HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/6681
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="UK: Sky Sport Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport Action HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/6682
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK: Sky Sport Golf HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport Golf HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/6683
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport Premier League HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/6684
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport Football HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/15406
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="UK: Sky Sport Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport Arena HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12665
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sport F1 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/6685
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK: Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sports News HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1624
+#EXTINF:-1 tvg-ID="Sky Sports Mix HD UK" tvg-name="UK: Sky Sports MIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Sports MIX
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7608
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: TNT Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sports 1 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1641
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: TNT Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sports 2 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2512
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: TNT Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sports 3 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2513
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: TNT Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sport 1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/374
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: TNT Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sport 2
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/375
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: TNT Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sport 3
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1282
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK: TNT Sport ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sport ESPN HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/587
+#EXTINF:-1 tvg-ID="" tvg-name="UK: TNT Sport Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sport Extra
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1247
+#EXTINF:-1 tvg-ID="" tvg-name="UK: TNT Sport Mosaic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sport Mosaic
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7609
+#EXTINF:-1 tvg-ID="btsportx1.uk" tvg-name="UK: TNT Sport Extra 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sport Extra 1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7610
+#EXTINF:-1 tvg-ID="btsportx2.uk" tvg-name="UK: TNT Sport Extra 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sport Extra 2
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7611
+#EXTINF:-1 tvg-ID="btsportx3.uk" tvg-name="UK: TNT Sport Extra 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sport Extra 3
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7612
+#EXTINF:-1 tvg-ID="btsportx4.uk" tvg-name="UK: TNT Sport Extra 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TNT Sport Extra 4
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7613
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="UK: EuroSport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",EuroSport 1 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1634
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="UK: EuroSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",EuroSport 2
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1633
+
+
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="UK: MUTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MUTV HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7631
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="UK: MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MUTV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1238
+#EXTINF:-1 tvg-ID="3e UK" tvg-name="UK: 3E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",3E
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/920
+#EXTINF:-1 tvg-ID="4music.uk" tvg-name="UK: 4Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",4Music
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12518
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="UK: 4seven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",4seven
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12517
+#EXTINF:-1 tvg-ID="hearttv.uk" tvg-name="UK: 5 Select" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",5 Select
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12309
+#EXTINF:-1 tvg-ID="5star.uk" tvg-name="UK: 5 Star" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",5 Star
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7616
+#EXTINF:-1 tvg-ID="" tvg-name="UK: 5 Star  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",5 Star  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74140
+#EXTINF:-1 tvg-ID="fiveusa.uk" tvg-name="UK: 5 Usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",5 Usa
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/922
+#EXTINF:-1 tvg-ID="" tvg-name="UK: 5 Usa  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",5 Usa  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74141
+#EXTINF:-1 tvg-ID="aajtak.uk" tvg-name="UK: Aaj Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Aaj Tak
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2858
+#EXTINF:-1 tvg-ID="abpnews.uk" tvg-name="UK: ABP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ABP News
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2859
+#EXTINF:-1 tvg-ID="" tvg-name="UK: AL Jazeera HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",AL Jazeera HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74142
+#EXTINF:-1 tvg-ID="alibi.uk" tvg-name="UK: Alibi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Alibi
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/933
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Alibi  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Alibi  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74143
+#EXTINF:-1 tvg-ID="amc.uk" tvg-name="UK: AMC From BT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",AMC From BT
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12495
+#EXTINF:-1 tvg-ID="andtv.uk" tvg-name="UK: And TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",And TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2841
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Animal Planet  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Animal Planet  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74144
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="UK: Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Animal Planet HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1643
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Arirang TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Arirang TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74145
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Aris News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Aris News
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74146
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: B4U Kadak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",B4U Kadak
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2851
+#EXTINF:-1 tvg-ID="b4umovies.uk" tvg-name="UK: B4U Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",B4U Movies
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2850
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: B4U Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",B4U Music
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2853
+#EXTINF:-1 tvg-ID="babytv.uk" tvg-name="UK: baby tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",baby tv
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2232
+#EXTINF:-1 tvg-ID="bet.uk" tvg-name="UK: BET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",BET
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7618
+#EXTINF:-1 tvg-ID="Bike UK" tvg-name="UK: Bike" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Bike
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12515
+#EXTINF:-1 tvg-ID="blaze.uk" tvg-name="UK: Blaze" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Blaze
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12514
+#EXTINF:-1 tvg-ID="bloombergtv.uk" tvg-name="UK: Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Bloomberg
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12513
+#EXTINF:-1 tvg-ID="boomerang.uk" tvg-name="UK: Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Boomerang
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1285
+#EXTINF:-1 tvg-ID="boxupfront.uk" tvg-name="UK: BOX Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",BOX Hits
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20572
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Brit Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Brit Asia
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74147
+#EXTINF:-1 tvg-ID="citv.uk" tvg-name="UK: C ITV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",C ITV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12511
+#EXTINF:-1 tvg-ID="cartoonnetwork.uk" tvg-name="UK: Cartoon network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Cartoon network
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2231
+#EXTINF:-1 tvg-ID="cartoonito.uk" tvg-name="UK: Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Cartoonito
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/17913
+#EXTINF:-1 tvg-ID="cbsaction.uk" tvg-name="UK: CBS Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",CBS Drama
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/924
+#EXTINF:-1 tvg-ID="cbsdrama.uk" tvg-name="UK: CBS Justice" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",CBS Justice
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/926
+#EXTINF:-1 tvg-ID="cbsreality.uk" tvg-name="UK: CBS Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",CBS Reality
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/925
+#EXTINF:-1 tvg-ID="challenge.uk" tvg-name="UK: Challenge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Challenge
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12512
+#EXTINF:-1 tvg-ID="chartshowhits.uk" tvg-name="UK: Chart Show Hits UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Chart Show Hits UK
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20591
+#EXTINF:-1 tvg-ID="MTV Dance UK" tvg-name="UK: Club MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Club MTV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12308
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Clubland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Clubland TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/42042
+#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="UK: CNBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",CNBC News
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12365
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",CNN HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/31078
+#EXTINF:-1 tvg-ID="colors.uk" tvg-name="UK: Colors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Colors
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2845
+#EXTINF:-1 tvg-ID="colors.uk" tvg-name="UK: Colors Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Colors Europe
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2846
+#EXTINF:-1 tvg-ID="comedyxtra.uk" tvg-name="UK: Comedy Central Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Comedy Central Extra
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1639
+#EXTINF:-1 tvg-ID="comedycentral.uk" tvg-name="UK: Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Comedy Central HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2219
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Court TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74150
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Craft Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Craft Extra
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74151
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Create & Craft" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Create & Craft
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74152
+#EXTINF:-1 tvg-ID="crimeandinvestigationnetwork.uk" tvg-name="UK: Crime & Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Crime & Investigation HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12509
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Cruise 1st TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Cruise 1st TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74153
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="UK: Dave HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Dave HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/934
+#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="UK: Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Discovery
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1638
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Discovery  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74154
+#EXTINF:-1 tvg-ID="discoveryhistory.uk" tvg-name="UK: Discovery History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Discovery History
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1245
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery History  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Discovery History  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74155
+#EXTINF:-1 tvg-ID="discoveryscience.uk" tvg-name="UK: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Discovery Science
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1299
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery Science  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Discovery Science  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74156
+#EXTINF:-1 tvg-ID="discoveryturbo.uk" tvg-name="UK: Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Discovery Turbo
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1637
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery Turbo  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Discovery Turbo  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74157
+#EXTINF:-1 tvg-ID="disneychannel.uk" tvg-name="UK: DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",DISNEY HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1298
+#EXTINF:-1 tvg-ID="disneyxd.uk" tvg-name="UK: Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Disney XD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12507
+#EXTINF:-1 tvg-ID="" tvg-name="UK: DMAX  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",DMAX  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74158
+#EXTINF:-1 tvg-ID="discoverydmax.uk" tvg-name="UK: DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",DMAX HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2220
+#EXTINF:-1 tvg-ID="drama.uk" tvg-name="UK: Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Drama
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1272
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Drama  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Drama  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74159
+#EXTINF:-1 tvg-ID="eentertainmentplus1.uk" tvg-name="UK: E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",E!
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1635
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="UK: E4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",E4
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7632
+#EXTINF:-1 tvg-ID="" tvg-name="UK: E4  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",E4  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74160
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="UK: E4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",E4 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1270
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Eden  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Eden  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74161
+#EXTINF:-1 tvg-ID="eden.uk" tvg-name="UK: EDEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",EDEN HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7628
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Eman AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Eman AR
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74162
+#EXTINF:-1 tvg-ID="" tvg-name="UK: EURONEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",EURONEWS
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74163
+#EXTINF:-1 tvg-ID="" tvg-name="UK: EWTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",EWTN
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74164
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Faith" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Faith
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74165
+#EXTINF:-1 tvg-ID="" tvg-name="UK: FILM 4  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",FILM 4  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74166
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="UK: Film 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Film 4 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/917
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="UK: Film4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Film4 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7627
+#EXTINF:-1 tvg-ID="finelivingeurope.uk" tvg-name="UK: Fine Living Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Fine Living Network
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1268
+#EXTINF:-1 tvg-ID="fiveusa.uk" tvg-name="UK: Five" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Five
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20573
+#EXTINF:-1 tvg-ID="foodnetwork.uk" tvg-name="UK: Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Food Network
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/4389
+#EXTINF:-1 tvg-ID="" tvg-name="UK: FOOD XP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",FOOD XP
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74167
+#EXTINF:-1 tvg-ID="" tvg-name="UK: FORCES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",FORCES TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74168
+#EXTINF:-1 tvg-ID="FOX News UK" tvg-name="UK: Fox News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Fox News HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2234
+#EXTINF:-1 tvg-ID="france24.uk" tvg-name="UK: France 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",France 24
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12504
+#EXTINF:-1 tvg-ID="" tvg-name="UK: GOD TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",GOD TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74169
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="UK: Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Gold
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/932
+#EXTINF:-1 tvg-ID="" tvg-name="UK: GOLD  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",GOLD  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74170
+#EXTINF:-1 tvg-ID="goodfood.uk" tvg-name="UK: Good Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Good Food
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/923
+#EXTINF:-1 tvg-ID="home.uk" tvg-name="UK: H&H+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",H&H+1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/931
+#EXTINF:-1 tvg-ID="history2.uk" tvg-name="UK: H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",H2
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2237
+#EXTINF:-1 tvg-ID="" tvg-name="UK: HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",HGTV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74171
+#EXTINF:-1 tvg-ID="" tvg-name="UK: HIDAYAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",HIDAYAT
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74172
+#EXTINF:-1 tvg-ID="" tvg-name="UK: High Street TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",High Street TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74173
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Hillsong" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Hillsong
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74174
+#EXTINF:-1 tvg-ID="historychannel.uk" tvg-name="UK: History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",History HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2236
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Hochanda" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Hochanda
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74175
+#EXTINF:-1 tvg-ID="homeandhealth.uk" tvg-name="UK: Home Health" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Home Health
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12503
+#EXTINF:-1 tvg-ID="horrorchannel.uk" tvg-name="UK: Horror Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Horror Channel
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/935
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Horror Channel  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Horror Channel  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74176
+#EXTINF:-1 tvg-ID="horseandcountry.uk" tvg-name="UK: Horse and Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Horse and Country
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7617
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ID  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ID  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74180
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Ideal World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Ideal World HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74177
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Insight TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Insight TV HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74178
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Inspiration TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Inspiration TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74179
+#EXTINF:-1 tvg-ID="investigationdiscovery.uk" tvg-name="UK: Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Investigation Discovery
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1296
+#EXTINF:-1 tvg-ID="" tvg-name="UK: iON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",iON TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74181
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV Anglia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ITV Anglia
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74186
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV BE  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ITV BE  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74187
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV Encore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ITV Encore
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74188
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV Granada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ITV Granada
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74189
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV London" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ITV London
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74190
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ITV Yorkshire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ITV Yorkshire
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74191
+#EXTINF:-1 tvg-ID="itvbe.uk" tvg-name="UK: ITVBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ITVBE
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2224
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Kanshi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Kanshi TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74192
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Keep It Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Keep It Country
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74193
+#EXTINF:-1 tvg-ID="kerrang.uk" tvg-name="UK: Kerrang TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Kerrang TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20578
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="UK: LFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",LFC TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1239
+#EXTINF:-1 tvg-ID="lifetime.uk" tvg-name="UK: Life Time HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Life Time HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12501
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Live 360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Live 360
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74194
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Living
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74195
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Living HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Living HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74196
+#EXTINF:-1 tvg-ID="londonlive.uk" tvg-name="UK: London Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",London Live
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12500
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Love Nature
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74197
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Love Nature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Love Nature HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74198
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Love World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Love World
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74199
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Love World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Love World HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74200
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Madani Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Madani Channel
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74201
+#EXTINF:-1 tvg-ID="magic.uk" tvg-name="UK: Magic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Magic TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12498
+#EXTINF:-1 tvg-ID="" tvg-name="UK: MATV National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MATV National
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74202
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="UK: More 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",More 4
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1295
+#EXTINF:-1 tvg-ID="" tvg-name="UK: More 4  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",More 4  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74203
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="UK: More 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",More 4 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7630
+#EXTINF:-1 tvg-ID="motorstv.uk" tvg-name="UK: Motors" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Motors
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12499
+#EXTINF:-1 tvg-ID="MTV Base UK" tvg-name="UK: MTV Base" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MTV Base
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12305
+#EXTINF:-1 tvg-ID="mtvclassic.uk" tvg-name="UK: MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MTV Classic
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7619
+#EXTINF:-1 tvg-ID="mtvdance.uk" tvg-name="UK: MTV Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MTV Dance
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/26351
+#EXTINF:-1 tvg-ID="mtv.uk" tvg-name="UK: MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MTV HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7622
+#EXTINF:-1 tvg-ID="mtvhits.uk" tvg-name="UK: MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MTV Hits
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7621
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: MTV Live FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MTV Live FHD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/35379
+#EXTINF:-1 tvg-ID="MTV Music UK" tvg-name="UK: MTV Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MTV Music
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12306
+#EXTINF:-1 tvg-ID="mtvomg.uk" tvg-name="UK: MTV OMG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MTV OMG
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/26352
+#EXTINF:-1 tvg-ID="mtvrocks.uk" tvg-name="UK: MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MTV Rocks
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12307
+#EXTINF:-1 tvg-ID="" tvg-name="UK: My TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",My TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74204
+#EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="UK: Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Nat Geo HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1293
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="UK: Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Nat Geo Wild
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1302
+#EXTINF:-1 tvg-ID="" tvg-name="UK: New Vision TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",New Vision TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74205
+#EXTINF:-1 tvg-ID="" tvg-name="UK: News Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",News Max
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74206
+#EXTINF:-1 tvg-ID="" tvg-name="UK: NHK WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",NHK WORLD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74207
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="UK: Nick Jnr Too" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Nick Jnr Too
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12496
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="UK: NICK JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",NICK JUNIOR
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1292
+#EXTINF:-1 tvg-ID="nicktoons.uk" tvg-name="UK: NICK TOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",NICK TOONS
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1261
+#EXTINF:-1 tvg-ID="nickelodeon.uk" tvg-name="UK: Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Nickelodeon
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1291
+#EXTINF:-1 tvg-ID="nollywood.uk" tvg-name="UK: Nollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Nollywood
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/14150
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: Now 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Now 80s
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/26617
+#EXTINF:-1 tvg-ID="now90s.uk" tvg-name="UK: Now 90s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Now 90s
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20579
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Paramount Network
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74208
+#EXTINF:-1 tvg-ID="" tvg-name="UK: PBS America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",PBS America
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20574
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Pcne Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Pcne Chinese
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74209
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Peace TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Peace TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74210
+#EXTINF:-1 tvg-ID="picktv.uk" tvg-name="UK: PICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",PICK
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2223
+#EXTINF:-1 tvg-ID="pop.uk" tvg-name="UK: POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",POP
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12494
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Pop Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Pop Max
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74211
+#EXTINF:-1 tvg-ID="quest.uk" tvg-name="UK: Quest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Quest
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/921
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Quest RED" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Quest RED
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74212
+#EXTINF:-1 tvg-ID="questred.uk" tvg-name="UK: Quest Red +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Quest Red +1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20417
+#EXTINF:-1 tvg-ID="" tvg-name="UK: QVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",QVC
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74213
+#EXTINF:-1 tvg-ID="" tvg-name="UK: QVC Beauty" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",QVC Beauty
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74214
+#EXTINF:-1 tvg-ID="" tvg-name="UK: QVC Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",QVC Extra
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74215
+#EXTINF:-1 tvg-ID="" tvg-name="UK: QVC Style" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",QVC Style
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74216
+#EXTINF:-1 tvg-ID="reallives.uk" tvg-name="UK: Real Lives" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Real Lives
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2222
+#EXTINF:-1 tvg-ID="really.uk" tvg-name="UK: Really" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Really
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1631
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Replay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Replay
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74217
+#EXTINF:-1 tvg-ID="rishteycineplex.uk" tvg-name="UK: Rishtey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Rishtey
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2843
+#EXTINF:-1 tvg-ID="rok.uk" tvg-name="UK: ROK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",ROK TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20575
+#EXTINF:-1 tvg-ID="rtd.uk" tvg-name="UK: Afrobeats 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Afrobeats 24/7
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20570
+#EXTINF:-1 tvg-ID="RTE One UK" tvg-name="UK: RTE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",RTE 1 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12493
+#EXTINF:-1 tvg-ID="RTE Two UK" tvg-name="UK: RTE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",RTE 2 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12492
+#EXTINF:-1 tvg-ID="RTE News Now UK" tvg-name="UK: RTE News Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",RTE News Now
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20569
+#EXTINF:-1 tvg-ID="RTE One UK" tvg-name="UK: Rte One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Rte One
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/418
+#EXTINF:-1 tvg-ID="RTE Two UK" tvg-name="UK: Rte Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Rte Two
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/584
+#EXTINF:-1 tvg-ID="RTE Jr UK" tvg-name="UK: RTEjr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",RTEjr
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2227
+#EXTINF:-1 tvg-ID="S4C UK" tvg-name="UK: S4C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",S4C
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12491
+#EXTINF:-1 tvg-ID="sonysab.uk" tvg-name="UK: Sab TV (SET)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sab TV (SET)
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2840
+#EXTINF:-1 tvg-ID="sonymax.uk" tvg-name="UK: SET Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",SET Max
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2849
+#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="UK: SKY 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",SKY 1 HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/7629
+#EXTINF:-1 tvg-ID="skyarts.uk" tvg-name="UK: Sky Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Arts
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/414
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="UK: Sky Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Atlantic
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12275
+#EXTINF:-1 tvg-ID="skyliving.uk" tvg-name="UK: Sky Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Living
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/585
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="UK: Sky Movies Action & Adv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Movies Action & Adv
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/264
+#EXTINF:-1 tvg-ID="skycomedy.uk" tvg-name="UK: Sky Movies Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Movies Comedy
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/263
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="UK: Sky Movies Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Movies Drama
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/265
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="UK: Sky Movies Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Movies Family
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/266
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="UK: Sky Movies Modern-Geant" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Movies Modern-Geant
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/262
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="UK: Sky Movies Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Movies Premiere
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/261
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="UK: Sky Movies Sci-Fi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Movies Sci-Fi
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/254
+#EXTINF:-1 tvg-ID="skyselect.uk" tvg-name="UK: Sky Movies Select" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Movies Select
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/260
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="UK: Sky Movies Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Movies Showcase
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/269
+#EXTINF:-1 tvg-ID="skycrimethriller.uk" tvg-name="UK: Sky Movies Thriller" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Movies Thriller
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/270
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="UK: Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky News
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/930
+#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="UK: Sky One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky One
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/417
+#EXTINF:-1 tvg-ID="sky2.uk" tvg-name="UK: Sky Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Two
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/415
+#EXTINF:-1 tvg-ID="skywitness.uk" tvg-name="UK: Sky Witness" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sky Witness
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20568
+#EXTINF:-1 tvg-ID="sonychannel.uk" tvg-name="UK: Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sony Channel
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12489
+#EXTINF:-1 tvg-ID="sonychannel.uk" tvg-name="UK: Sony Entertainment (SET)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sony Entertainment (SET)
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2839
+#EXTINF:-1 tvg-ID="spike.uk" tvg-name="UK: spike" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",spike
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2226
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sportystaff TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Sportystaff TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74218
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Spotlight TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Spotlight TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74219
+#EXTINF:-1 tvg-ID="starbharat.uk" tvg-name="UK: Star Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Star Bharat
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2842
+#EXTINF:-1 tvg-ID="stargold.uk" tvg-name="UK: Star Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Star Gold
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2848
+#EXTINF:-1 tvg-ID="starutsav.uk" tvg-name="UK: Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Star Jalsha
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2857
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: Star Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Star Plus
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2838
+#EXTINF:-1 tvg-ID="Starz TV UK" tvg-name="UK: Starz TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Starz TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12488
+#EXTINF:-1 tvg-ID="STV HD UK" tvg-name="UK: STV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",STV HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12487
+#EXTINF:-1 tvg-ID="Syfy UK" tvg-name="UK: Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Syfy
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/25878
+#EXTINF:-1 tvg-ID="truecrime.uk" tvg-name="UK: Talking Pictures HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Talking Pictures HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12483
+#EXTINF:-1 tvg-ID="tcm.uk" tvg-name="UK: TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TCM HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/21324
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Tcm Movies  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Tcm Movies  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74220
+#EXTINF:-1 tvg-ID="TG4 UK" tvg-name="UK: TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TG4
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1255
+#EXTINF:-1 tvg-ID="thevault.uk" tvg-name="UK: The Vault" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",The Vault
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12486
+#EXTINF:-1 tvg-ID="tinypop.uk" tvg-name="UK: Tiny Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Tiny Pop
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12485
+#EXTINF:-1 tvg-ID="tlc.uk" tvg-name="UK: TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TLC
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2074
+#EXTINF:-1 tvg-ID="" tvg-name="UK: TLC  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TLC  1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74221
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Together" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Together
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74222
+#EXTINF:-1 tvg-ID="talkingpictures.uk" tvg-name="UK: Free Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Free Documentary
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/20571
+#EXTINF:-1 tvg-ID="travelchannel.uk" tvg-name="UK: Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Travel Channel
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12484
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Travel XP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Travel XP
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74223
+#EXTINF:-1 tvg-ID="True Entertainment UK" tvg-name="UK: True Ent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",True Ent
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12482
+#EXTINF:-1 tvg-ID="truemovies.uk" tvg-name="UK: True Movies 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",True Movies 1
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1251
+#EXTINF:-1 tvg-ID="trutv.uk" tvg-name="UK: True TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",True TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12481
+#EXTINF:-1 tvg-ID="" tvg-name="UK: TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TV ONE
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74224
+#EXTINF:-1 tvg-ID="TV3 UK" tvg-name="UK: TV3 IR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TV3 IR HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2225
+#EXTINF:-1 tvg-ID="tv5monde.uk" tvg-name="UK: TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",TV5
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12480
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UK: UFC fight night Pass HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",UFC fight night Pass HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12520
+#EXTINF:-1 tvg-ID="" tvg-name="UK: UFC Fight PASS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",UFC Fight PASS
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12479
+#EXTINF:-1 tvg-ID="universal.uk" tvg-name="UK: Universal Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Universal Channel HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12276
+#EXTINF:-1 tvg-ID="UTV UK" tvg-name="UK: UTV Ireland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",UTV Ireland
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2221
+#EXTINF:-1 tvg-ID="" tvg-name="UK: V2BEAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",V2BEAT
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74225
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Venus
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74226
+#EXTINF:-1 tvg-ID="vh1.uk" tvg-name="UK: VH1 Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",VH1 Classic
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/13841
+#EXTINF:-1 tvg-ID="viceland.uk" tvg-name="UK: Viceland HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Viceland HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12478
+#EXTINF:-1 tvg-ID="VIVA UK" tvg-name="UK: VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",VIVA
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12477
+#EXTINF:-1 tvg-ID="w.uk" tvg-name="UK: W HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",W HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/12476
+#EXTINF:-1 tvg-ID="w.uk" tvg-name="UK: Watch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Watch
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/1252
+#EXTINF:-1 tvg-ID="" tvg-name="UK: MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",MTV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/74227
+#EXTINF:-1 tvg-ID="yesterday.uk" tvg-name="UK: Yesterday HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Yesterday HD
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/936
+#EXTINF:-1 tvg-ID="zeecinema.uk" tvg-name="UK: Zee Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Zee Cinema
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2847
+#EXTINF:-1 tvg-ID="zeepunjabi.uk" tvg-name="UK: Zee Punjabi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Zee Punjabi
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2855
+#EXTINF:-1 tvg-ID="zeetv.uk" tvg-name="UK: Zee TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Zee TV
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2837
+#EXTINF:-1 tvg-ID="zing.uk" tvg-name="UK: Zing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/320px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" group-title="United Kingdom",Zing
+http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/2854
