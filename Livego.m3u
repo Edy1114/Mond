@@ -33,6 +33,10 @@ http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus HD
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 
+#EXTINF:-1 tvg-id="MCN TV" tvg-logo="http://www.mcntv.al/images/logo8.png"  group-title="Shqiptare",MCN TV HD
+http://178.33.34.186:5151/live/mcnpp1/playlist.m3u8
+#EXTINF:-1 tvg-id="MCN TV" tvg-logo="http://www.mcntv.al/images/logo8.png"  group-title="Shqiptare",MCN TV FHD
+http://79.106.48.2:5151/live/mcnpp1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV ORA" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare", RTV ORA 
 http://178.33.34.186:5151/live/rtvoraott/playlist.m3u8
 #EXTINF:-1 tvg-id="Klan News" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klan-news-al.png"  group-title="Shqiptare",Klan News
@@ -41,6 +45,15 @@ http://178.33.34.186:5151/live/klannewsott/playlist.m3u8
 http://79.106.48.2:5151/live/syritvott/playlist.m3u8
 #EXTINF:-1 tvg-id="Syri TV" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV HD
 http://109.236.44.157:2121/syritv
+#EXTINF:-1 tvg-id="A2 CNN" tvg-logo="http://www.albepg.com/tvlogi/A2%20CNN.png"  group-title="Shqiptare",A2 CNN
+http://146.59.19.1:80/5007/index.m3u8
+#EXTINF:-1 tvg-id="A2 CNN" tvg-logo="http://www.albepg.com/tvlogi/A2%20CNN.png"  group-title="Shqiptare",A2 CNN HD
+http://79.106.48.2:5151/live/a2mobott/playlist.m3u8
+#EXTINF:-1 tvg-id="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png"  group-title="Shqiptare",Fax News HD
+http://178.33.34.186:5151/live/faxnewsott/playlist.m3u8
+#EXTINF:-1 tvg-id="News 24" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24 HD
+http://79.106.48.2:5151/live/news24ott/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Top News" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News
 http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/26561
@@ -1594,7 +1607,6 @@ http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/80463
 http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/80460
 #EXTINF:-1 tvg-ID="" tvg-name="DeA Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/f/f1/DeA_Kids_-_Logo_2017.svg/640px-DeA_Kids_-_Logo_2017.svg.png" group-title="Femije",DeA Kids
 http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/80553
-
 
 #EXTINF:-1 tvg-ID="5starmax.us" tvg-name="Cinemax 5 Star Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png" group-title="USA",US: Cinemax 5 Star Max
 http://livego.club:8080/xp0chfGduufs/c9F835wBff3j/10700
