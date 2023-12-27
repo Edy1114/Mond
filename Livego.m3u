@@ -53,7 +53,6 @@ http://79.106.48.2:5151/live/a2mobott/playlist.m3u8
 http://79.106.48.2:5151/live/news24ott/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fax News" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png"  group-title="Shqiptare",Fax News HD
-
 http://livego.club:8080/bTJXWK0Yer4x/eFQYgtzKaDZ2/26566
 #EXTINF:-1 tvg-id="Top News" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News
 http://livego.club:8080/bTJXWK0Yer4x/eFQYgtzKaDZ2/26561
