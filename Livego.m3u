@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Top Channel" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png"  group-title="Shqiptare",Top Channel
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png"  group-title="Shqiptare",Top Channel
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/1050
-#EXTINF:-1 tvg-name="Klan TV HD" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png"  group-title="Shqiptare",Klan 
+#EXTINF:-1 tvg-name="KlanTVHD.al" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png"  group-title="Shqiptare",Klan 
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/15661
 #EXTINF:-1 tvg-id="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png"  group-title="Shqiptare",Klan Plus
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/29897
