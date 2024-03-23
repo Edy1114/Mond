@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Top Channel.al" tvg-name="Top Channel.al" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png"  group-title="Shqiptare",Top Channel
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png"  group-title="Shqiptare",Top Channel
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/1050
-#EXTINF:-1 tvg-id="Klan TV HD.al tvg-name="Klan TV HD.al" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png"  group-title="Shqiptare",Klan 
+#EXTINF:-1 tvg-id="KlanTVHD.al" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png"  group-title="Shqiptare",Klan 
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/15661
-#EXTINF:-1 tvg-id="Klan Plus" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png"  group-title="Shqiptare",Klan Plus
+#EXTINF:-1 tvg-id="Klan Plus.al" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png"  group-title="Shqiptare",Klan Plus
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/29897
 #EXTINF:-1 tvg-id="ABC News Albania.al" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/26563
@@ -26,6 +26,13 @@ http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/160500
 #EXTINF:-1 tvg-id="Big Brother VIP Albania 2" tvg-name="BigBrother 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png/440px-Logo_of_the_Big_Brother_VIP_Kosova.png"  group-title="Shqiptare",Big Brother VIP Albania 2
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/160501
 
+
+#EXTINF:-1 tvg-id="Farma VIP 1" tvg-name="Farma VIP 1" tvg-logo="https://www.tring.al/wp-content/uploads/2024/03/paketavip.png"  group-title="Shqiptare",Farma VIP 1
+http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/164053
+#EXTINF:-1 tvg-id="Farma VIP 2" tvg-name="Farma VIP 2" tvg-logo="https://www.tring.al/wp-content/uploads/2024/03/paketavip.png"  group-title="Shqiptare",Farma VIP 2
+http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/164054
+
+
 #EXTINF:-1 tvg-id="Report TV.al" tvg-logo="http://www.albepg.com/tvlogi/Report%20TV.png"  group-title="Shqiptare",Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="News 24.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
@@ -35,20 +42,16 @@ https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 
 #EXTINF:-1 tvg-id="MCN TV.al" tvg-logo="http://www.mcntv.al/images/logo8.png"  group-title="Shqiptare",MCN TV HD
 http://178.33.34.186:5151/live/mcnpp1/playlist.m3u8
-#EXTINF:-1 tvg-id="MCN TV.al" tvg-logo="http://www.mcntv.al/images/logo8.png"  group-title="Shqiptare",MCN TV FHD
-http://79.106.48.2:5151/live/mcnpp1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV Ora.al" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare", RTV ORA 
 http://178.33.34.186:5151/live/rtvoraott/playlist.m3u8
-#EXTINF:-1 tvg-id="Klan News" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klan-news-al.png"  group-title="Shqiptare",Klan News
+#EXTINF:-1 tvg-id="Klan News.al" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klan-news-al.png"  group-title="Shqiptare",Klan News
 http://178.33.34.186:5151/live/klannewsott/playlist.m3u8
 #EXTINF:-1 tvg-id="Syri TV.al" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
-http://79.106.48.2:5151/live/syritvott/playlist.m3u8
+http://tibotv.s.llnwi.net/dvr1file/yWbXvr1S/syrihd_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Syri TV.al" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV HD
 http://109.236.44.157:2121/syritv
 #EXTINF:-1 tvg-id="A2 CNN.al" tvg-logo="http://www.albepg.com/tvlogi/A2%20CNN.png"  group-title="Shqiptare",A2 CNN
-http://146.59.19.1:80/5007/index.m3u8
-#EXTINF:-1 tvg-id="A2 CNN.al" tvg-logo="http://www.albepg.com/tvlogi/A2%20CNN.png"  group-title="Shqiptare",A2 CNN HD
-http://79.106.48.2:5151/live/a2mobott/playlist.m3u8
+http://109.236.44.157:2121/a2cnn
 #EXTINF:-1 tvg-id="FAX News.al" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png"  group-title="Shqiptare",Fax News HD
 http://178.33.34.186:5151/live/faxnewsott/playlist.m3u8
 #EXTINF:-1 tvg-id="News 24.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24 HD
@@ -86,7 +89,7 @@ http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/2102
 #EXTINF:-1 tvg-id="RTSH Sport.al" tvg-name="RTSH Sport" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png" group-title="Shqiptare",Rtsh Sport HD
 http://79.106.48.2:5151/live/rtshsport/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTSH 24" tvg-name="Rtsh 24.al" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png" group-title="Shqiptare",RTSH 24
+#EXTINF:-1 tvg-id="RTSH 24.al" tvg-name="RTSH 24.al" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png" group-title="Shqiptare",RTSH 24
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/29890
 #EXTINF:-1 tvg-id="RTSH Korça.al" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Korca.png" group-title="Shqiptare",RTSH Korca
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/29889
@@ -568,16 +571,6 @@ http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/2154
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/2153
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 1 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 1 HD
-http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/98714
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 2 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 2 HD
-http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/98715
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 3 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 3 HD
-http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/98716
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 4 HD" tvg-logo="https://lo1.in/LOGO/ALBANIA/ALBANIASPORT/OVERSPORT.png" group-title="Sport ALB-ITA",Oversport 4 HD
-http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/98717
-
-
 #EXTINF:-1 tvg-id="Art Sport 1" tvg-name="ART Sport 1.al" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%201.png"  group-title="Sport ALB-ITA",Art Sport 1
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/29801
 #EXTINF:-1 tvg-id="Art Sport 2" tvg-name="ART Sport 2.al" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%202.png"  group-title="Sport ALB-ITA",Art Sport 2
@@ -701,6 +694,9 @@ http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/30345
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/30347
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sports Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sport Premier League 4K
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/144299
+
+#EXTINF:-1 tvg-ID="NULL" tvg-name="UFC Fight Pass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1280px-UFC_Fight_Pass_Logo.svg.png"  group-title="UK Sports",UFC Fight Pass
+http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/12479
 
 #EXTINF:-1 tvg-ID="" tvg-name="TNT Sports UHD 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" group-title="UK Sports",TNT Sports Ultimate
 http://livego.club:8080/ueaMzjGfEu/8x601mvS2H/124500
