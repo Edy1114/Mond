@@ -125,7 +125,7 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2129
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/1052
 #EXTINF:-1 tvg-id="Muse.al" tvg-logo="http://www.albepg.com/tvlogi/Muse.png"  group-title="Filma",Tring Muse
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2117
-#EXTINF:-1 tvg-id="Tring Original.al" tvg-logo="https://www.tring.al/download/brandi/TringLogoRGBreverse-l.png"  group-title="Filma",Tring Original
+#EXTINF:-1 tvg-id="Tring Original.al" tvg-logo="https://tvprofil.com/img/kanali-logo/Tring_Original_logo.png"  group-title="Filma",Tring Original
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/29832
 
 
@@ -339,7 +339,7 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/146512
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/50162
 #EXTINF:-1 tvg-id="Rai 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/50163
-#EXTINF:-1 tvg-id="Rai 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ1udzTud18EZ4OSe9N8Oiw-Qh6BYjn0t7bM0H4XQq5K96VOlw&s"  group-title="Italiane",Rai 3
+#EXTINF:-1 tvg-id="Rai 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rai_3_HD_Logo.svg/320px-Rai_3_HD_Logo.svg.png"  group-title="Italiane",Rai 3
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/50164
 #EXTINF:-1 tvg-id="Rai 4 HD" tvg-name="Rai 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Rai_4_HD_-_Logo_2016.svg/1024px-Rai_4_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 4
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/50165
@@ -411,7 +411,7 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80538
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80475
 #EXTINF:-1 tvg-id="Sky Cinema Suspense" tvg-name="SKY Cinema Suspense HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Suspense_-_Logo_2019.svg/1024px-Sky_Cinema_Suspense_-_Logo_2019.svg.png"  group-title="Italiane",Sky Cinema Suspense
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80468
-#EXTINF:-1 tvg-ID="Sky Serie" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sky_Serie.svg/320px-Sky_Serie.svg.png" group-title="Italiane",Sky Serie 
+#EXTINF:-1 tvg-ID="Sky Serie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sky_Serie.svg/320px-Sky_Serie.svg.png" group-title="Italiane",Sky Serie 
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/83814
 
 #EXTINF:-1 tvg-id="Sky Investigation" tvg-name="Sky Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sky_Investigation.svg/320px-Sky_Investigation.svg.png" group-title="Italiane",Sky Investigation 
@@ -652,7 +652,7 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/150290
 
 
 
-#EXTINF:-1 tvg-ID="LaLigaTV HD" tvg-logo="https://www.rfc-seraing.be/wp-content/uploads/2018/08/laliga-h-1200x1200_2018.png" group-title="UK Sports",LA LIGA HD
+#EXTINF:-1 tvg-ID="LaLigaTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/LaLiga_TV_Bar_HD.png/320px-LaLiga_TV_Bar_HD.png" group-title="UK Sports",LA LIGA HD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/18771
 #EXTINF:-1 tvg-ID="" tvg-name="Sky Sports News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/800px-Sky_Sport_-_Logo_2020.svg.png" group-title="UK Sports",Sky Sports News
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/30338
@@ -1168,17 +1168,17 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/31061
 
 
 
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="SPORT TV 1 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 1 FHD
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="SPORT TV 1 FHD" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Sport MIX",PT: SPORT TV 1 FHD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/16056
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="SPORT TV 2 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 2 FHD
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="SPORT TV 2 FHD" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Sport MIX",PT: SPORT TV 2 FHD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/16055
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORT TV 3 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 3 FHD
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="SPORT TV 3 FHD" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Sport MIX",PT: SPORT TV 3 FHD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/16054
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="SPORT TV 4 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 4 FHD
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="SPORT TV 4 FHD" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Sport MIX",PT: SPORT TV 4 FHD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/16053
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="SPORT TV 5 FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV 5 FHD
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="SPORT TV 5 FHD" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Sport MIX",PT: SPORT TV 5 FHD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/16052
-#EXTINF:-1 tvg-ID="sporttvplus.pt" tvg-name="SPORT TV+FHD" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: SPORT TV+FHD
+#EXTINF:-1 tvg-ID="sporttvplus.pt" tvg-name="SPORT TV+FHD" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Sport MIX",PT: SPORT TV+FHD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/16057
 
 
@@ -1282,15 +1282,15 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/23609
 
 
 
-#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="Sport TV1" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV1
+#EXTINF:-1 tvg-ID="sporttv1.pt" tvg-name="Sport TV1" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Sport MIX",PT: Sport TV1
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/6494
-#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="Sport TV2" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV2
+#EXTINF:-1 tvg-ID="sporttv2.pt" tvg-name="Sport TV2" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Sport MIX",PT: Sport TV2
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/6495
-#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="Sport TV3" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV3
+#EXTINF:-1 tvg-ID="sporttv3.pt" tvg-name="Sport TV3" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Sport MIX",PT: Sport TV3
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/6496
-#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="Sport TV4" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV4
+#EXTINF:-1 tvg-ID="sporttv4.pt" tvg-name="Sport TV4" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Sport MIX",PT: Sport TV4
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/6497
-#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="Sport TV5" tvg-logo="https://www.sporttv.pt/img/static/sport-tv-institucional.png" group-title="Sport MIX",PT: Sport TV5
+#EXTINF:-1 tvg-ID="sporttv5.pt" tvg-name="Sport TV5" tvg-logo="https://ia802308.us.archive.org/15/items/sport-tv-logo/SportTV-logo.png" group-title="Sport MIX",PT: Sport TV5
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/6498
 
 
