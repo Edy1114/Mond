@@ -468,32 +468,22 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80450
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/83825
 #EXTINF:-1 tvg-id="DiscoveryFood.it" tvg-name="Discovery Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png"  group-title="Dokumentare",Discovery Food Network
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80562
-#EXTINF:-1 tvg-id="NationalGeographic.it" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/800px-National_Geographic_Channel.svg.png"  group-title="Dokumentare",National Geographic 
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80482
 #EXTINF:-1 tvg-ID="discoverychannel.it" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",Discovery Channel 
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80511
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",Discovery Science
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80512
 
-#EXTINF:-1 tvg-ID="Discovery HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/640px-HGTV_logo.svg.png" group-title="Dokumentare",Discovery HGTV
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/74171
+
 #EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="UK: Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",UK: Discovery
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/1638
 #EXTINF:-1 tvg-ID="" tvg-name="UK: Discovery Science  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",UK: Discovery Science
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/74156
 #EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="UK: Nat Geo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",UK: Nat Geographic
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/1293
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/176375
 #EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="UK: Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",UK: Nat Geo Wild
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/1302
 #EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://www.albepg.com/tvlogi/Animal%20Planet.png"  group-title="Dokumentare",Animal Planet
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/29793
-
-#EXTINF:-1 tvg-ID="discoverychannel.us" tvg-name="VIP US: DISCOVERY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",US: DISCOVERY CHANNEL HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/10761
-#EXTINF:-1 tvg-ID="natgeo.us" tvg-name="VIP US: NAT GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",US: NAT Geographic HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/10759
-#EXTINF:-1 tvg-ID="natgeowild.us" tvg-name="VIP US: Nat Geo Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="Dokumentare",US: Nat Geo Wild HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/22874
 
 
 
@@ -501,6 +491,8 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/22874
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/224
 #EXTINF:-1 tvg-id="SuperSport 2.al" tvg-name="SuperSport 2" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/223
+#EXTINF:-1 tvg-id="SuperSport 2.al" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2 FHD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/225
 #EXTINF:-1 tvg-id="SuperSport 3.al" tvg-name="SuperSport 3" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203%20HD.png"  group-title="Sport ALB-ITA",Super Sport 3
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/222
 #EXTINF:-1 tvg-id="SuperSport 4.al" tvg-name="SuperSport 4" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204%20HD.png"  group-title="Sport ALB-ITA",Super Sport 4
@@ -545,8 +537,6 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2114
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2113
 #EXTINF:-1 tvg-id="[KS]Kujtesa Sport 4.al"  tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png"  group-title="Sport ALB-ITA",KSport 4
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2112
-#EXTINF:-1 tvg-id="[KS]Kujtesa Sport 5" tvg-name="Kujtesa Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_K_Sport.jpg"  group-title="Sport ALB-ITA",KSport 5
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/
 
 
 #EXTINF:-1 tvg-id="SuperSport 1.al" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News HD
@@ -562,10 +552,6 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80232
 #EXTINF:-1 tvg-id="SuperSport 6.al" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6 HD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80233
 
-#EXTINF:-1 tvg-id="SuperSport 1.al" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News FHD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/226
-#EXTINF:-1 tvg-id="SuperSport 2.al" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202%20HD.png"  group-title="Sport ALB-ITA",Super Sport 2 FHD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/225
 
 #EXTINF:-1 tvg-ID="NULL" tvg-name="AL: Fight Box" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Sport ALB-ITA",Fight Box
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/29821
@@ -604,7 +590,7 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80521
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/5675
 #EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1200px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="Sport ALB-ITA",Sky Sport MOTO GP HD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80532
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sky_Sport_NBA_-_Logo_2018.svg/1280px-Sky_Sport_NBA_-_Logo_2018.svg.png" group-title="Sport ALB-ITA",Sky Sport NBA
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NBA_script.svg/500px-NBA_script.svg.png" group-title="Sport ALB-ITA",Sky Sport NBA
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80518
 #EXTINF:-1 tvg-id="eurosport.it" tvg-name="EUROSPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png" group-title="Sport ALB-ITA",Euro Sport 1 
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80491
