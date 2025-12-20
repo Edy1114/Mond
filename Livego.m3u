@@ -24,12 +24,17 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/1077
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/7926
 #EXTINF:-1 tvg-id="News 24.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24 HD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/26562
-
 #EXTINF:-1 tvg-id="News 24.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Top News.al" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/26561
+
+#EXTINF:-1 tvg-id="Big Brother VIP Albania 1" tvg-name="BigBrother 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png/440px-Logo_of_the_Big_Brother_VIP_Kosova.png"  group-title="Shqiptare",Big Brother VIP Albania 1
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/190359
+#EXTINF:-1 tvg-id="Big Brother VIP Albania 2" tvg-name="BigBrother 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png/440px-Logo_of_the_Big_Brother_VIP_Kosova.png"  group-title="Shqiptare",Big Brother VIP Albania 2
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/190360
+
+
 #EXTINF:-1 tvg-id="Alsat M.al" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",AlSat
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/1082
 #EXTINF:-1 tvg-id="Kanal D.al" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png"  group-title="Shqiptare",KanalD Drama
@@ -1535,6 +1540,7 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80466
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80467
 #EXTINF:-1 tvg-ID="" tvg-name="K2" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k2_it.png" group-title="Femije",K2 FHD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80463
+
 
 
 
