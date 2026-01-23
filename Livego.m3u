@@ -18,25 +18,32 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/26566
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/29797
 #EXTINF:-1 tvg-name="Klan Kosova.al" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png"  group-title="Shqiptare",Klan Kosova
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/1078
-#EXTINF:-1 tvg-id="KTV.al" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",KTV
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/1077
 #EXTINF:-1 tvg-id="Syri TV.al" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/7926
-#EXTINF:-1 tvg-id="News 24.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/26562
-#EXTINF:-1 tvg-id="News 24.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Top News.al" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/26561
+#EXTINF:-1 tvg-id="News 24.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24 
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/26562
 
-#EXTINF:-1 tvg-id="Big Brother VIP Albania 1" tvg-name="BigBrother 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png/440px-Logo_of_the_Big_Brother_VIP_Kosova.png"  group-title="Shqiptare",Big Brother VIP Albania 1
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/190359
-#EXTINF:-1 tvg-id="Big Brother VIP Albania 2" tvg-name="BigBrother 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Logo_of_the_Big_Brother_VIP_Kosova.png/440px-Logo_of_the_Big_Brother_VIP_Kosova.png"  group-title="Shqiptare",Big Brother VIP Albania 2
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/190360
+#EXTINF:-1 tvg-id="Vizion Plus.al" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus HD
+https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
+#EXTINF:-1 tvg-id="ABC News Albania.al" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News HD
+https://euc12.playlist.ttvnw.net/v1/playlist/Cp8GT_a_xRImsm13l-KmBconTI15mlF9w5iB5cfRDJ4u5adtMN5lWHbuXrkXp4cAMewG-xVyJHv1Ja_BmDixYHiWnDGnpRsdK_Lp_-nqKI5fpDKXWq097IYiDkYs24VvFp8-XHbGQ_uYN-A58b8sMiPhwqyuz9hkGjVtADEYlbzwsovu07Ko4g6Lu1F-2o8oZvEq9Za5ruqyeZb9KIP7bpOJY-8hYbsBikvcrXFwJDR7AgER2NSGC7mjijMsJ4Z0LlrLK8drq3BqvtiJlCH0JKM4IZoxv__z9u32c5eh1F3KGR-BlWmdTOvw5FjgJfYFTZsXHgz1PyTuRsTzOQKeA6hUEtWxG2iMs8v1JgpOL-pIdNgQ5vowKnPTUpp6Hky0hzsHPRdK57RPkmfPK4fjMil4SB4L-WWr4BuCmeygGW5gEGEo1CVwa5mhn-zaBhh2cCao1ho-0H7NFkbhxcJE3DvoxG9Q70gjdTyNFrrkd8fSHSVIHrlEJgPWL-3Z21JHHW-8zgG8ed_TOY-5hxAAfC3voJlxrumKyzvo3GH36ZsolOdyQ6H8VTHz2aAhAMv105RkgOhDgud6L_57X6mJGlJyMdJL4zYTnpqOYcZIsNqBPGqKAfom4w59jtNja_ZTM8sajunUFgT3fL4RonAnZEGwpd5O7Hse8UjilKq509sRQGpvVgAMCLy0X2IamKnzn-mMCaIrbeSFAf92R92bmAolkhkijLBpxFHxMAfVCKFzZx4I7git0WBhe7OSgzfJPcbWKM7Jagchxs5f-MDj9aF8vOkSJiy9uWO4SXcvS21t7NimbSA1pfZcU3hOhF_sK4KTB75jHBEF5Bf1_HWanktxisV0VSpTWPUXn0uYCy0dklWNQOZX5rIqVpIY2xGDzJYi4ztStxhAgENm4bktm49abU0_YQ6eqnPVeKlNHv0ig1Ujaq8fznqlm67nplj-cFOIvC_4LEQcc8XKOJADMOCMkqsG7I5cduDCsyJrwFohjiIYRRE7G-KGpfbWMX7-OEDKqw-AoWigICBkCSR2LKWzNXxt1nJh8ACvUNd4VcsJIRoMGjZ6nej2lFA_CeZUIAEqCWV1LXdlc3QtMjCiDg.m3u8
+#EXTINF:-1 tvg-id="Syri TV.al" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV HD
+https://stream.syritv.al/live/syritv/playlist.m3u8
+#EXTINF:-1 tvg-id="News 24.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24 HD
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Ora News.al" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",ORA News HD
+https://live1.mediadesk.al/oranews.php
+#EXTINF:-1 tvg-id="Top News.al" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News HD
+https://usher.ttvnw.net/api/channel/hls/topmedia_topnews.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMzEzZWMwNjMtOTdhNy00MzZhLWI3Y2QtZTA1NmE4MTU4NzQ1In0%3D&allow_source=true&browser_family=chrome&browser_version=144.0&cdm=wv&device_manufacturer=Samsung&device_model=SM-S721U1&enable_score=true&fast_bread=true&include_unavailable=true&multigroup_video=false&os_name=Android&os_version=16&p=3074900&parent_domains=twitchplayer&platform=androidtv_web_tv&play_session_id=2a56ff5e11334b4f9804c28c71e348e5&player_backend=mediaplayer&player_version=1.49.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=9844d7628b11d9075794849bd3eecdeb6d5258b5&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22topmedia_topnews%22%2C%22channel_id%22%3A216850353%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22f69e5b8f6dda9001%22%2C%22expires%22%3A1769210846%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22141.98.141.228%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_GEO%22%2C%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_GEO%22%2C%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
+
 
 
 #EXTINF:-1 tvg-id="Alsat M.al" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",AlSat
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/1082
+#EXTINF:-1 tvg-id="KTV.al" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",KTV
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/1077
 #EXTINF:-1 tvg-id="Kanal D.al" tvg-logo="http://www.albepg.com/tvlogi/KanalD%20Drama.png"  group-title="Shqiptare",KanalD Drama
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/1143
 #EXTINF:-1 tvg-id="My Music.al" tvg-logo="http://www.albepg.com/tvlogi/My%20Music.png"  group-title="Shqiptare",My Music
@@ -503,14 +510,19 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80232
 #EXTINF:-1 tvg-id="SuperSport 6.al" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6 HD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80233
 
-#EXTINF:-1 tvg-id="AL: Tring Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 1
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/166121
-#EXTINF:-1 tvg-id="AL: Tring Sport 2" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 2
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/166120
-#EXTINF:-1 tvg-id="AL: Tring Sport 3" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 3
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/166119
-#EXTINF:-1 tvg-id="AL: Tring Sport 4" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 4
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/166118
+
+#EXTINF:-1 tvg-id="Tring Sport News.al" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="Sport ALB-ITA" ,Tring Sport News HD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/212
+#EXTINF:-1 tvg-id="AL: Tring Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="Sport ALB-ITA",Tring Sport HD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/213
+#EXTINF:-1 tvg-id="AL: Tring Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 1 FHD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2156
+#EXTINF:-1 tvg-id="AL: Tring Sport 2" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 2 HD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2155
+#EXTINF:-1 tvg-id="AL: Tring Sport 3" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 3 HD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2154
+#EXTINF:-1 tvg-id="AL: Tring Sport 4" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 4 HD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2153
 
 
 #EXTINF:-1 tvg-id="SuperSport 1.al" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201%20HD.png"  group-title="Sport ALB-ITA",SuperSport News
@@ -528,18 +540,16 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/19809
 #EXTINF:-1 tvg-id="SuperSport 6.al" tvg-name="SuperSport 6" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png"  group-title="Sport ALB-ITA",Super Sport 6
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/19810
 
-#EXTINF:-1 tvg-id="Tring Sport News.al" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="Sport ALB-ITA" ,Tring Sport News HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/212
-#EXTINF:-1 tvg-id="AL: Tring Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="Sport ALB-ITA",Tring Sport HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/213
-#EXTINF:-1 tvg-id="AL: Tring Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 1 FHD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2156
-#EXTINF:-1 tvg-id="AL: Tring Sport 2" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 2 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2155
-#EXTINF:-1 tvg-id="AL: Tring Sport 3" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 3 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2154
-#EXTINF:-1 tvg-id="AL: Tring Sport 4" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 4 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2153
+
+#EXTINF:-1 tvg-id="AL: Tring Sport 1" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 1
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/166121
+#EXTINF:-1 tvg-id="AL: Tring Sport 2" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 2
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/166120
+#EXTINF:-1 tvg-id="AL: Tring Sport 3" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 3
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/166119
+#EXTINF:-1 tvg-id="AL: Tring Sport 4" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png"  group-title="Sport ALB-ITA",Tring Sport 4
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/166118
+
 
 #EXTINF:-1 tvg-id="AL: Art Sport 1 FHD" tvg-name="ART Sport 1.al" tvg-logo="http://www.albepg.com/tvlogi/Art%20Sport%201.png"  group-title="Sport ALB-ITA",Art Sport 1
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/29801
@@ -1145,29 +1155,6 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/16052
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/16057
 
 
-#EXTINF:-1 tvg-ID="foxsports1.nl" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sport MIX",NL: Fox Sports 1
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/482
-#EXTINF:-1 tvg-ID="foxsports2.nl" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sport MIX",NL: Fox Sports 2
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/483
-#EXTINF:-1 tvg-ID="foxsports3.nl" tvg-name="Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sport MIX",NL: Fox Sports 3
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/484
-#EXTINF:-1 tvg-ID="foxsports4.nl" tvg-name="Fox Sports 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sport MIX",NL: Fox Sports 4
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/485
-#EXTINF:-1 tvg-ID="foxsports5.nl" tvg-name="Fox Sports 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sport MIX",NL: Fox Sports 5
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/486
-#EXTINF:-1 tvg-ID="foxsports6.nl" tvg-name="Fox Sports 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Sport MIX",NL: Fox Sports 6 
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/1144
-
-#EXTINF:-1 tvg-ID="ziggosportvoetbal.nl" tvg-name="Ziggo Sport Voetbal FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Sport MIX",NL: Ziggo Sport Voetbal 
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/9765
-#EXTINF:-1 tvg-ID="ziggosportvoetbal.nl" tvg-name="Ziggo Sport Voetbal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="Sport MIX",NL: Ziggo Sport Voetbal
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/896
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Blue Sport 1 FHD" tvg-logo="https://goaliepro.com/wordpress/wp-content/uploads/2019/11/BlueSportsLogoHD-300x92.png" group-title="Sport MIX",SW: Blue Sport 1 FHD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/9172
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Blue Sport 2 FHD" tvg-logo="https://goaliepro.com/wordpress/wp-content/uploads/2019/11/BlueSportsLogoHD-300x92.png" group-title="Sport MIX",SW: Blue Sport 2 FHD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/9171
-
 
 #EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="Eleven Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport MIX",PT: Eleven Sport 1
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/30987
@@ -1207,41 +1194,26 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/8345
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/15994
 
 
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Digi Sport 1" tvg-logo="https://www.lyngsat.com/logo/corp/dd/digi_tv_ro.png" group-title="Sport MIX",RO: Digi Sport 1
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2901
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Digi Sport 2" tvg-logo="https://www.lyngsat.com/logo/corp/dd/digi_tv_ro.png" group-title="Sport MIX",RO: Digi Sport 2
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2902
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Digi Sport 3" tvg-logo="https://www.lyngsat.com/logo/corp/dd/digi_tv_ro.png" group-title="Sport MIX",RO: Digi Sport 3
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2903
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Digi Sport 4" tvg-logo="https://www.lyngsat.com/logo/corp/dd/digi_tv_ro.png" group-title="Sport MIX",RO: Digi Sport 4
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2904
-
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport Premium 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",Arena Sport Premium 1 HD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/194361
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport Premium 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",Arena Sport Premium 2 HD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/194362
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport Premium 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",Arena Sport Premium 3 HD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/194524
 
 #EXTINF:-1 tvg-ID="arenasport1.hr" tvg-name="Arena Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",CRO: Arena Sport 1 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2505
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/31094
 #EXTINF:-1 tvg-ID="arenasport2.hr" tvg-name="Arena Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",CRO: Arena Sport 2 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2503
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/31094
 #EXTINF:-1 tvg-ID="arenasport3.hr" tvg-name="Arena Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",CRO: Arena Sport 3 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2501
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/31095
 #EXTINF:-1 tvg-ID="arenasport4.hr" tvg-name="Arena Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",CRO: Arena Sport 4 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2499
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/31096
 #EXTINF:-1 tvg-ID="arenasport5.hr" tvg-name="Arena Sport 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",CRO: Arena Sport 5 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2497
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/31097
 #EXTINF:-1 tvg-ID="arenasport6.hr" tvg-name="Arena Sport 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",CRO: Arena Sport 6 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/13586
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/76114
 
-
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="SPORT KLUB 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport MIX",RS: SPORT KLUB 1 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/7735
-#EXTINF:-1 tvg-ID="NULL" tvg-name="SPORT KLUB 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport MIX",RS: SPORT KLUB 2 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/7734
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport MIX",RS: SPORT KLUB 3 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/7733
-#EXTINF:-1 tvg-ID="NULL" tvg-name="SPORT KLUB 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport MIX",RS: SPORT KLUB 4 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/23610
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT KLUB 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport MIX",RS: SPORT KLUB 5 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/23609
 
 
 
@@ -1257,46 +1229,24 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/6497
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/6498
 
 
-#EXTINF:-1 tvg-ID="arenasport1.rs" tvg-name="Arena Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",RS: Arena Sport 1 HD
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport Premium 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",Arena Sport Premium 1 HD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/88357
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport Premium 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",Arena Sport Premium 2 HD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/88358
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport Premium 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",Arena Sport Premium 3 HD
+http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/88359
+
+
+#EXTINF:-1 tvg-ID="arenasport1.rs" tvg-name="Arena Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",Arena Sport 1 HD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2504
-#EXTINF:-1 tvg-ID="arenasport2.rs" tvg-name="Arena Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",RS: Arena Sport 2 HD
+#EXTINF:-1 tvg-ID="arenasport2.rs" tvg-name="Arena Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",Arena Sport 2 HD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2502
-#EXTINF:-1 tvg-ID="arenasport3.rs" tvg-name="Arena Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",RS: Arena Sport 3 HD
+#EXTINF:-1 tvg-ID="arenasport3.rs" tvg-name="Arena Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",Arena Sport 3 HD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2500
-#EXTINF:-1 tvg-ID="arenasport4.rs" tvg-name="Arena Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",RS: Arena Sport 4 HD
+#EXTINF:-1 tvg-ID="arenasport4.rs" tvg-name="Arena Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",Arena Sport 4 HD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2498
-#EXTINF:-1 tvg-ID="NULL" tvg-name="Arena Sport 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",RS: Arena Sport 5 HD
+#EXTINF:-1 tvg-ID="NULL" tvg-name="Arena Sport 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Arena_sport_logo.png" group-title="Sport MIX",Arena Sport 5 HD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/13590
-
-
-#EXTINF:-1 tvg-ID="sportklub1.hr" tvg-name="SPORT KLUB 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport MIX",CRO: SPORT KLUB 1 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2494
-#EXTINF:-1 tvg-ID="sportklub2.hr" tvg-name="SPORT KLUB 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport MIX",CRO: SPORT KLUB 2 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2493
-#EXTINF:-1 tvg-ID="sportklub3.hr" tvg-name="SPORT KLUB 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport MIX",CRO: SPORT KLUB 3 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/2492
-#EXTINF:-1 tvg-ID="sportklub4.hr" tvg-name="SPORT KLUB 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport MIX",CRO: SPORT KLUB 4 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/5345
-#EXTINF:-1 tvg-ID="sportklub5.hr" tvg-name="SPORT KLUB 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport MIX",CRO: SPORT KLUB 5 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/5344
-#EXTINF:-1 tvg-ID="sportklub6.hr" tvg-name="SPORT KLUB 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sportklub_logo.png" group-title="Sport MIX",CRO: SPORT KLUB 6 HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/5343
-
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MYSports 1HD" tvg-logo="https://www.seekpng.com/png/full/849-8493160_mysports-switzerland-logo.png" group-title="Sport MIX",SW: MYSports 1HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/16923
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MYSports 2HD" tvg-logo="https://www.seekpng.com/png/full/849-8493160_mysports-switzerland-logo.png" group-title="Sport MIX",SW: MYSports 2HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/15334
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MYSports 3HD" tvg-logo="https://www.seekpng.com/png/full/849-8493160_mysports-switzerland-logo.png" group-title="Sport MIX",SW: MYSports 3HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/15335
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MYSports 4HD" tvg-logo="https://www.seekpng.com/png/full/849-8493160_mysports-switzerland-logo.png" group-title="Sport MIX",SW: MYSports 4HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/15336
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MYSports 5HD" tvg-logo="https://www.seekpng.com/png/full/849-8493160_mysports-switzerland-logo.png" group-title="Sport MIX",SW: MYSports 5HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/15337
-#EXTINF:-1 tvg-ID="NULL" tvg-name="MYSports 6HD" tvg-logo="https://www.seekpng.com/png/full/849-8493160_mysports-switzerland-logo.png" group-title="Sport MIX",SW: MYSports 6HD
-http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/15338
-
-
-
 
 
 
@@ -1540,7 +1490,6 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80466
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80467
 #EXTINF:-1 tvg-ID="" tvg-name="K2" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k2_it.png" group-title="Femije",K2 FHD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80463
-
 
 
 
