@@ -27,16 +27,14 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/26562
 
 #EXTINF:-1 tvg-id="Vizion Plus.al" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png"  group-title="Shqiptare",Vizion Plus HD
 https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
-#EXTINF:-1 tvg-id="ABC News Albania.al" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News HD
-https://euc12.playlist.ttvnw.net/v1/playlist/Cp8GT_a_xRImsm13l-KmBconTI15mlF9w5iB5cfRDJ4u5adtMN5lWHbuXrkXp4cAMewG-xVyJHv1Ja_BmDixYHiWnDGnpRsdK_Lp_-nqKI5fpDKXWq097IYiDkYs24VvFp8-XHbGQ_uYN-A58b8sMiPhwqyuz9hkGjVtADEYlbzwsovu07Ko4g6Lu1F-2o8oZvEq9Za5ruqyeZb9KIP7bpOJY-8hYbsBikvcrXFwJDR7AgER2NSGC7mjijMsJ4Z0LlrLK8drq3BqvtiJlCH0JKM4IZoxv__z9u32c5eh1F3KGR-BlWmdTOvw5FjgJfYFTZsXHgz1PyTuRsTzOQKeA6hUEtWxG2iMs8v1JgpOL-pIdNgQ5vowKnPTUpp6Hky0hzsHPRdK57RPkmfPK4fjMil4SB4L-WWr4BuCmeygGW5gEGEo1CVwa5mhn-zaBhh2cCao1ho-0H7NFkbhxcJE3DvoxG9Q70gjdTyNFrrkd8fSHSVIHrlEJgPWL-3Z21JHHW-8zgG8ed_TOY-5hxAAfC3voJlxrumKyzvo3GH36ZsolOdyQ6H8VTHz2aAhAMv105RkgOhDgud6L_57X6mJGlJyMdJL4zYTnpqOYcZIsNqBPGqKAfom4w59jtNja_ZTM8sajunUFgT3fL4RonAnZEGwpd5O7Hse8UjilKq509sRQGpvVgAMCLy0X2IamKnzn-mMCaIrbeSFAf92R92bmAolkhkijLBpxFHxMAfVCKFzZx4I7git0WBhe7OSgzfJPcbWKM7Jagchxs5f-MDj9aF8vOkSJiy9uWO4SXcvS21t7NimbSA1pfZcU3hOhF_sK4KTB75jHBEF5Bf1_HWanktxisV0VSpTWPUXn0uYCy0dklWNQOZX5rIqVpIY2xGDzJYi4ztStxhAgENm4bktm49abU0_YQ6eqnPVeKlNHv0ig1Ujaq8fznqlm67nplj-cFOIvC_4LEQcc8XKOJADMOCMkqsG7I5cduDCsyJrwFohjiIYRRE7G-KGpfbWMX7-OEDKqw-AoWigICBkCSR2LKWzNXxt1nJh8ACvUNd4VcsJIRoMGjZ6nej2lFA_CeZUIAEqCWV1LXdlc3QtMjCiDg.m3u8
 #EXTINF:-1 tvg-id="Syri TV.al" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV HD
 https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1 tvg-id="News 24.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24 HD
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Report TV.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",Report TV
+#EXTINF:-1 tvg-id="Report TV.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",Report TV HD
 https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Ora News.al" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",ORA News HD
-https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="ABC News Albania.al" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News HD
+https://euc12.playlist.ttvnw.net/v1/playlist/Cp8GT_a_xRImsm13l-KmBconTI15mlF9w5iB5cfRDJ4u5adtMN5lWHbuXrkXp4cAMewG-xVyJHv1Ja_BmDixYHiWnDGnpRsdK_Lp_-nqKI5fpDKXWq097IYiDkYs24VvFp8-XHbGQ_uYN-A58b8sMiPhwqyuz9hkGjVtADEYlbzwsovu07Ko4g6Lu1F-2o8oZvEq9Za5ruqyeZb9KIP7bpOJY-8hYbsBikvcrXFwJDR7AgER2NSGC7mjijMsJ4Z0LlrLK8drq3BqvtiJlCH0JKM4IZoxv__z9u32c5eh1F3KGR-BlWmdTOvw5FjgJfYFTZsXHgz1PyTuRsTzOQKeA6hUEtWxG2iMs8v1JgpOL-pIdNgQ5vowKnPTUpp6Hky0hzsHPRdK57RPkmfPK4fjMil4SB4L-WWr4BuCmeygGW5gEGEo1CVwa5mhn-zaBhh2cCao1ho-0H7NFkbhxcJE3DvoxG9Q70gjdTyNFrrkd8fSHSVIHrlEJgPWL-3Z21JHHW-8zgG8ed_TOY-5hxAAfC3voJlxrumKyzvo3GH36ZsolOdyQ6H8VTHz2aAhAMv105RkgOhDgud6L_57X6mJGlJyMdJL4zYTnpqOYcZIsNqBPGqKAfom4w59jtNja_ZTM8sajunUFgT3fL4RonAnZEGwpd5O7Hse8UjilKq509sRQGpvVgAMCLy0X2IamKnzn-mMCaIrbeSFAf92R92bmAolkhkijLBpxFHxMAfVCKFzZx4I7git0WBhe7OSgzfJPcbWKM7Jagchxs5f-MDj9aF8vOkSJiy9uWO4SXcvS21t7NimbSA1pfZcU3hOhF_sK4KTB75jHBEF5Bf1_HWanktxisV0VSpTWPUXn0uYCy0dklWNQOZX5rIqVpIY2xGDzJYi4ztStxhAgENm4bktm49abU0_YQ6eqnPVeKlNHv0ig1Ujaq8fznqlm67nplj-cFOIvC_4LEQcc8XKOJADMOCMkqsG7I5cduDCsyJrwFohjiIYRRE7G-KGpfbWMX7-OEDKqw-AoWigICBkCSR2LKWzNXxt1nJh8ACvUNd4VcsJIRoMGjZ6nej2lFA_CeZUIAEqCWV1LXdlc3QtMjCiDg.m3u8
 #EXTINF:-1 tvg-id="Top News.al" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News HD
 https://euc12.playlist.ttvnw.net/v1/playlist/CrAGiv5SlCJwb_qEOvAKsUlzQ0_fEou25liIcusWXiLUGpyMF5-B2k-HwilGvYbfvwTNE4j0sT9JyqNVpqeLMqrvgxc-FfQR2riuG04JiY0iwg4AnwJ3ujHHPH7DC4w-wSjC9IIi2x9UBfM5ada5l_d-26zAdrBfPC7pJV9sDT7QmkjPvPeny1C_8CmOTJDEKVYvEEMa37I83iBqptJTlby_OYMNl5a5uCERBHub5K5j-2BVAzjX1sJSMNL7fpGJjwMnOdQU5-RtkibL_NGvjBOAuMlj-AddDfRbRAGd5iMt402bll3AwkM5hi7IDCQy6Eg4D6-75jZw7OfGC0irCgfHwq7QNrEPmVAF9pUywb5ztGEZuRJ9w8uBGxb5uxfDk6t7tvfHPNuatOO3yCmOfFlcYfc2rwWpr8NQ3R1K-_PD93eUclGKOy0erhVoRgop0sAYHLoeM8UzH23tyS4uWSuyh2oyXXGZUZ54xKQTpCOjF3_AhJfQjqS4h1tW3daPGRA9OV372fdoXKNv02uL7lXBsH83HNALgcbwvPbuIGmdLM2dw3ANEnQUeYWJ3eZj76cLkc6002gOyYveDoyPINtOaB_fUY3jz3DBN8Wnnn-EPUViuMQpfSJ3AERuOorD_ZFvE5HAY6l9kEWB2z7LeIjwQmQg-WQuCFfbmCN6UXrPaDIhfFs7eqo_OaOng33sYMEL4R7c7b4hKOBY-6qoA1CwvXoLU41p5dWqwmXqxYIQZwqQDE-DSfgs4Wuow2boEBzEIR1wdl6sva-opvXjzT5QsKJeP3ztPKZgu89xAAxe3o2uDx6FPDPsD8v54vW8fa79OlWE3FI05msTtXtJjCGsSCRoJQ4-7mBzVX6mbmXHpx51QwiRSMefv-6cH3PfxqO41957ZS80bEBByDnPHqNq4U7TluJmlhc7DcEfu8NWwAH_OsgVtnZuZZUAYD9r0gLAgzL9KFjtYTj12WYMVa7xRWEUHDedg26jkk8lWyZaV_4Zs0moUQQa4uY8wvPQ6Vo4jsrYBfsBVcismeDPAHY08D46-VQqECyZnLJnw3guAtLA_n5qbbfXHGlMaQWut7lRGgzCUNTkH1uJXQNMKlMgASoJZXUtd2VzdC0yMKIO.m3u8
 
@@ -278,21 +276,6 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/146435
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/146436
 
 
-#EXTINF:-1 tvg-id="Rai 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1 HD
-https://rai.zappr.stream/rai1.m3u8
-#EXTINF:-1 tvg-id="Rai 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2 HD
-https://rai.zappr.stream/rai2.m3u8
-#EXTINF:-1 tvg-id="Rai 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rai_3_HD_Logo.svg/320px-Rai_3_HD_Logo.svg.png"  group-title="Italiane",Rai 3 HD
-https://rai.zappr.stream/rai3.m3u8
-#EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/520px-Logo_Italia_1.svg.png"  group-title="Italiane",Italia 1 HD
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
-#EXTINF:-1 tvg-id="Rete 4" tvg-name="Rete 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/244px-Rete_4_-_Logo_2018.svg.png"  group-title="Italiane",Rete 4 HD
-https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5MjU3NzExIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9yZXRlNC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI3NGQ0NjljNWU3Yzg2NDYzIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOSIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbNDhdfQ==.stDUO6M8XcDtZJBuJRykAh0ALZvO_htMfYvbzzWCPR8TFiweqhHGm1lHJz9uaDRz3RkNSHoLd73DlpFuQ0U_aA==/live/eds/rete4/browser-HLS8/rete4.m3u8
-#EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/520px-Canale_5_-_2018_logo.svg.png"  group-title="Italiane",Canale 5 HD
-https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5MjU3OTA0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jYW5hbGU1L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6ImRhN2M3ZTBiNTZkMTI4OTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOlsxMDBdfQ==.wq0ov6bY5d2wrsrFmPjFwjvU-pHFK9waOtpvJ50muQ5KpmuTHkwlDpTUbyDwcfaI0fFfpbgrvB1iLPYDbzlUQA==/live/eds/canale5/browser-HLS8/canale5.m3u8
-
-
-
 #EXTINF:-1 tvg-id="Rai 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/50162
 #EXTINF:-1 tvg-id="Rai 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2
@@ -485,7 +468,7 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80503
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80501
 #EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/800px-Nove_-_Logo_2017.svg.png" group-title="Dokumentare",NOVE 
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80500
-#EXTINF:-1 tvg-id="Giallo.it" tvg-name="GIALLO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Giallohd.png/800px-Giallohd.png" group-title="Dokumentare",GIALLO HD
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="GIALLO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Giallohd.png/800px-Giallohd.png" group-title="Dokumentare",GIALLO
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80505
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="cielo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cielo_TV_logo_2013.svg/320px-Cielo_TV_logo_2013.svg.png" group-title="Dokumentare",Cielo
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80449
@@ -1493,22 +1476,18 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/29844
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/82687
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Femije",Cartoon Network FHD
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="Femije",Cartoon Network
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80486
 #EXTINF:-1 tvg-ID="" tvg-name="Cartoonito FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/640px-Cartoonito_-_Logo_2021.svg.png" group-title="Femije",Cartoonito FHD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80462
 #EXTINF:-1 tvg-ID="Boing" tvg-name="Boing" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boing-italia-it.png" group-title="Femije",Boing FHD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80461
-#EXTINF:-1 tvg-ID="" tvg-name="Rai Gulp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rai_Gulp_HD_-_Logo_2017.svg/320px-Rai_Gulp_HD_-_Logo_2017.svg.png" group-title="Femije",Rai Gulp FHD
+#EXTINF:-1 tvg-ID="" tvg-name="Rai Gulp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rai_Gulp_HD_-_Logo_2017.svg/320px-Rai_Gulp_HD_-_Logo_2017.svg.png" group-title="Femije",Rai Gulp 
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80466
-#EXTINF:-1 tvg-ID="" tvg-name="Rai Yoyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/320px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="Femije",Rai YoYo FHD
+#EXTINF:-1 tvg-ID="" tvg-name="Rai Yoyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/320px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="Femije",Rai YoYo 
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80467
-#EXTINF:-1 tvg-ID="" tvg-name="K2" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k2_it.png" group-title="Femije",K2 FHD
+#EXTINF:-1 tvg-ID="" tvg-name="K2" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k2_it.png" group-title="Femije",K2
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80463
-
-
-
-
 
 
 
