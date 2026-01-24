@@ -33,6 +33,8 @@ https://euc12.playlist.ttvnw.net/v1/playlist/Cp8GT_a_xRImsm13l-KmBconTI15mlF9w5i
 https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1 tvg-id="News 24.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24 HD
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Report TV.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Ora News.al" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",ORA News HD
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1 tvg-id="Top News.al" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News HD
@@ -1505,6 +1507,7 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80466
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80467
 #EXTINF:-1 tvg-ID="" tvg-name="K2" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k2_it.png" group-title="Femije",K2 FHD
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80463
+
 
 
 
