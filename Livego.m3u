@@ -31,7 +31,7 @@ https://tringliveviz.akamaized.net/delta/105/out/u/1220_1.m3u8
 https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1 tvg-id="News 24.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",News 24 HD
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Report TV.al" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png"  group-title="Shqiptare",Report TV HD
+#EXTINF:-1 tvg-id="Report TV.al" tvg-logo="https://albania.mom-gmr.org/uploads/_processed_/a/1/csm_8026-1206_import_ebb11358d0.png"  group-title="Shqiptare",Report TV HD
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ABC News Albania.al" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png"  group-title="Shqiptare",ABC News HD
 https://euc12.playlist.ttvnw.net/v1/playlist/Cp8GT_a_xRImsm13l-KmBconTI15mlF9w5iB5cfRDJ4u5adtMN5lWHbuXrkXp4cAMewG-xVyJHv1Ja_BmDixYHiWnDGnpRsdK_Lp_-nqKI5fpDKXWq097IYiDkYs24VvFp8-XHbGQ_uYN-A58b8sMiPhwqyuz9hkGjVtADEYlbzwsovu07Ko4g6Lu1F-2o8oZvEq9Za5ruqyeZb9KIP7bpOJY-8hYbsBikvcrXFwJDR7AgER2NSGC7mjijMsJ4Z0LlrLK8drq3BqvtiJlCH0JKM4IZoxv__z9u32c5eh1F3KGR-BlWmdTOvw5FjgJfYFTZsXHgz1PyTuRsTzOQKeA6hUEtWxG2iMs8v1JgpOL-pIdNgQ5vowKnPTUpp6Hky0hzsHPRdK57RPkmfPK4fjMil4SB4L-WWr4BuCmeygGW5gEGEo1CVwa5mhn-zaBhh2cCao1ho-0H7NFkbhxcJE3DvoxG9Q70gjdTyNFrrkd8fSHSVIHrlEJgPWL-3Z21JHHW-8zgG8ed_TOY-5hxAAfC3voJlxrumKyzvo3GH36ZsolOdyQ6H8VTHz2aAhAMv105RkgOhDgud6L_57X6mJGlJyMdJL4zYTnpqOYcZIsNqBPGqKAfom4w59jtNja_ZTM8sajunUFgT3fL4RonAnZEGwpd5O7Hse8UjilKq509sRQGpvVgAMCLy0X2IamKnzn-mMCaIrbeSFAf92R92bmAolkhkijLBpxFHxMAfVCKFzZx4I7git0WBhe7OSgzfJPcbWKM7Jagchxs5f-MDj9aF8vOkSJiy9uWO4SXcvS21t7NimbSA1pfZcU3hOhF_sK4KTB75jHBEF5Bf1_HWanktxisV0VSpTWPUXn0uYCy0dklWNQOZX5rIqVpIY2xGDzJYi4ztStxhAgENm4bktm49abU0_YQ6eqnPVeKlNHv0ig1Ujaq8fznqlm67nplj-cFOIvC_4LEQcc8XKOJADMOCMkqsG7I5cduDCsyJrwFohjiIYRRE7G-KGpfbWMX7-OEDKqw-AoWigICBkCSR2LKWzNXxt1nJh8ACvUNd4VcsJIRoMGjZ6nej2lFA_CeZUIAEqCWV1LXdlc3QtMjCiDg.m3u8
@@ -1529,6 +1529,7 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80466
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80467
 #EXTINF:-1 tvg-ID="" tvg-name="K2" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k2_it.png" group-title="Femije",K2
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80463
+
 
 
 
