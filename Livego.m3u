@@ -276,6 +276,47 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/146435
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/146436
 
 
+#EXTINF:-1 tvg-id="Rai 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1 HD
+https://rai.zappr.stream/rai1.m3u8
+#EXTINF:-1 tvg-id="Rai 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2 HD
+https://rai.zappr.stream/rai2.m3u8
+#EXTINF:-1 tvg-id="Rai 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rai_3_HD_Logo.svg/320px-Rai_3_HD_Logo.svg.png"  group-title="Italiane",Rai 3 HD
+https://rai.zappr.stream/rai3.m3u8
+#EXTINF:-1 tvg-id="Rai Storia" tvg-name="Rai Storia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/1000px-Rai_Storia_-_Logo_2017.svg.png" group-title="Italiane",Rai Storia HD
+https://rai.zappr.stream/raistoria.m3u8
+#EXTINF:-1 tvg-id="Rai Sport" tvg-name="Rai Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rai_Sport_-_Logo_2022.svg/320px-Rai_Sport_-_Logo_2022.svg.png" group-title="Italiane",Rai Sport HD
+https://rai.zappr.stream/raisport1.m3u8
+#EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/520px-Logo_Italia_1.svg.png"  group-title="Italiane",Italia 1 HD
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
+#EXTINF:-1 tvg-id="Rete 4" tvg-name="Rete 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/244px-Rete_4_-_Logo_2018.svg.png"  group-title="Italiane",Rete 4 HD
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+#EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/520px-Canale_5_-_2018_logo.svg.png"  group-title="Italiane",Canale 5 HD
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+
+
+#EXTINF:-1 tvg-id="NOVE.it" tvg-name="NOVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/800px-Nove_-_Logo_2017.svg.png" group-title="Dokumentare",NOVE HD
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png" group-title="Dokumentare",DMAX HD
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="cielo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cielo_TV_logo_2013.svg/320px-Cielo_TV_logo_2013.svg.png" group-title="Dokumentare",Cielo HD
+https://uvotv.zappr.stream/281.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HGTV_IT" tvg-logo=" " group-title="Femije",HGTV IT
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Real_Time_logo.svg/500px-Real_Time_logo.svg.png" group-title="Dokumentare",Real Time HD
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFood.it" tvg-name="Discovery Food" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png"  group-title="Dokumentare",Discovery Food Network HD
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/512px-DMAX_-_Logo_2016.svg.png" group-title="Dokumentare",DMAX HD
+https://d1941a53blim0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75c5ipmzpicfd/Discovery_IT.m3u8
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="GIALLO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Giallohd.png/800px-Giallohd.png" group-title="Dokumentare",Giallo HD
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="K2" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k2_it.png" group-title="Femije",K2 FHD
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Frisbee" tvg-logo=" " group-title="Femije",Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+
+
 #EXTINF:-1 tvg-id="Rai 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rai_1_HD_-_Logo_2016.svg/1280px-Rai_1_HD_-_Logo_2016.svg.png"  group-title="Italiane",Rai 1
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/50162
 #EXTINF:-1 tvg-id="Rai 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_Rai_2_HD.svg/1280px-Logo_Rai_2_HD.svg.png"  group-title="Italiane",Rai 2
@@ -1488,6 +1529,7 @@ http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80466
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80467
 #EXTINF:-1 tvg-ID="" tvg-name="K2" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k2_it.png" group-title="Femije",K2
 http://livego.club:8080/byR7WPRmSduz/cHDs7Cqxg8nE/80463
+
 
 
 
