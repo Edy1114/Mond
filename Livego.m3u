@@ -16,8 +16,6 @@ http://livego.club:8080/g7MFhaPBY3Jy/phZkmZUZgT2Htj/2106
 http://livego.club:8080/g7MFhaPBY3Jy/phZkmZUZgT2Htj/26566
 #EXTINF:-1 tvg-id="MCN TV.al" tvg-logo="http://www.mcntv.al/images/logo8.png"  group-title="Shqiptare",MCN TV
 http://livego.club:8080/g7MFhaPBY3Jy/phZkmZUZgT2Htj/29797
-#EXTINF:-1 tvg-name="Klan Kosova.al" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png"  group-title="Shqiptare",Klan Kosova
-http://livego.club:8080/g7MFhaPBY3Jy/phZkmZUZgT2Htj/1078
 #EXTINF:-1 tvg-id="Syri TV.al" tvg-logo="http://www.albepg.com/tvlogi/Syri%20TV.png"  group-title="Shqiptare",Syri TV
 http://livego.club:8080/g7MFhaPBY3Jy/phZkmZUZgT2Htj/7926
 #EXTINF:-1 tvg-id="Top News.al" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png"  group-title="Shqiptare",Top News
@@ -36,6 +34,8 @@ http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Ora News.al" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png"  group-title="Shqiptare",ORA News HD
 https://live1.mediadesk.al/oranews.m3u8
 
+#EXTINF:-1 tvg-name="Klan Kosova.al" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png"  group-title="Shqiptare",Klan Kosova
+http://livego.club:8080/g7MFhaPBY3Jy/phZkmZUZgT2Htj/1078
 #EXTINF:-1 tvg-id="Alsat M.al" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",AlSat
 http://livego.club:8080/g7MFhaPBY3Jy/phZkmZUZgT2Htj/1082
 #EXTINF:-1 tvg-id="KTV.al" tvg-logo="http://www.albepg.com/tvlogi/shqipiptv.png"  group-title="Shqiptare",KTV
